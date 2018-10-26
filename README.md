@@ -10,6 +10,7 @@ Code, papers, method about model compression. Welcome to add more.
 | Deep Learning with Low Precision by Half-wave Gaussian Quantization | Quantization      | https://github.com/zhaoweicai/hwgq                           | 2017  |
 | Performance Guaranteed Network Acceleration via High-Order Residual Quantization | Quantization      | None                                                         | 2017  |
 | From Hashing to CNNs: Training Binary Weight Networks via Hashing | Quantization      | None                                                         | 2017  |
+| INCREMENTAL NETWORK QUANTIZATION: TOWARDS LOSSLESS CNNS WITH LOW-PRECISION WEIGHTS | Quantization      | https://github.com/Zhouaojun/Incremental-Network-Quantization | 2017  |
 
 **参考**
 
