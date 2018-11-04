@@ -3,8 +3,6 @@
 
 Code, papers, method about model compression. Welcome to add more.
 
-
-
 | Paper                                                        | Tags               | Code Link                                                    | Years |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | ----- |
 | ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks | Quantization,FPGA  | https://github.com/Ewenwan/caffe-quant-shiftcnn              | 2017  |
@@ -22,7 +20,10 @@ Code, papers, method about model compression. Welcome to add more.
 | ---------------- | ------------ | ------------------------------------------------------------ | ---------------------------------------------------- |
 | PyTorch-Quant.py | Quantization | https://github.com/Ewenwan/pytorch-playground/blob/master/utee/quant.py | Different quantization methods implement by PyTorch. |
 
-
+| Doc                       | Tag                | Description          |
+| ------------------------- | ------------------ | -------------------- |
+| QuantizationMethods.md    | Quantization, Code | Quantization Methods |
+| Embedded Deep Learning.md | FPGA, Quantization | Run BNN in FPGA      |
 
 **Reference** 
 
