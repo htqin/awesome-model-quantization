@@ -14,6 +14,7 @@ Code, papers, method about model compression. Welcome to add more.
 | From Hashing to CNNs: Training Binary Weight Networks via Hashing | Quantization       | None                                                         | 2017  |
 | INCREMENTAL NETWORK QUANTIZATION: TOWARDS LOSSLESS CNNS WITH LOW-PRECISION WEIGHTS | Quantization       | https://github.com/Zhouaojun/Incremental-Network-Quantization | 2017  |
 | On-chip Memory Based Binarized Convolutional Deep Neural Network Applying Batch Normalization Free Technique on an FPGA | FPGA, Quanzitation | None                                                         | 2017  |
+| PACT: PARAMETERIZED CLIPPING ACTIVATION FOR QUANTIZED NEURAL NETWORKS | Quantization       | None                                                         | 2018  |
 
 
 | Code             | Tag          | From                                                         | Description                                          |
