@@ -34,3 +34,5 @@ Code, papers, method about model compression. Welcome to add more.
 [3] https://github.com/Ewenwan/pytorch-playground/blob/master/utee/quant.py
 
 [4] https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/quantization
+
+[5] https://mp.weixin.qq.com/s/RsZCTqCKwpnjATUFC8da7g
