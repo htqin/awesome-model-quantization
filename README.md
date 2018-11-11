@@ -15,6 +15,11 @@ Code, papers, method about model compression. Welcome to add more.
 | INCREMENTAL NETWORK QUANTIZATION: TOWARDS LOSSLESS CNNS WITH LOW-PRECISION WEIGHTS | Quantization | https://github.com/Zhouaojun/Incremental-Network-Quantization | 2017  |
 | On-chip Memory Based Binarized Convolutional Deep Neural Network Applying Batch Normalization Free Technique on an FPGA | FPGA         | None                                                         | 2017  |
 | PACT: PARAMETERIZED CLIPPING ACTIVATION FOR QUANTIZED NEURAL NETWORKS | Quantization | None                                                         | 2018  |
+| XNOR-Net- ImageNet Classification Using Binary Convolutional Neural Networks | Quantization | https://github.com/allenai/XNOR-Net                          | 2016  |
+| Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 | Quantization | https://github.com/itayhubara/BinaryNet                      | 2016  |
+| BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 | Quantization | https://github.com/MatthieuCourbariaux/BinaryNet             | 2016  |
+| BinaryConnect- Training Deep Neural Networks with binary weights during propagations | Quantization | https://github.com/MatthieuCourbariaux/BinaryConnect         | 2016  |
+| FP-BNN- Binarized neural network on FPGA                     | FPGA         | None                                                         | 2017  |
 
 
 | Code             | From                                                         | Description                                          |
