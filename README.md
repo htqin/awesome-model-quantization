@@ -20,6 +20,7 @@ Code, papers, method about model compression. Welcome to add more.
 | BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 | Quantization | https://github.com/MatthieuCourbariaux/BinaryNet             | 2016  |
 | BinaryConnect- Training Deep Neural Networks with binary weights during propagations | Quantization | https://github.com/MatthieuCourbariaux/BinaryConnect         | 2016  |
 | FP-BNN- Binarized neural network on FPGA                     | FPGA         | None                                                         | 2017  |
+| Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM | Quantization | http://web.stanford.edu/~boyd/admm.html                      | 2018  |
 
 
 | Code             | From                                                         | Description                                          |
