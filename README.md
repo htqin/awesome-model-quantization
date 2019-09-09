@@ -1,7 +1,8 @@
-# ModelCompression
+# Model Quantization
 
+A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.
 
-Code, papers, method about model compression. Welcome to add more.
+## Paper list
 
 | Paper                                                        | Tags         | Code Link                                                    | Years |
 | ------------------------------------------------------------ | :----------: | :----------------------------------------------------------: | :---: |
@@ -27,10 +28,14 @@ Code, papers, method about model compression. Welcome to add more.
 | Bitwise Neural Networks | Quantization | -- | 2015 |
 | BinaryConnect- Training Deep Neural Networks with binary weights during propagations | Quantization | [Link](https://github.com/MatthieuCourbariaux/BinaryConnect)         | 2015  |
 
+#### Related Codes
+
 | Code             | From                                                         | Description                                          |
 | ---------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| PyTorch-Quant.py | https://github.com/Ewenwan/pytorch-playground/blob/master/utee/quant.py | Different quantization methods implement by PyTorch. |
+| PyTorch-Quant.py | https://github.com/Ewenwan/pytorch-playground/blob/master/utee/quant.py | Different quantization methods implement by Pytorch. |
 | ZF-Net           | https://support.alpha-data.com/pub/appnotes/cnn/             | An Open Source FPGA CNN Library                      |
+
+#### Docs
 
 | Doc                                               | Description                                          |
 | ------------------------------------------------- | ---------------------------------------------------- |
@@ -39,7 +44,7 @@ Code, papers, method about model compression. Welcome to add more.
 | An Open Source FPGA CNN Library.pdf               | Code: ZF-Net, Doc of An Open Source FPGA CNN Library |
 | Accelerating CNN inference on FPGAs- A Survey.pdf | Accelerating CNN inference on FPGAs: A Survey.       |
 
-**Reference** 
+#### Reference
 
 [1] https://www.codercto.com/a/30037.html
 
