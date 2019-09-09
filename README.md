@@ -10,16 +10,16 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 
 ### 2018
 
-| Paper                                                        | Tags         | Code Link                                                    | Years |
-| ------------------------------------------------------------ | :----------: | :----------------------------------------------------------: | :---: |
-| Two-Step Quantization for Low-bit Neural Networks            | Quantization | --                                                      | 2018  |
-| Towards Fast and Energy-Efficient Binarized Neural Network Inference on FPGA | Hardware     | --                                                         | 2018  |
-| Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM | Quantization | [Link](http://web.stanford.edu/~boyd/admm.html)                      | 2018  |
-| PACT: PARAMETERIZED CLIPPING ACTIVATION FOR QUANTIZED NEURAL NETWORKS | Quantization | --                                                         | 2018  |
+| Paper                                                        |     Tags     |                      Code                       | Years |
+| ------------------------------------------------------------ | :----------: | :---------------------------------------------: | :---: |
+| Two-Step Quantization for Low-bit Neural Networks            | Quantization |                       --                        | 2018  |
+| Towards Fast and Energy-Efficient Binarized Neural Network Inference on FPGA |   Hardware   |                       --                        | 2018  |
+| Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM | Quantization | [Link](http://web.stanford.edu/~boyd/admm.html) | 2018  |
+| PACT: PARAMETERIZED CLIPPING ACTIVATION FOR QUANTIZED NEURAL NETWORKS | Quantization |                       --                        | 2018  |
 
 ### 2017
 
-| Paper                                                        | Tags         | Code Link                                                    | Years |
+| Paper                                                        | Tags         | Code                                                    | Years |
 | ------------------------------------------------------------ | :----------: | :----------------------------------------------------------: | :---: |
 | Ternary Neural Networks with Fine-Grained Quantization | Quantization | -- | 2017 |
 | ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks | Quantization | [Link](https://github.com/Ewenwan/caffe-quant-shiftcnn)              | 2017  |
@@ -34,7 +34,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 
 ### 2016
 
-| Paper                                                        | Tags         | Code Link                                                    | Years |
+| Paper                                                        | Tags         | Code                                                    | Years |
 | ------------------------------------------------------------ | :----------: | :----------------------------------------------------------: | :---: |
 | Ternary weight networks | Quantization | [Link](https://github.com/fengfu-chris/caffe-twns) | 2016 |
 | DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients | Quantization | [Link](https://github.com/tensorpack/tensorpack/tree/master/examples/DoReFa-Net) | 2016 |
@@ -44,7 +44,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 
 ### 2015
 
-| Paper                                                        | Tags         | Code Link                                                    | Years |
+| Paper                                                        | Tags         | Code                                                    | Years |
 | ------------------------------------------------------------ | :----------: | :----------------------------------------------------------: | :---: |
 | Bitwise Neural Networks | Quantization | -- | 2015 |
 | BinaryConnect- Training Deep Neural Networks with binary weights during propagations | Quantization | [Link](https://github.com/MatthieuCourbariaux/BinaryConnect)         | 2015  |
