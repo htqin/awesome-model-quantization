@@ -71,7 +71,9 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 
 
 
-## Our Group
+## Our Team
+
+### Members
 
 Ruihao Gong
 
@@ -80,6 +82,8 @@ Haotong Qin
 Yifu Ding
 
 Xiangguo Zhang
+
+### Our Work
 
 
 
