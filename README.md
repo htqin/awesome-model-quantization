@@ -50,7 +50,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization | Low-bit Quantization               |         [Link](https：//github.com/csyhhu/MetaQuant)         | 2019  |
 | Proxquant: Quantized neural networks via proximal operators  | Low-bit Quantization, Binarization |       [Link](https://github.com/allenbai01/ProxQuant.)       | 2019  |
 | PXNOR: Perturbative Binary Neural Network                    | Binarization                       |           [Link](https://github.com/Apfelin/PXNOR)           | 2019  |
-| Quantization Networks                                        | Low-bit Quantization               | [Link](https://github.com/aliyun/ alibabacloud-quantization-networks) | 2019  |
+| Quantization Networks                                        | Low-bit Quantization               | [Link](https://github.com/aliyun/alibabacloud-quantization-networks) | 2019  |
 | Recursive Binary Neural Network Training Model for Efficient Usage of On-Chip Memory | Binarization                       |                              --                              | 2019  |
 | SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity through Low-Bit Quantization | Low-bit Quantization               |                              --                              | 2019  |
 | Self-Binarizing Networks                                     | Binarization                       |                              --                              | 2019  |
