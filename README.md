@@ -195,16 +195,22 @@ Yifu Ding is a senior student in the School of Computer Science and Engineering 
 
 ### Our Work
 
-[Binary Neural Network: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856) [[PDF](https://htqin.github.io/Pubs/pr2020_BNN_survey.pdf)] 
+[Binary Neural Network: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)  [[PDF](https://htqin.github.io/Pubs/pr2020_BNN_survey.pdf)]  
+
 **H. Qin**, R. Gong, X. Liu\*, X. Bai, J. Song, N. Sebe
+
 *Pattern Recognition (PR)*, 2020
 
-[Forward and Backward Information Retention for Accurate Binary Neural Networks](https://arxiv.org/abs/1909.10788) [[PDF](https://htqin.github.io/Pubs/QIN_CVPR2020_6014.pdf)] 
+[Forward and Backward Information Retention for Accurate Binary Neural Networks](https://arxiv.org/abs/1909.10788) [[PDF](https://htqin.github.io/Pubs/QIN_CVPR2020_6014.pdf)]  
+
 **H. Qin**, R. Gong, X. Liu\*, M. Shen, Z. Wei, F. Yu, J. Song 
+
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020 
 
 [Boosting Temporal Binary Coding for Large-scale Video Search](https://www.researchgate.net/publication/339823422_Boosting_Temporal_Binary_Coding_for_Large-scale_Video_Search) 
+
 Y. Wu, X. Liu\*, **H. Qin** , K. Xia, S. Hu, Y. Ma, M. Wang 
+
 *IEEE Transactions on Multimedia (TMM)*, 2020
 
 [Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks](https://xhplus.github.io/publication/conference-paper/iccv2019/dsq/)
