@@ -78,7 +78,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | XNOR-Net++: Improved binary neural networks                  | Binarization                       |                              --                              | 2019  |
 | An Energy-Efficient Reconfigurable Processor for Binary-and Ternary-Weight Neural Networks With Flexible Data Bit Width | Binarization, Low-bit Quantization |                              --                              | 2019  |
 
-
+ 
 
 ### 2018
 
