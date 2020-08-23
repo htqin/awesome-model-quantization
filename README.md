@@ -11,18 +11,35 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 
 ### 2020
 
-| Paper                                                        |         Tags         |                             Code                             | Years |
-| ------------------------------------------------------------ | :------------------: | :----------------------------------------------------------: | :---: |
-| A Novel In-DRAM Accelerator Architecture for Binary Neural Network |       Hardware       |                              --                              | 2020  |
-| An Energy-Efficient and High Throughput in-Memory Computing Bit-Cell With Excellent Robustness Under Process Variations for Binary Neural Network |       Hardware       |                              --                              | 2020  |
-| BNN Pruning: Pruning Binary Neural Network Guided by Weight Flipping Frequency |     Binarization     |       [Link](https://github.com/PSCLab-ASU/BNNPruning)       | 2020  |
-| Compact Hash Code Learning With Binary Deep Neural Network   |     Binarization     |                              --                              | 2020  |
-| Compressing deep neural networks on FPGAs to binary and ternary precision with hls4ml |       Hardware       |                              --                              | 2020  |
-| End-to-end Learned Image Compression with Fixed Point Weight Quantization | Low-bit Quantization |                              --                              | 2020  |
-| Low-bit Quantization Needs Good Distribution                 | Low-bit Quantization |                              --                              | 2020  |
-| SIMBA: A Skyrmionic In-Memory Binary Neural Network Accelerator |       Hardware       |                                                              | 2020  |
-| Training Binary Neural Networks with Real-to-Binary Convolutions |     Binarization     |    [Link](https://github.com/brais-martinez/real2binary)     | 2020  |
-| Training with Quantization Noise for Extreme Model Compression | Low-bit Quantization | [Link](https://github.com/pytorch/fairseq/tree/master/examples/quant_noise) | 2020  |
+| Paper                                                        |                Tags                |                             Code                             | Years |
+| ------------------------------------------------------------ | :--------------------------------: | :----------------------------------------------------------: | :---: |
+| A Novel In-DRAM Accelerator Architecture for Binary Neural Network |              Hardware              |                              --                              | 2020  |
+| An Energy-Efficient and High Throughput in-Memory Computing Bit-Cell With Excellent Robustness Under Process Variations for Binary Neural Network |              Hardware              |                              --                              | 2020  |
+| BNN Pruning: Pruning Binary Neural Network Guided by Weight Flipping Frequency |            Binarization            |       [Link](https://github.com/PSCLab-ASU/BNNPruning)       | 2020  |
+| Compressing deep neural networks on FPGAs to binary and ternary precision with hls4ml |              Hardware              |                              --                              | 2020  |
+| End-to-end Learned Image Compression with Fixed Point Weight Quantization |        Low-bit Quantization        |                              --                              | 2020  |
+| Low-bit Quantization Needs Good Distribution                 |        Low-bit Quantization        |                              --                              | 2020  |
+| SIMBA: A Skyrmionic In-Memory Binary Neural Network Accelerator |              Hardware              |                                                              | 2020  |
+| Training Binary Neural Networks with Real-to-Binary Convolutions |            Binarization            |    [Link](https://github.com/brais-martinez/real2binary)     | 2020  |
+| Training with Quantization Noise for Extreme Model Compression |        Low-bit Quantization        | [Link](https://github.com/pytorch/fairseq/tree/master/examples/quant_noise) | 2020  |
+| Phoenix: A Low-Precision Floating-Point Quantization Oriented Architecture for Convolutional Neural Networks |        Low-bit Quantization        |                              --                              | 2020  |
+| Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation |            Binarization            |                           Not yet                            | 2020  |
+| IMAC: In-Memory Multi-Bit Multiplication and ACcumulation in 6T SRAM Array |              Hardware              |                              --                              | 2020  |
+| Understanding Learning Dynamics of Binary Neural Networks via Information Bottleneck |            Binarization            |                              --                              | 2020  |
+| Training high-performance and large-scale deep neural networks with full 8-bit integers |        Low-bit Quantization        |                              --                              | 2020  |
+| MoBiNet: A Mobile Binary Network for Image Classification    |            Binarization            |                              --                              | 2020  |
+| Controlling information capacity of binary neural network    |            Binarization            |                              --                              | 2020  |
+| BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations |            Binarization            |      [Link](https://github.com/Hyungjun-K1m/BinaryDuo)       | 2020  |
+| Binary Neural Networks: A Survey                             |            Binarization            |                              --                              | 2020  |
+| An Energy-Efficient Bagged Binary Neural Network Accelerator |       Hardware; Binarization       |                              --                              | 2020  |
+| Forward and Backward Information Retention for Accurate Binary Neural Networks |            Binarization            |           [Link](https://github.com/htqin/IR-Net)            | 2020  |
+| MeliusNet: Can Binary Neural Networks Achieve MobileNet-level Accuracy? |            Binarization            |        [Link](https://github.com/hpi-xnor/BMXNet-v2)         | 2020  |
+| Design of High Robustness BNN Inference Accelerator Based on Binary Memristors |              Hardware              |                              --                              | 2020  |
+| Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm |            Binarization            |       [Link](https://github.com/liuzechun/Bi-Real-net)       | 2020  |
+| RPR: Random Partition Relaxation for Training Binary and Ternary Weight Neural Networks | Binarization; Low-bit Quantization |                              --                              | 2020  |
+| OrthrusPE: Runtime Reconfigurable Processing Elements for Binary Neural Networks |              Hardware              |                              --                              | 2020  |
+| Distillation Guided Residual Learning for Binary Convolutional Neural Networks |            Binarization            |                              --                              | 2020  |
+| A Resource-Efficient Inference Accelerator for Binary Convolutional Neural Networks |              Hardware              |                              --                              | 2020  |
 
 
 
@@ -111,6 +128,9 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | Trained Ternary Quantization                                 | Low-bit Quantization | [Link](https://github.com/TropComplique/trained-ternary-quantization) | 2017  |
 | On-chip Memory Based Binarized Convolutional Deep Neural Network Applying Batch Normalization Free Technique on an FPGA |   Hardware   |                              --                              | 2017  |
 | FP-BNN- Binarized neural network on FPGA                     |   Hardware   |                              --                              | 2017  |
+| WRPN: Wide Reduced-Precision Networks | Low-bit Quantization | -- | 2017 |
+| Deep Learning Binary Neural Network on an FPGA | Hardware, Binarization | -- | 2017 |
+
 
 ### 2016
 
