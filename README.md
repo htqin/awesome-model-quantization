@@ -171,23 +171,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 
 
 
-## Our Team
-
-### Members
-
-Ruihao Gong
-
-Haotong Qin
-
-Yifu Ding
-
-Xiangguo Zhang
-
-### Our Work
-
-
-
-#### Reference
+## Reference
 
 * https://www.codercto.com/a/30037.html
 
@@ -198,3 +182,84 @@ Xiangguo Zhang
 * https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/quantization
 
 * https://mp.weixin.qq.com/s/RsZCTqCKwpnjATUFC8da7g
+
+
+
+
+
+## Our Team
+
+Our team is part of the DIG group of the State Key Laboratory of Software Development Environment (SKLSDE), supervised Prof. [**Xianglong Liu**](http://sites.nlsde.buaa.edu.cn/~xlliu/). The main research goals of our team is compressing and accelerating models under multiple scenes.
+
+
+
+### Members
+
+[**Ruihao Gong**](https://xhplus.github.io/)
+
+Ruihao Gong is currently a third-year graduate student at Beihang University under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Since 2017, he worked on the build-up of computer vision systems and model quantization as an intern at Sensetime Research, where he enjoyed working with the talented researchers and grew up a lot with the help of [Fengwei Yu](http://forwil.xyz/), [Wei Wu](https://wuwei-ai.org/), and [Junjie Yan](https://yan-junjie.github.io/). During the early time of the internship, he independently took responsibility for the development of intelligent video analysis system Sensevideo. Later, he started the research on model quantization which can speed up the inference and even the training of neural networks on edge devices. Now he is devoted to further promoting the accuracy of extremely low-bit models and the auto-deployment of quantized models.
+
+[**Haotong Qin**](https://htqin.github.io/)
+
+I am a Ph.D. student (Sep 2019 - ) in the State Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)) and [ShenYuan Honors College](http://sae.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/)and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). I obtained a B.Eng degree in computer science and engineering from [Beihang University](https://www.buaa.edu.cn/). I was a research intern (Jun 2020 - Aug 2020) at the WeiXin Group of Tencent. In my undergraduate study, I interned at the Speech group of Microsoft Research Asia ([MSRA](https://www.msra.cn/)) supervised by Dr. [Wenping Hu](https://www.microsoft.com/en-us/research/people/wenh/). I'm interested in deep learning, computer vision, and model compression. My research goal is to enable state-of-the-art neural network models to be successfully deployed on resource-limited hardware. This includes compressing and accelerating models on multiple tasks, and flexible and efficient deployment for multiple hardware.
+
+**Xiangguo Zhang** 
+
+Xiangguo Zhang is a second-year graduate student in the School of Computer Science of Beihang University, under the guidance of Prof. Xianglong Liu. He received a bachelor's degree from Shandong University in 2019 and entered Beihang University in the same year. Currently, he is interested in computer vision and post training quantization.
+
+**Yifu Ding**
+
+Yifu Ding is a senior student in the School of Computer Science and Engineering at Beihang University. She is in the State Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Currently, she is interested in computer vision and model quantization. She thinks that neural network models which are highly compressed can be deployed on resource-constrained devices. And among all the compression methods, quantization is a potential one.
+
+
+
+### Our Work
+
+[Binary Neural Network: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)  [[PDF](https://htqin.github.io/Pubs/pr2020_BNN_survey.pdf)]  
+
+**H. Qin**, R. Gong, X. Liu\*, X. Bai, J. Song, N. Sebe
+
+*Pattern Recognition (PR)*, 2020
+
+[Forward and Backward Information Retention for Accurate Binary Neural Networks](https://arxiv.org/abs/1909.10788) [[PDF](https://htqin.github.io/Pubs/QIN_CVPR2020_6014.pdf)]  
+
+**H. Qin**, R. Gong, X. Liu\*, M. Shen, Z. Wei, F. Yu, J. Song 
+
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020 
+
+[Boosting Temporal Binary Coding for Large-scale Video Search](https://www.researchgate.net/publication/339823422_Boosting_Temporal_Binary_Coding_for_Large-scale_Video_Search) 
+
+Y. Wu, X. Liu\*, **H. Qin** , K. Xia, S. Hu, Y. Ma, M. Wang 
+
+*IEEE Transactions on Multimedia (TMM)*, 2020
+
+[Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks](https://xhplus.github.io/publication/conference-paper/iccv2019/dsq/)
+
+**Ruihao Gong**, Xianglong Liu\*, Shenghu Jiang, Tianxiang Li, Peng Hu, Jiazhen Lin, Fengwei Yu, Junjie Yan
+
+IEEE ICCV 2019
+
+[Towards Unified INT8 Training for Convolutional Neural Network](https://xhplus.github.io/publication/conference-paper/cvpr2020/int8_training/)
+
+Feng Zhu, **Ruihao Gong**, Fengwei Yu, Xianglong Liu, Yanfei Wang, Zhelong Li, Xiuqi Yang, Junjie Yan
+
+IEEE CVPR 2020
+
+[DMS: Differentiable Dimension Search for Binary Neural Networks](https://xhplus.github.io/publication/conference-paper/iclr2020/dms/)
+
+Yuhang Li and **Ruihao Gong** and Fengwei Yu and Xin Dong and Xianglong Liu
+
+ICLR 2020 NAS workshop
+
+[Rotation Consistent Margin Loss for Efficient Low-bit Face Recognition](https://xhplus.github.io/publication/conference-paper/cvpr2020/rcm_loss/)
+
+Yudong Wu, Yichao Wu, **Ruihao Gong**, Yuanhao Lv, Ken Chen, Ding Liang, Xiaolin Hu, Xianglong Liu, Junjie Yan
+
+IEEE CVPR 2020
+
+[Balanced Binary Neural Networks with Gated Residual](https://xhplus.github.io/publication/conference-paper/icassp2020/bbg/)
+
+Mingzhu Shen and Xianglong Liu and **Ruihao Gong** and Kai Han
+
+ICASSP 2020
+
