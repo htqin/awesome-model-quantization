@@ -40,6 +40,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | OrthrusPE: Runtime Reconfigurable Processing Elements for Binary Neural Networks |              Hardware              |                              --                              | 2020  |
 | Distillation Guided Residual Learning for Binary Convolutional Neural Networks |            Binarization            |                              --                              | 2020  |
 | A Resource-Efficient Inference Accelerator for Binary Convolutional Neural Networks |              Hardware              |                              --                              | 2020  |
+| How Does Batch Normalization Help Binary Training?           |            Binarization            |                              --                              | 2020  |
 
 
 
