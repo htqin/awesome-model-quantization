@@ -35,14 +35,11 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | Forward and Backward Information Retention for Accurate Binary Neural Networks |            Binarization            |           [Link](https://github.com/htqin/IR-Net)            | 2020  |
 | MeliusNet: Can Binary Neural Networks Achieve MobileNet-level Accuracy? |            Binarization            |        [Link](https://github.com/hpi-xnor/BMXNet-v2)         | 2020  |
 | Design of High Robustness BNN Inference Accelerator Based on Binary Memristors |              Hardware              |                              --                              | 2020  |
-| Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm |            Binarization            |       [Link](https://github.com/liuzechun/Bi-Real-net)       | 2020  |
 | RPR: Random Partition Relaxation for Training Binary and Ternary Weight Neural Networks | Binarization; Low-bit Quantization |                              --                              | 2020  |
 | OrthrusPE: Runtime Reconfigurable Processing Elements for Binary Neural Networks |              Hardware              |                              --                              | 2020  |
 | Distillation Guided Residual Learning for Binary Convolutional Neural Networks |            Binarization            |                              --                              | 2020  |
 | A Resource-Efficient Inference Accelerator for Binary Convolutional Neural Networks |              Hardware              |                              --                              | 2020  |
 | How Does Batch Normalization Help Binary Training?           |            Binarization            |                              --                              | 2020  |
-
-
 
 
 ### 2019
@@ -79,8 +76,6 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | XNOR-Net++: Improved binary neural networks                  | Binarization                       |                              --                              | 2019  |
 | An Energy-Efficient Reconfigurable Processor for Binary-and Ternary-Weight Neural Networks With Flexible Data Bit Width | Binarization, Low-bit Quantization |                              --                              | 2019  |
 
- 
-
 ### 2018
 
 | Paper                                                        |     Tags     |                      Code                       | Years |
@@ -113,8 +108,6 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | XNOR Neural Engine: A Hardware Accelerator IP for 21.6-fJ/op Binary Neural Network Inference | Hardware | -- | 2018 |
 
 
-
-
 ### 2017
 
 | Paper                                                        | Tags         | Code                                                    | Years |
@@ -131,7 +124,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | FP-BNN- Binarized neural network on FPGA                     |   Hardware   |                              --                              | 2017  |
 | WRPN: Wide Reduced-Precision Networks | Low-bit Quantization | -- | 2017 |
 | Deep Learning Binary Neural Network on an FPGA | Hardware, Binarization | -- | 2017 |
-
+| A GPU-Outperforming FPGA Accelerator Architecture for Binary Convolutional Neural Networks | Hardware, Binarization | -- | 2017 |
 
 ### 2016
 
