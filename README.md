@@ -206,7 +206,9 @@ Xiangguo Zhang is a second-year graduate student in the School of Computer Scien
 
 Yifu Ding is a senior student in the School of Computer Science and Engineering at Beihang University. She is in the State Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Currently, she is interested in computer vision and model quantization. She thinks that neural network models which are highly compressed can be deployed on resource-constrained devices. And among all the compression methods, quantization is a potential one.
 
+**Xiuying Wei**
 
+Xiuying Wei is a first-year graduate student in Beihang university under the supervision of [Prof. Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). She recevied a bachelor’s degree from Shandong University in 2020. Currently, she is interested in model quantization. She thinks that quantization could make model faster and more robust, which could put deep learning systems on low-power devices and bring more opportunity for future.
 
 ### Our Work
 
