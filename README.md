@@ -208,7 +208,7 @@ Yifu Ding is a senior student in the School of Computer Science and Engineering 
 
 **Xiuying Wei**
 
-Xiuying Wei is a first-year graduate student in Beihang university under the supervision of [Prof. Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). She recevied a bachelor’s degree from Shandong University in 2020. Currently, she is interested in model quantization. She thinks that quantization could make model faster and more robust, which could put deep learning systems on low-power devices and bring more opportunity for future.
+Xiuying Wei is a first-year graduate student at Beihang University under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). She recevied a bachelor’s degree from Shandong University in 2020. Currently, she is interested in model quantization. She thinks that quantization could make model faster and more robust, which could put deep learning systems on low-power devices and bring more opportunity for future.
 
 ### Our Work
 
