@@ -210,6 +210,11 @@ Yifu Ding is a senior student in the School of Computer Science and Engineering 
 
 I am a senior student in the Sino-French Engineer School at [Beihang University](https://www.buaa.edu.cn/). I just started the research on model compression in the Skate Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). I have great enthusiasm for deep learning and model quantization and I really enjoy working with my talented teammates.
 
+**Xiuying Wei**
+
+Xiuying Wei is a first-year graduate student at Beihang University under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). She recevied a bachelor’s degree from Shandong University in 2020. Currently, she is interested in model quantization. She thinks that quantization could make model faster and more robust, which could put deep learning systems on low-power devices and bring more opportunity for future.
+
+
 ### Our Work
 
 [Binary Neural Network: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)  [[PDF](https://htqin.github.io/Pubs/pr2020_BNN_survey.pdf)]  
