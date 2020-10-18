@@ -50,7 +50,6 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | A Systematic Study of Binary Neural Networks' Optimisation   | Binarization                       |                              --                              | 2019  |
 | Accurate and Compact Convolutional Neural Networks with Trained Binarization | Binarization                       |                              --                              | 2019  |
 | Balanced Circulant Binary Convolutional Networks             | Binarization                       |                              --                              | 2019  |
-| Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit? | Binarization                       |                              --                              | 2019  |
 | BNN+: Improved Binary Network Training                       | Binarization                       |                              --                              | 2019  |
 | Circulant Binary Convolutional Networks: Enhancing the Performance of 1-bit DCNNs with Circulant Back Propagation | Binarization                       |                              --                              | 2019  |
 | daBNN: A Super Fast Inference Framework for Binary Neural Networks on ARM devices | Hardware, Binarization             |           [Link](https://github.com/JDAI-CV/dabnn)           | 2019  |
@@ -83,12 +82,11 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | Two-Step Quantization for Low-bit Neural Networks            | Low-bit Quantization |                       --                        | 2018  |
 | Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM | Low-bit Quantization | [Link](http://web.stanford.edu/~boyd/admm.html) | 2018  |
 | PACT: PARAMETERIZED CLIPPING ACTIVATION FOR QUANTIZED NEURAL NETWORKS | Low-bit Quantization |                       --                        | 2018  |
-| Towards Fast and Energy-Efficient Binarized Neural Network Inference on FPGA | Hardware | -- | 2018 |
+| Towards Fast and Energy-Efficient Binarized Neural Network Inference on FPGA | Hardware; Binarization | -- | 2018 |
 | A Main/Subsidiary Network Framework for Simplifying Binary Neural Networks | Binarization | -- | 2018 |
 | A Survey of FPGA-based Accelerators for Convolutional Neural Networks | Hardware | -- | 2018 |
 | An Energy-Efficient Architecture for Binary Weight Convolutional Neural Networks | Binarization | -- | 2018 |
 | Analysis and Implementation of Simple Dynamic Binary Neural Networks | Binarization | -- | 2018 |
-| Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy | Low-bit Quantization | -- | 2018 |
 | BitFlow: Exploiting Vector Parallelism for Binary Neural Networks on CPU | Binarization | -- | 2018 |
 | BitStream: Efficient Computing Architecture for Real-Time Low-Power Inference of Binary Neural Networks on CPUs | Binarization, Hardware | -- | 2018 |
 | Blended Coarse Gradient Descent for Full Quantization of Deep Neural Networks | Low-bit Quantization, Binarization | -- | 2018 |
@@ -106,6 +104,8 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | Training Binary Weight Networks via Semi-Binary Decomposition | Binarization | -- | 2018 |
 | Training Competitive Binary Neural Networks from Scratch | Binarization | [Link](https://github.com/hpi-xnor/BMXNet-v2) | 2018 |
 | XNOR Neural Engine: A Hardware Accelerator IP for 21.6-fJ/op Binary Neural Network Inference | Hardware | -- | 2018 |
+| Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit? | Binarization | -- | 2018 |
+| From Hashing to CNNs: Training Binary Weight Networks via Hashing | Binarization | -- | 2018 |
 
 
 ### 2017
@@ -117,7 +117,6 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | Towards Accurate Binary Convolutional Neural Network         | Binarization | [Link](https://github.com/layog/Accurate-Binary-Convolution-Network) | 2017  |
 | Deep Learning with Low Precision by Half-wave Gaussian Quantization | Low-bit Quantization | [Link](https://github.com/zhaoweicai/hwgq)                           | 2017  |
 | Performance Guaranteed Network Acceleration via High-Order Residual Quantization | Low-bit Quantization | --                                                         | 2017  |
-| From Hashing to CNNs: Training Binary Weight Networks via Hashing | Binarization | --                                                         | 2017  |
 | INCREMENTAL NETWORK QUANTIZATION: TOWARDS LOSSLESS CNNS WITH LOW-PRECISION WEIGHTS | Low-bit Quantization | [Link](https://github.com/Zhouaojun/Incremental-Network-Quantization) | 2017  |
 | Trained Ternary Quantization                                 | Low-bit Quantization | [Link](https://github.com/TropComplique/trained-ternary-quantization) | 2017  |
 | On-chip Memory Based Binarized Convolutional Deep Neural Network Applying Batch Normalization Free Technique on an FPGA |   Hardware   |                              --                              | 2017  |
@@ -125,6 +124,7 @@ A list of papers, docs, codes about model quantization. This repo is aimed to pr
 | WRPN: Wide Reduced-Precision Networks | Low-bit Quantization | -- | 2017 |
 | Deep Learning Binary Neural Network on an FPGA | Hardware, Binarization | -- | 2017 |
 | A GPU-Outperforming FPGA Accelerator Architecture for Binary Convolutional Neural Networks | Hardware, Binarization | -- | 2017 |
+| Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy | Low-bit Quantization | -- | 2017 |
 
 ### 2016
 
