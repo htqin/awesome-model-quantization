@@ -271,7 +271,7 @@ Statistics:  :fire: citation > 20 | :star: code is available and star > 50
 
 
 
-## Codes\_&\_Docs
+## Codes\_and\_Docs
 
 - [[code](https://github.com/FFChyan/awesome-model-quantization/tree/master/Codes/ZF-Net)] [[doc](https://support.alpha-data.com/pub/appnotes/cnn/ad-an-0055_v1_0.pdf)] ZF-Net: An Open Source FPGA CNN Library.
 - [[doc](https://hal.archives-ouvertes.fr/hal-01695375v2/document)] Accelerating CNN inference on FPGAs: A Survey.
