@@ -12,7 +12,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 - [2017](#2017)
 - [Ealier](#2016)
 - [Codes&Docs](#Codes&Docs)
-- [OurTeam](#OurTeam)
+- [Our Team](#Our Team)
 
 
 
@@ -283,7 +283,7 @@ Statistics:  :fire: citation > 20 | :star: code is available and star > 50
 
 
 
-## OurTeam
+## Our Team
 
 Our team is part of the DIG group of the State Key Laboratory of Software Development Environment (SKLSDE), supervised Prof. [**Xianglong Liu**](http://sites.nlsde.buaa.edu.cn/~xlliu/). The main research goals of our team is compressing and accelerating models under multiple scenes.
 
