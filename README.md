@@ -11,8 +11,8 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 - [2018](#2018)
 - [2017](#2017)
 - [Ealier](#2016)
-- [Codes&Docs](#Codes&Docs)
-- [Our Team](#Our Team)
+- [Codes & Docs](#Codes\_&\_Docs)
+- [Our Team](#Our_Team)
 
 
 
@@ -271,7 +271,7 @@ Statistics:  :fire: citation > 20 | :star: code is available and star > 50
 
 
 
-## Codes&Docs
+## Codes\_&\_Docs
 
 - [[code](https://github.com/FFChyan/awesome-model-quantization/tree/master/Codes/ZF-Net)] [[doc](https://support.alpha-data.com/pub/appnotes/cnn/ad-an-0055_v1_0.pdf)] ZF-Net: An Open Source FPGA CNN Library.
 - [[doc](https://hal.archives-ouvertes.fr/hal-01695375v2/document)] Accelerating CNN inference on FPGAs: A Survey.
@@ -283,7 +283,7 @@ Statistics:  :fire: citation > 20 | :star: code is available and star > 50
 
 
 
-## Our Team
+## Our_Team
 
 Our team is part of the DIG group of the State Key Laboratory of Software Development Environment (SKLSDE), supervised Prof. [**Xianglong Liu**](http://sites.nlsde.buaa.edu.cn/~xlliu/). The main research goals of our team is compressing and accelerating models under multiple scenes.
 
