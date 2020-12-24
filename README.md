@@ -6,6 +6,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
+- [Our Survey Paper of BNNs](#Our Survey Paper of BNNs)
 - [Papers](#Papers)
 	- [2020](#2020)
 	- [2019](#2019)
@@ -24,6 +25,29 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 **`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | __`other`__: other relative methods
 
 Statistics:  :fire: highly cited | :star: code is available and star > 50
+
+
+
+## Our_Survey_Paper_of_BNNs
+
+Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is a comprehensive survey of recent progress in binary neural networks. For details, please refer to:
+
+**Binary Neural Networks: A Survey**
+
+[**Haotong Qin**](https://htqin.github.io/), [Ruihao Gong](https://xhplus.github.io/), [Xianglong Liu*](http://sites.nlsde.buaa.edu.cn/~xlliu/), Xiao Bai, [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/), and [Nicu Sebe](https://disi.unitn.it/~sebe/).
+
+[[**Paper**](https://arxiv.org/abs/2004.03333)]  [[**Blog**](https://mp.weixin.qq.com/s/QGva6fow9tad_daZ_G2p0Q)]
+
+<details><summary>Bibtex</summary><pre><code>@article{Qin:pr20_bnn_survey,
+	title = "Binary neural networks: A survey",
+	author = "Haotong Qin and Ruihao Gong and Xianglong Liu and Xiao Bai and Jingkuan Song and Nicu Sebe",
+	journal = "Pattern Recognition",
+	volume = "105",
+	pages = "107281",
+	year = "2020"
+}</code></pre></details>
+
+![survey](/Users/haotongqin/Desktop/awesome-model-quantization/Docs/imgs/survey.png)
 
 
 
