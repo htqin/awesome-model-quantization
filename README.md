@@ -6,7 +6,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
-- [Our Survey Paper](#Our_Survey_Paper)
+- [Survey of BNN](#Survey_of_BNN)
 - [Papers](#Papers)
 	- [2020](#2020)
 	- [2019](#2019)
@@ -28,7 +28,7 @@ Statistics:  :fire: highly cited | :star: code is available and star > 50
 
 
 
-## Our_Survey_Paper
+## Survey of BNN
 
 Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is a comprehensive survey of recent progress in binary neural networks. For details, please refer to:
 
