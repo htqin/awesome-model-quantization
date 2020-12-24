@@ -6,7 +6,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
-- [Our Survey Paper of BNNs](#Our Survey Paper of BNNs)
+- [Our Survey Paper of BNNs](#Our_Survey_Paper_of_BNNs)
 - [Papers](#Papers)
 	- [2020](#2020)
 	- [2019](#2019)
