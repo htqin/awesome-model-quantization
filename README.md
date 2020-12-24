@@ -18,16 +18,6 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 
 
-------
-
-#### Keywords
-
-**`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | __`other`__: other relative methods
-
-Statistics:  :fire: highly cited | :star: code is available and star > 50
-
-
-
 ## Survey of BNN
 
 Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is a comprehensive survey of recent progress in binary neural networks. For details, please refer to:
@@ -52,6 +42,12 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 
 
 ## Papers
+
+**Keywords**: **`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | __`other`__: other relative methods
+
+**Statistics**:  :fire: highly cited | :star: code is available and star > 50
+
+------
 
 ### 2020
 
