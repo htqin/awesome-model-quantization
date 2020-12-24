@@ -22,11 +22,9 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is a comprehensive survey of recent progress in binary neural networks. For details, please refer to:
 
-**Binary Neural Networks: A Survey**
+**Binary Neural Networks: A Survey**  [[Paper](https://arxiv.org/abs/2004.03333)]  [[Blog](https://mp.weixin.qq.com/s/QGva6fow9tad_daZ_G2p0Q)]
 
 [**Haotong Qin**](https://htqin.github.io/), [Ruihao Gong](https://xhplus.github.io/), [Xianglong Liu*](http://sites.nlsde.buaa.edu.cn/~xlliu/), Xiao Bai, [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/), and [Nicu Sebe](https://disi.unitn.it/~sebe/).
-
-[[**Paper**](https://arxiv.org/abs/2004.03333)]  [[**Blog**](https://mp.weixin.qq.com/s/QGva6fow9tad_daZ_G2p0Q)]
 
 <details><summary>Bibtex</summary><pre><code>@article{Qin:pr20_bnn_survey,
 	title = "Binary neural networks: A survey",
