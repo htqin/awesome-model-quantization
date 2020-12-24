@@ -47,7 +47,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 	year = "2020"
 }</code></pre></details>
 
-![survey](/Users/haotongqin/Desktop/awesome-model-quantization/Docs/imgs/survey.png)
+![survey](./Docs/imgs/survey.png)
 
 
 
