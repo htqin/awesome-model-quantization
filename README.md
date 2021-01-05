@@ -41,7 +41,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 
 ## Papers
 
-**Keywords**: **`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | __`other`__: other relative methods
+**Keywords**: **`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | **`nlp`**: Based on Natural Language Processing Models | __`other`__: Other Relative Methods 
 
 **Statistics**:  :fire: highly cited | :star: code is available and star > 50
 
@@ -50,11 +50,12 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 ### 2020
 
 - [[ACL](https://www.aclweb.org/anthology/2020.sustainlp-1.4.pdf)] End to End Binarized Neural Networks for Text Classification. [**`binarization`**] <!--citation 0-->
+- [[AAAI](https://arxiv.org/abs/1909.05840)] [72:fire:] Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT.  [__`low-bit`__] [**`nlp`**]
 - [[COOL CHIPS](https://ieeexplore.ieee.org/document/9097642/)] A Novel In-DRAM Accelerator Architecture for Binary Neural Network.  [**`hardware`**]  <!--citation 0-->
 - [[CoRR](https://arxiv.org/pdf/2002.10778.pdf)] Training Binary Neural Networks using the Bayesian Learning Rule. [**`binarization`**] 
-
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Han_GhostNet_More_Features_From_Cheap_Operations_CVPR_2020_paper.pdf)] [47:fire:] GhostNet: More Features from Cheap Operations. [[tensorflow & torch](https://github.com/huawei-noah/ghostnet)] [__`low-bit`__] [1.2k:star:]   <!--citation 47-->
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qin_Forward_and_Backward_Information_Retention_for_Accurate_Binary_Neural_Networks_CVPR_2020_paper.pdf)] Forward and Backward Information Retention for Accurate Binary Neural Networks. [**`binarization`**] [[torch](https://github.com/htqin/IR-Net)] [105:star:] <!--citation 14-->
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_APQ_Joint_Search_for_Network_Architecture_Pruning_and_Quantization_Policy_CVPR_2020_paper.pdf)] APQ: Joint Search for Network Architecture, Pruning and Quantization Policy. [__`low-bit`__] [[torch](https://github.com/mit-han-lab/apq)] [76:star:]
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Rotation_Consistent_Margin_Loss_for_Efficient_Low-Bit_Face_Recognition_CVPR_2020_paper.pdf)] Rotation Consistent Margin Loss for Efficient Low-Bit Face Recognition. [__`low-bit`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_BiDet_An_Efficient_Binarized_Object_Detector_CVPR_2020_paper.pdf)] BiDet: An Efficient Binarized Object Detector. [[torch](https://github.com/ZiweiWangTHU/BiDet)] [ **`binarization`** ] [112:star:] <!--citation 3-->
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Fixed-Point_Back-Propagation_Training_CVPR_2020_paper.pdf)] Fixed-Point Back-Propagation Training. [[video](https://www.youtube.com/watch?v=nVRNygIQKI0)] [__`low-bit`__]
@@ -66,6 +67,8 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510426-supp.pdf)]PROFIT: A Novel Training Method for sub-4-bit MobileNet Models. [**`low-bit`**] <!--citation 2-->
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480222.pdf)] ProxyBNN: Learning Binarized Neural Networks via Proxy Matrices. [**`binarization`**] <!--citation 2-->
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590137.pdf)] ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions. [**`binarization`**] [[torch](https://github.com/liuzechun/ReActNet)] [108:star:]  <!--citation 7-->
+- [[EMNLP](https://arxiv.org/abs/2009.12812)] TernaryBERT: Distillation-aware Ultra-low Bit BERT. [**`low-bit`**] [**`nlp`**]
+- [[EMNLP](https://arxiv.org/abs/1910.10485)] Fully Quantized Transformer for Machine Translation. [**`low-bit`**] [**`nlp`**]
 - [[ICET](https://ieeexplore.ieee.org/document/9119704)] An Energy-Efficient Bagged Binary Neural Network Accelerator. [**`binarization`**]  [**`hardware`**]  <!--citation 0-->
 - [[ICASSP](https://ieeexplore.ieee.org/document/9054599)] Balanced Binary Neural Networks with Gated Residual. [**`binarization`**]  <!--citation 3-->
 - [[ICML](https://proceedings.icml.cc/static/paper_files/icml/2020/181-Paper.pdf)] Training Binary Neural Networks through Learning with Noisy Supervision. [**`binarization`**]  <!--citation 5-->
@@ -75,8 +78,10 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[IJCV](https://arxiv.org/abs/2009.04247)] Binarized Neural Architecture Search for Efficient Object Recognition. [**`binarization`**] <!--citation 0-->
 - [[IJCAI](https://www.ijcai.org/Proceedings/2018/0669.pdf)] Planning in Factored State and Action Spaces with Learned Binarized Neural Network Transition Models.  [**`binarization`**] <!--citation 14-->
 - [[IJCAI](https://arxiv.org/pdf/2005.00057.pdf)] CP-NAS: Child-Parent Neural Architecture Search for Binary Neural Networks.  [**`binarization`**] 
+- [[IJCAI](https://www.ijcai.org/Proceedings/2020/0520.pdf)] Towards Fully 8-bit Integer Inference for the Transformer Model. [**`low-bit`**] [**`nlp`**] 
 - [[ISCAS](https://arxiv.org/pdf/2004.08914.pdf)] MuBiNN: Multi-Level Binarized Recurrent Neural Network for EEG Signal Classification. [**`binarization`**] <!--citation 0-->
 - [[ISQED](https://ieeexplore.ieee.org/document/9136977)] BNN Pruning: Pruning Binary Neural Network Guided by Weight Flipping Frequency. [**`binarization`**] [[torch](https://github.com/PSCLab-ASU/BNNPruning)] <!--citation 0-->
+- [[MICRO](http://arxiv.org/abs/2005.03842)] GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference. [**`low-bit`**] [**`nlp`**] 
 - [[MLST](https://arxiv.org/abs/2003.06308)] Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML. [**`hardware`**]  [**`binarization`**]  [**`low-bit`**] <!--citation 11-->
 - [[NeurIPS](https://papers.nips.cc/paper/2020/file/53c5b2affa12eed84dfec9bfd83550b1-Paper.pdf)] Rotated Binary Neural Network.[[torch](https://github.com/lmbxmu/RBNN)] [**`binarization`**] 
 - [[NeurIPS](https://proceedings.neurips.cc/paper/2020/file/2a084e55c87b1ebcdaad1f62fdbbac8e-Paper.pdf)] Searching for Low-Bit Weights in Quantized Neural Networks. [[torch](https://github.com/zhaohui-yang/Binary-Neural-Networks/tree/main/SLB)] [**`low-bit`**] <!--citation 4-->
@@ -96,20 +101,16 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[arxiv](https://arxiv.org/pdf/2004.11147.pdf)] Binarized Graph Neural Network. [**`binarization`**] <!--citation 0-->
 - [[arxiv](https://arxiv.org/pdf/1909.09139.pdf)] How Does Batch Normalization Help Binary Training? [**`binarization`**] <!--citation 5-->
 - [[arxiv](https://arxiv.org/pdf/2007.05223.pdf)] Distillation Guided Residual Learning for Binary Convolutional Neural Networks. [**`binarization`**] <!--citation 1-->
-
 - [[arxiv](https://arxiv.org/abs/2006.16578)] Accelerating Binarized Neural Networks via Bit-Tensor-Cores in Turing GPUs. [[code](https://github.com/pnnl/TCBNN)] [**`binarization`**] <!--citation 1-->
 - [[arxiv](https://arxiv.org/abs/2001.05936)] MeliusNet: Can Binary Neural Networks Achieve MobileNet-level Accuracy?  [**`binarization`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:] <!--citation 13-->
 - [[arxiv](https://arxiv.org/pdf/2001.01091.pdf)] RPR: Random Partition Relaxation for Training; Binary and Ternary Weight Neural Networks.  [**`binarization`**] [**`low-bit`**] <!--citation 3-->
-
 - [[paper](https://www.researchgate.net/publication/343568789_Towards_Lossless_Binary_Convolutional_Neural_Networks_Using_Piecewise_Approximation)] Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation.  [**`binarization`**]  <!--citation 2-->
 - [[arxiv](https://arxiv.org/abs/2006.07522)] Understanding Learning Dynamics of Binary Neural Networks via Information Bottleneck. [**`binarization`**] <!--citation 0-->
-
-- [[arxiv](https://arxiv.org/abs/2012.15701)] BinaryBERT: Pushing the Limit of BERT Quantization.  [**`binarization`**] 
+- [[arxiv](https://arxiv.org/abs/2012.15701)] BinaryBERT: Pushing the Limit of BERT Quantization.  [**`binarization`**] [**`nlp`**]
 
 ### 2019
 
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4273/4151)] Efficient Quantization for Neural Networks with Binary Weights and Low Bitwidth Activations. [**`low-bit`**]  [**`binarization`**]
-
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4848/4721)] [31:fire:]  Projection Convolutional Neural Networks for 1-bit CNNs via Discrete Back Propagation.  [**`binarization`**] 
 - [[APCCAS](https://ieeexplore.ieee.org/document/8953134/)] Using Neuroevolved Binary Neural Networks to solve reinforcement learning environments. [**`binarization`**] [[code](https://github.com/rval735/BiSUNA)] 
 - [[BMVC](https://arxiv.org/abs/1909.13863)] [32:fire:] XNOR-Net++: Improved Binary Neural Networks. [**`binarization`**]
@@ -135,6 +136,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[ICCV](https://arxiv.org/abs/1908.05033)] [55:fire:] Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks. [**`low-bit`**]  
 - [[ICCV](https://arxiv.org/pdf/1908.06314.pdf)] Bayesian optimized 1-bit cnns.  [**`binarization`**]
 - [[ICCV](https://openaccess.thecvf.com/content_ICCVW_2019/papers/NeurArch/Shen_Searching_for_Accurate_Binary_Neural_Architectures_ICCVW_2019_paper.pdf)] Searching for Accurate Binary Neural Architectures. [**`binarization`**] 
+- [[ICML](https://arxiv.org/abs/1906.00532v2)] Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model.  [**`low-bit`**] [**`nlp`**]
 - [[ICLR](https://openreview.net/pdf?id=HyzMyhCcK7)] [37:fire:] ProxQuant: Quantized Neural Networks via Proximal Operators.  [**`binarization`**]  [**`low-bit`**] [[torch](https://github.com/allenbai01/ProxQuant)] 
 - [[ICLR](https://openreview.net/pdf?id=rJfUCoR5KX)] An Empirical study of Binary Neural Networks' Optimisation.  [**`binarization`**]  
 - [[ICIP](https://researchspace.auckland.ac.nz/bitstream/handle/2292/50394/APCCAS2019.pdf?sequence=2)] Training Accurate Binary Neural Networks from Scratch.  [**`binarization`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:]
@@ -150,7 +152,10 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[NeurIPS](https://csyhhu.github.io/data/MetaQuant.pdf)] MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization. [**`low-bit`**] [[torch](https://github.com/csyhhu/MetaQuant)]
 - [[NeurIPS](https://papers.nips.cc/paper/2019/file/9ca8c9b0996bbf05ae7753d34667a6fd-Paper.pdf)] Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization.  [**`binarization`**] [[tensorflow](https://github.com/plumerai/rethinking-bnn-optimization)] 
 - [[NeurIPS](http://arxiv.org/abs/1812.11800)] [43:fire:]  Regularized Binary Network Training. [**`binarization`**] 
+- [[NeurIPS](https://www.emc2-ai.org/assets/docs/neurips-19/emc2-neurips19-paper-31.pdf)] [44:fire:] Q8BERT: Quantized 8Bit BERT.  [**`low-bit`**] [**`nlp`**] 
+- [[NeurIPS](https://www.emc2-ai.org/assets/docs/neurips-19/emc2-neurips19-paper-36.pdf)] Fully Quantized Transformer for Improved Translation.  [**`low-bit`**] [**`nlp`**] 
 - [[RoEduNet](https://ieeexplore.ieee.org/document/8909493/)] PXNOR: Perturbative Binary Neural Network.  [**`binarization`**] [[code](https://github.com/Apfelin/PXNOR)] 
+- [[SiPS](https://arxiv.org/abs/1909.01688)] Knowledge distillation for optimization of quantized deep neural networks. [**`low-bit`**]  
 - [[TMM](https://arxiv.org/abs/1708.05127)] [45:fire:] Deep Binary Reconstruction for Cross-Modal Hashing. [**`binarization`**] 
 - [[TMM](https://arxiv.org/pdf/1712.02956.pdf)] Compact Hash Code Learning With Binary Deep Neural Network.  [**`binarization`**] 
 - [[TMM](https://arxiv.org/pdf/1712.02956.pdf)] Compact Hash Code Learning With Binary Deep Neural Network.  [**`binarization`**]
@@ -161,6 +166,8 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[arxiv](http://arxiv.org/abs/1902.00730)] Self-Binarizing Networks.  [**`binarization`**] 
 - [[arxiv](https://arxiv.org/abs/1912.12607)] Towards Unified INT8 Training for Convolutional Neural Network. [**`low-bit`**]  
 - [[arxiv](http://arxiv.org/abs/1908.05858)] daBNN: A Super Fast Inference Framework for Binary Neural Networks on ARM devices.  [**`binarization`**] [**`hardware`**] [[code](https://github.com/JDAI-CV/dabnn)]
+- [[arxiv](https://arxiv.org/abs/1911.12491)] QKD: Quantization-aware Knowledge Distillation.  [**`low-bit`**]  
+- [[arxiv](https://arxiv.org/abs/1812.00090)] [59:fire:] Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search. [**`low-bit`**]  
 
 ### 2018
 
@@ -169,7 +176,6 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[CAAI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8603080)] Fast object detection based on binary deep convolution neural networks. [**`binarization`**] 
 - [[CoRR](https://arxiv.org/abs/1802.02178)] LightNN: Filling the Gap between Conventional Deep Neural Networks and Binarized Networks. [**`binarization`**] 
 - [[CoRR](https://arxiv.org/pdf/1801.06313.pdf)] BinaryRelax: A Relaxation Approach For Training Deep Neural Networks With Quantized Weights. [**`binarization`**] 
-
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Two-Step_Quantization_for_CVPR_2018_paper.pdf)] [63:fire:] Two-Step Quantization for Low-bit Neural Networks. [**`low-bit`**]  
 - [[CVPR](https://arxiv.org/abs/1908.04680)] Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations. [**`low-bit`**]
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhuang_Towards_Effective_Low-Bitwidth_CVPR_2018_paper.pdf)] [97:fire:] Towards Effective Low-bitwidth Convolutional Neural Networks. [**`low-bit`**] 
@@ -178,7 +184,6 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf)] [630:fire:] Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference. [**`low-bit`**] 
 - [[ECCV](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Qinghao_Hu_Training_Binary_Weight_ECCV_2018_paper.pdf)] Training Binary Weight Networks via Semi-Binary Decomposition. [**`binarization`**] 
 - [[ECCV](https://openaccess.thecvf.com/content_ECCV_2018/papers/Diwen_Wan_TBN_Convolutional_Neural_ECCV_2018_paper.pdf)] [47:fire:] TBN: Convolutional Neural Network with Ternary Inputs and Binary Weights. [**`binarization`**] [**`low-bit`**] [[torch](https://github.com/dnvtmf/TBN)] 
-
 - [[ECCV](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.pdf)] [202:fire:] LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks. [**`low-bit`**] [[tensorflow](https://github.com/microsoft/LQ-Nets)] [188:star:] 
 - [[ECCV](https://openaccess.thecvf.com/content_ECCV_2018/papers/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.pdf)] [145:fire:] Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm. [**`binarization`**] [[torch](https://github.com/liuzechun/Bi-Real-net)] [120:star:]
 - [[FCCM](http://aceslab.org/sites/default/files/FCCM_2018_resbinnet.pdf)] ReBNet: Residual Binarized Neural Network. [**`binarization`**] [[tensorflow](https://github.com/mohaghasemzadeh/ReBNet)] 
@@ -201,6 +206,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[TRETS](http://arxiv.org/abs/1809.04570)] [50:fire:] FINN-R: An End-to-End Deep-Learning Framework for Fast Exploration of Quantized Neural Networks.  [**`low-bit`**] 
 - [[TVLSI](http://ieeexplore.ieee.org/document/8103902/)] An Energy-Efficient Architecture for Binary Weight Convolutional Neural Networks. [**`binarization`**] 
 - [[arxiv](https://arxiv.org/abs/1812.01965)] Training Competitive Binary Neural Networks from Scratch. [**`binarization`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:] 
+- [[arxiv](https://arxiv.org/abs/1811.09426)] Joint Neural Architecture Search and Quantization.  [**`low-bit`**] [[torch](https://github.com/yukang2017/NAS-quantization)] 
 
 ### 2017
 
