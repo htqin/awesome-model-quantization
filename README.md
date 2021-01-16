@@ -8,6 +8,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 - [Survey of BNN](#Survey\_of\_BNN)
 - [Papers](#Papers)
+	- [2021](#2021)
 	- [2020](#2020)
 	- [2019](#2019)
 	- [2018](#2018)
