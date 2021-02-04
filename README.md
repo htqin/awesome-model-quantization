@@ -62,6 +62,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[ICLR](https://openreview.net/forum?id=TiXl51SCNw8)] BSQ: Exploring Bit-Level Sparsity for Mixed-Precision Neural Network Quantization. [__`low-bit`__] 
 - [[ICLR](https://openreview.net/forum?id=Qr0aRliE_Hb)] Simple Augmentation Goes a Long Way: ADRL for DNN Quantization. [__`low-bit`__] 
 - [[ICLR](https://openreview.net/forum?id=pBqLS-7KYAF)] Sparse Quantized Spectral Clustering. [__`low-bit`__] 
+- [[ICLR](https://arxiv.org/pdf/2007.13242.pdf)] WrapNet: Neural Net Inference with Ultra-Low-Resolution Arithmetic. [__`low-bit`__] 
 
 ### 2020
 
