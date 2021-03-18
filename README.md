@@ -50,7 +50,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 
 ### 2021
 
-- [[CVPR](https://arxiv.org/abs/2103.01049)] Diversifying Sample Generation for Accurate Data-Free Quantization. [**`quantization`**]
+- [[CVPR](https://arxiv.org/abs/2103.01049)] Diversifying Sample Generation for Accurate Data-Free Quantization. [__`low-bit`__]
 - [[ICLR](https://openreview.net/forum?id=9QLRCVysdlO)] BiPointNet: Binary Neural Network for Point Clouds. [**`binarization`**] [[torch](https://github.com/htqin/BiPointNet)]
 - [[ICLR](https://openreview.net/forum?id=sTeoJiB4uR)] Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks. [**`binarization`**] 
 - [[ICLR](https://openreview.net/forum?id=MxaY4FzOTa)] High-Capacity Expert Binary Networks. [**`binarization`**] 
@@ -64,6 +64,20 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 - [[ICLR](https://openreview.net/forum?id=Qr0aRliE_Hb)] Simple Augmentation Goes a Long Way: ADRL for DNN Quantization. [__`low-bit`__] 
 - [[ICLR](https://openreview.net/forum?id=pBqLS-7KYAF)] Sparse Quantized Spectral Clustering. [__`low-bit`__] 
 - [[ICLR](https://arxiv.org/pdf/2007.13242.pdf)] WrapNet: Neural Net Inference with Ultra-Low-Resolution Arithmetic. [__`low-bit`__] 
+- [[AAAI](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4-rjuq7nvAhUVPH0KHXlYCUQQFjAFegQIChAD&url=https%3A%2F%2Fwww.aaai.org%2FAAAI21Papers%2FAAAI-7144.ZhaoK.pdf&usg=AOvVaw3dnOXfzKkLIw_qWXj7p7Yc)] Distribution Adaptive INT8 Quantization for Training CNNs. [__`low-bit`__]
+- [[AAAI](https://arxiv.org/abs/2009.14502)] Stochastic Precision Ensemble: Self-­‐Knowledge Distillation for Quantized Deep Neural Networks. [__`low-bit`__]
+- [[AAAI]()] Optimizing Information Theory Based Bitwise Bottlenecks for Efficient Mixed-­Precision Activation Quantization. [__`low-bit`__]
+- [[AAAI](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjD6aPrqbnvAhXeIDQIHWNdDCUQFjADegQIAxAD&url=https%3A%2F%2Fwww.aaai.org%2FAAAI21Papers%2FAAAI-1054.HuP.pdf&usg=AOvVaw2R_BcDlKyuuAPHMeO0Q-1c)] OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization. [__`low-bit`__]
+- [[AAAI](https://arxiv.org/pdf/2012.08185)] Scalable Verification of Quantized Neural Networks. [__`low-bit`__]
+- [[AAAI]()] Uncertainty Quantification in CNN through the Bootstrap of Convex Neural Networks. [__`low-bit`__]
+- [[AAAI](https://www.semanticscholar.org/paper/FracBits%3A-Mixed-Precision-Quantization-via-Yang-Jin/cb219432863778fa173925d51fbf02af1d17ad98)] FracBits:  Mixed Precision Quantization via Fractional Bit-­Widths. [__`low-bit`__]
+- [[AAAI](https://arxiv.org/pdf/2002.09049)] Post-­‐training Quantization with Multiple Points: Mixed Precision without Mixed Precision. [__`low-bit`__]
+- [[AAAI](https://arxiv.org/pdf/1907.05911)] Vector Quantized Bayesian Neural Network Inference for Data Streams. [__`low-bit`__]
+- [[AAAI](https://www.aaai.org/AAAI21Papers/AAAI-4473.LiY.pdf)] TRQ: Ternary Neural Networks with Residual Quantization. [__`low-bit`__]
+- [[AAAI](https://arxiv.org/pdf/2010.02577)] Memory and Computation-­Efficient Kernel SVM via Binary Embedding and Ternary Coefficients.  [**`binarization`**] 
+- [[AAAI](https://arxiv.org/pdf/2010.02778)] Compressing Deep Convolutional Neural Networks by Stacking Low-­Dimensional Binary Convolution Filters.  [**`binarization`**] 
+- [[AAAI]()] Training Binary Neural Network without Batch Normalization for Image Super-Resolution.  [**`binarization`**]
+- [[AAAI]()] SA-BNN: State-­Aware Binary Neural Network.  [**`binarization`**]
 
 ### 2020
 
