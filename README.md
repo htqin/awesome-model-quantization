@@ -6,7 +6,9 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
-- [Survey of BNN](#Survey\_of\_BNN)
+- [Survey Papers](#Survey_Papers)
+  - [Survey of Binarization](#Survey_of_Binarization)
+  - [Survey of Quantization](#Survey_of_Quantization)
 - [Papers](#Papers)
 	- [2021](#2021)
 	- [2020](#2020)
@@ -19,7 +21,9 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 
 
-## Survey_of_BNN
+## Survey_Papers
+
+### Survey_of_Binarization
 
 Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is a comprehensive survey of recent progress in binary neural networks. For details, please refer to:
 
@@ -37,6 +41,23 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 }</code></pre></details>
 
 ![survey](./Docs/imgs/survey.png)
+
+### Survey_of_Quantization
+
+The survey paper **A Survey of Quantization Methods for Efficient Neural Network Inference** (ArXiv) is a comprehensive survey of recent progress in quantization. For details, please refer to:
+
+**A Survey of Quantization Methods for Efficient Neural Network Inference** [[Paper](https://arxiv.org/abs/2103.13630)]
+
+Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney, Kurt Keutzer. (\* Equal contribution)
+
+<details><summary>Bibtex</summary><pre><code>@misc{gholami2021survey,
+      title={A Survey of Quantization Methods for Efficient Neural Network Inference}, 
+      author={Amir Gholami and Sehoon Kim and Zhen Dong and Zhewei Yao and Michael W. Mahoney and Kurt Keutzer},
+      year={2021},
+      eprint={2103.13630},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}</code></pre></details>
 
 
 
