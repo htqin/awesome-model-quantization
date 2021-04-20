@@ -63,7 +63,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ## Papers
 
-**Keywords**: **`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | **`nlp`**: Based on Natural Language Processing Models | __`other`__: Other Relative Methods 
+**Keywords**: **`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | **`mixed`**: Mixed Precision | **`nlp`**: Based on Natural Language Processing Models | __`other`__: Other Relative Methods 
 
 **Statistics**:  :fire: highly cited | :star: code is available and star > 50
 
@@ -131,6 +131,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ICLR](https://xhplus.github.io/publication/conference-paper/iclr2020/dms/DMS.pdf)] DMS: Differentiable Dimension Search for Binary Neural Networks.  [**`binarization`**] 
 - [[ICLR]()] [19:fire:] Training Binary Neural Networks with Real-to-Binary Convolutions. [**`binarization`**] [[code is comming](https://github.com/brais-martinez/real2binary)] [[re-implement](https://github.com/larq/zoo/blob/master/larq_zoo/literature/real_to_bin_nets.py)] <!--citation 19-->
 - [[ICLR](https://arxiv.org/abs/2002.06517)] BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations. [**`binarization`**] [[torch](https://github.com/Hyungjun-K1m/BinaryDuo)] <!--citation 6-->
+- [[ICLR](https://openreview.net/forum?id=Hyx0slrFvH)] Mixed Precision DNNs: All You Need is a Good Parametrization. [**`mixed`**] [[code](https://github.com/sony/ai-research-code/tree/master/mixed-precision-dnns)] [73:star:]
 - [[IJCV](https://arxiv.org/abs/2009.04247)] Binarized Neural Architecture Search for Efficient Object Recognition. [**`binarization`**] <!--citation 0-->
 - [[IJCAI](https://arxiv.org/pdf/2005.00057.pdf)] CP-NAS: Child-Parent Neural Architecture Search for Binary Neural Networks.  [**`binarization`**] 
 - [[IJCAI](https://www.ijcai.org/Proceedings/2020/0520.pdf)] Towards Fully 8-bit Integer Inference for the Transformer Model. [**`low-bit`**] [**`nlp`**] 
