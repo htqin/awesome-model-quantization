@@ -99,6 +99,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[AAAI](https://arxiv.org/pdf/2010.02778)] Compressing Deep Convolutional Neural Networks by Stacking Low-­Dimensional Binary Convolution Filters.  [**`binarization`**] 
 - [[AAAI]()] Training Binary Neural Network without Batch Normalization for Image Super-Resolution.  [**`binarization`**]
 - [[AAAI]()] SA-BNN: State-­Aware Binary Neural Network.  [**`binarization`**]
+- [[arxiv](http://arxiv.org/abs/2103.12369)] ReCU: Reviving the Dead Weights in Binary Neural Networks.  [**`binarization`**] [[torch](https://github.com/z-hXu/ReCU)]
 
 ### 2020
 
