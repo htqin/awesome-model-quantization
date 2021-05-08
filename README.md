@@ -284,7 +284,6 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](https://arxiv.org/abs/1812.01965)] Training Competitive Binary Neural Networks from Scratch. [**`binarization`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:] 
 - [[arxiv](https://arxiv.org/abs/1811.09426)] Joint Neural Architecture Search and Quantization.  [**`low-bit`**] [[torch](https://github.com/yukang2017/NAS-quantization)] 
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Explicit_Loss-Error-Aware_Quantization_CVPR_2018_paper.html)] Explicit loss-error-aware quantization for low-bit deep neural networks. [**`low-bit`**]
-- 
 
 
 ### 2017
