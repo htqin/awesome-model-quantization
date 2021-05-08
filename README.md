@@ -71,6 +71,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ### 2021
 
+- [[CVPR](https://arxiv.org/abs/2012.15823)] Binary Graph Neural Networks [**`binarization`**] [[torch](https://github.com/mbahri/binary_gnn)]
 - [[CVPR](https://arxiv.org/abs/2103.01049)] Diversifying Sample Generation for Accurate Data-Free Quantization. [__`low-bit`__]
 - [[ICLR](https://openreview.net/forum?id=9QLRCVysdlO)] BiPointNet: Binary Neural Network for Point Clouds. [**`binarization`**] [[torch](https://github.com/htqin/BiPointNet)]
 - [[ICLR](https://openreview.net/forum?id=sTeoJiB4uR)] Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks. [**`binarization`**] 
