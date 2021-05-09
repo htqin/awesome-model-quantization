@@ -380,10 +380,11 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 ### Publications
 
-* H. Qin, Z. Cai, M. Zhang, Y. Ding, H. Zhao, S. Yi, X. Liu, H. Su. [BiPointNet: Binary Neural Network for Point Clouds](https://arxiv.org/abs/2010.05501). *International Conference on Learning Representations (ICLR)*, 2021.
+* Xiangguo Zhang*, Haotong Qin\*, Yifu Ding, Ruihao Gong, Qinghua Yan, Renshuai Tao, Yuhang Li, Fengwei Yu, Xianglong Liu. [Diversifying Sample Generation for Data-Free Quantization](https://arxiv.org/abs/2103.01049). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021 (Oral). (\* equal contribution)
+* Haotong Qin\*, Zhongang Cai\*, Mingyuan Zhang\*, Yifu Ding, Haiyu Zhao, Shuai Yi, Xianglong Liu, Hao Su. [BiPointNet: Binary Neural Network for Point Clouds](https://arxiv.org/abs/2010.05501). *International Conference on Learning Representations (ICLR)*, 2021. (\* equal contribution)
 
-- H. Qin, R. Gong, X. Liu\*, X. Bai, J. Song, N. Sebe. [Binary Neural Network: A Survey](https://htqin.github.io/Pubs/pr2020_BNN_survey.pdf). *Pattern Recognition (PR)*, 2020.
-- H. Qin, R. Gong, X. Liu\*, M. Shen, Z. Wei, F. Yu, J. Song. [Forward and Backward Information Retention for Accurate Binary Neural Networks](https://arxiv.org/abs/1909.10788). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020.
+- Haotong Qin, Ruihao Gong, Xianglong Liu, Xiao Bai, Jingkuan Song, Nicu Sebe. [Binary Neural Network: A Survey](https://htqin.github.io/Pubs/pr2020_BNN_survey.pdf). *Pattern Recognition (PR)*, 2020.
+- Haotong Qin, Ruihao Gong, Xianglong Liu, Mingzhu Shen, Ziran Wei, Fengwei Yu, Jingkuan Song. [Forward and Backward Information Retention for Accurate Binary Neural Networks](https://arxiv.org/abs/1909.10788). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020.
 - Y. Wu, X. Liu\*, H. Qin , K. Xia, S. Hu, Y. Ma, M. Wang. [Boosting Temporal Binary Coding for Large-scale Video Search](https://www.researchgate.net/publication/339823422_Boosting_Temporal_Binary_Coding_for_Large-scale_Video_Search). *IEEE Transactions on Multimedia (TMM)*, 2020.
 - F. Zhu, R. Gong, F. Yu, X. Liu, Y. Wang, Z. Li, X. Yang, J. Yan. [Towards Unified INT8 Training for Convolutional Neural Network](https://xhplus.github.io/publication/conference-paper/cvpr2020/int8_training/). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020.
 - Y. Li, R. Gong, F. Yu, X. Dong, X. Liu. [DMS: Differentiable Dimension Search for Binary Neural Networks](https://xhplus.github.io/publication/conference-paper/iclr2020/dms/), *International Conference on Learning Representations workshop on Neural Architecture Search (ICLR NAS workshop)*, 2020.
