@@ -71,8 +71,11 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ### 2021
 
-- [[CVPR](https://arxiv.org/abs/2012.15823)] Binary Graph Neural Networks [**`binarization`**] [[torch](https://github.com/mbahri/binary_gnn)]
 - [[CVPR](https://arxiv.org/abs/2103.01049)] Diversifying Sample Generation for Accurate Data-Free Quantization. [__`low-bit`__]
+- [[CVPR](https://arxiv.org/abs/2103.07156)] Learnable Companding Quantization for Accurate Low-bit Neural Networks. [__`low-bit`__] 
+- [[CVPR](https://arxiv.org/abs/2103.15263)] Zero-shot Adversarial Quantization. [__`low-bit`__] [[torch](https://github.com/FLHonker/ZAQ-code)]
+- [[CVPR](https://arxiv.org/abs/2012.15823)] Binary Graph Neural Networks. [**`binarization`**] [[torch](https://github.com/mbahri/binary_gnn)]
+- [[CVPR](https://arxiv.org/abs/2104.00903)] Network Quantization with Element-wise Gradient Scaling. [__`low-bit`__] [[torch](https://github.com/cvlab-yonsei/EWGS)]
 - [[ICLR](https://openreview.net/forum?id=9QLRCVysdlO)] BiPointNet: Binary Neural Network for Point Clouds. [**`binarization`**] [[torch](https://github.com/htqin/BiPointNet)]
 - [[ICLR](https://openreview.net/forum?id=sTeoJiB4uR)] Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks. [**`binarization`**] 
 - [[ICLR](https://openreview.net/forum?id=MxaY4FzOTa)] High-Capacity Expert Binary Networks. [**`binarization`**] 
@@ -86,6 +89,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ICLR](https://openreview.net/forum?id=Qr0aRliE_Hb)] Simple Augmentation Goes a Long Way: ADRL for DNN Quantization. [__`low-bit`__] 
 - [[ICLR](https://openreview.net/forum?id=pBqLS-7KYAF)] Sparse Quantized Spectral Clustering. [__`low-bit`__] 
 - [[ICLR](https://arxiv.org/pdf/2007.13242.pdf)] WrapNet: Neural Net Inference with Ultra-Low-Resolution Arithmetic. [__`low-bit`__] 
+- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf)] PAMS: Quantized Super-Resolution via Parameterized Max Scale. [__`low-bit`__] 
 - [[AAAI](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4-rjuq7nvAhUVPH0KHXlYCUQQFjAFegQIChAD&url=https%3A%2F%2Fwww.aaai.org%2FAAAI21Papers%2FAAAI-7144.ZhaoK.pdf&usg=AOvVaw3dnOXfzKkLIw_qWXj7p7Yc)] Distribution Adaptive INT8 Quantization for Training CNNs. [__`low-bit`__]
 - [[AAAI](https://arxiv.org/abs/2009.14502)] Stochastic Precision Ensemble: Self‐Knowledge Distillation for Quantized Deep Neural Networks. [__`low-bit`__]
 - [AAAI] Optimizing Information Theory Based Bitwise Bottlenecks for Efficient Mixed-Precision Activation Quantization. [__`low-bit`__]
