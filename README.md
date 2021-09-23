@@ -104,8 +104,11 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[AAAI](https://arxiv.org/pdf/2010.02778)] Compressing Deep Convolutional Neural Networks by Stacking Low-­Dimensional Binary Convolution Filters.  [**`binarization`**] 
 - [[AAAI]()] Training Binary Neural Network without Batch Normalization for Image Super-Resolution.  [**`binarization`**]
 - [[AAAI]()] SA-BNN: State-­Aware Binary Neural Network.  [**`binarization`**]
+- [[ACL](https://aclanthology.org/2021.findings-acl.363)] On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers. [__`low-bit`__] 
 - [[arxiv](https://arxiv.org/abs/1911.07346)] Any-Precision  Deep Neural Networks.  [__`mixed`__] [[torch](https://github.com/SHI-Labs/Any-Precision-DNNs)]
 - [[arxiv](http://arxiv.org/abs/2103.12369)] ReCU: Reviving the Dead Weights in Binary Neural Networks.  [**`binarization`**] [[torch](https://github.com/z-hXu/ReCU)]
+- [[arxiv](https://arxiv.org/abs/2106.14156)] Post-Training Quantization for Vision Transformer. [**`nlp`**]
+- [[arxiv](http://arxiv.org/abs/2103.13630)] A Survey of Quantization Methods for Efficient Neural Network Inference. 
 
 ### 2020
 
@@ -168,6 +171,9 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[PR](https://arxiv.org/abs/2004.03333)] [23:fire:] Binary neural networks: A survey. [**`binarization`**]  <!--citation 23-->
 - [[PR Letters](https://arxiv.org/abs/2008.01438)] Controlling information capacity of binary neural network. [**`binarization`**]   <!--citation 0-->
 - [[SysML](https://ubicomplab.cs.washington.edu/pdfs/riptide.pdf)] Riptide: Fast End-to-End Binarized Neural Networks. [**`low-bit`**]  [[tensorflow](https://github.com/jwfromm/Riptide)] [129:star:] <!--citation 5-->
+- [[TPAMI](https://ieeexplore.ieee.org/document/8444745/)] Hierarchical Binary CNNs for Landmark Localization with Limited Resources. [**`binarization`**]  [[homepage](https://www.adrianbulat.com/binary-cnn-landmarks)] [[code](https://github.com/1adrianb/binary-human-pose-estimation)]
+- [[TPAMI](https://ieeexplore.ieee.org/document/8573867/)] Deep Neural Network Compression by In-Parallel Pruning-Quantization. 
+- [[TPAMI](https://ieeexplore.ieee.org/document/8674614/)] Towards Efficient U-Nets: A Coupled and Quantized Approach. 
 - [[TVLSI](https://arxiv.org/pdf/2003.02628.pdf)] Phoenix: A Low-Precision Floating-Point Quantization Oriented Architecture for Convolutional Neural Networks. [**`low-bit`**] <!--citation 0-->
 - [[WACV](https://openaccess.thecvf.com/content_WACV_2020/papers/Phan_MoBiNet_A_Mobile_Binary_Network_for_Image_Classification_WACV_2020_paper.pdf)] MoBiNet: A Mobile Binary Network for Image Classification. [**`binarization`**] <!--citation 11-->
 - [[IEEE Access](https://ieeexplore.ieee.org/document/9091590/)] An Energy-Efficient and High Throughput in-Memory Computing Bit-Cell With Excellent Robustness Under Process Variations for Binary Neural Network. [**`binarization`**]  [**`hardware`**]  <!--citation 0-->
