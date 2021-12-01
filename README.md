@@ -41,7 +41,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
 }</code></pre></details>
 
 
-![survey](D:/quantization/awesome-model-quantization/Docs/imgs/survey.png)
+![survey](./Docs/imgs/survey.png)
 
 ### Survey_of_Quantization
 
