@@ -25,11 +25,11 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ### MQBench
 
-The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (*NeurIPS 2021*) is a benchmark and framework for evluating the quantization algorithms under real world hardware deployments.. For details, please refer to:
+The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (*NeurIPS 2021*) is a benchmark and framework for evluating the quantization algorithms under real world hardware deployments. For details, please refer to:
 
 **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**  [[Paper](https://arxiv.org/abs/2004.03333)]  [[Project](http://mqbench.tech/)]
 
-Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, Ruihao Gong, Fengwei Yu, Junjie Yan.
+Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong](https://xhplus.github.io/), Fengwei Yu, Junjie Yan.
 
 <details><summary>Bibtex</summary><pre><code>@article{2021MQBench,
   title = "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark",
@@ -397,11 +397,11 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 [**Haotong Qin**](https://htqin.github.io/)
 
-* Haotong Qin is a Ph.D. student in the State Key Laboratory of Software Development Environment (SKLSDE) and Shen Yuan Honors College at Beihang University, supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). I obtained a B.Eng degree in computer science and engineering from Beihang University, and interned at the MSRA and Tencent WXG. I'm interested in hardware-friendly deep learning and neural network quantization. And my research goal is to enable state-of-the-art neural network models to be deployed on resource-limited hardware, which includes the compression and acceleration for multiple architectures, and the flexible and efficient deployment on multiple hardware.
+* Haotong Qin is a Ph.D. student in the State Key Laboratory of Software Development Environment (SKLSDE) and Shen Yuan Honors College at Beihang University, supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). And He is also a student researcher in Bytedance AI Lab. He obtained a B.Eng degree in computer science and engineering from Beihang University, and interned at the MSRA and Tencent WXG. I'm interested in hardware-friendly deep learning and neural network quantization. And his research goal is to enable state-of-the-art neural network models to be deployed on resource-limited hardware, which includes the compression and acceleration for multiple architectures, and the flexible and efficient deployment on multiple hardware.
 
-**Xiangguo Zhang** 
+**[Ruihao Gong](https://xhplus.github.io/)**
 
-* Xiangguo Zhang is a graduate student in the School of Computer Science of Beihang University, under the guidance of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). He received a bachelor's degree from Shandong University in 2019 and entered Beihang University in the same year. Currently, he is interested in computer vision and post training quantization.
+* Ruihao Gong is currently a Ph.D. student in in the State Key Laboratory of Software Development Environment (SKLSDE) and a senior researcher at SenseTime. Since 2017, he worked on the build-up of computer vision systems and model quantization as an intern at Sensetime Research, where he enjoyed working with the talented researchers and grew up a lot with the help of [Fengwei Yu](http://forwil.xyz/), [Wei Wu](https://wuwei-ai.org/), [Jing Shao](https://amandajshao.github.io/), and [Junjie Yan](https://yan-junjie.github.io/). During the early time of the internship, he independently took responsibility for the development of intelligent video analysis system Sensevideo. Later, he started the research on model quantization which can speed up the inference and even the training of neural networks on edge devices. Now he is devoted to further promoting the accuracy of extremely low-bit models and the auto-deployment of quantized models.
 
 **Yifu Ding**
 
@@ -415,11 +415,26 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 * I am a senior student in the Sino-French Engineer School at [Beihang University](https://www.buaa.edu.cn/). I just started the research on model compression in the Skate Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). I have great enthusiasm for deep learning and model quantization and I really enjoy working with my talented teammates.
 
+**Hong Chen**
+
+### Interns
+
+**Aoyu Li**
+* I am a senior student in the School of Computer Science and Engineering at Beihang University. Supervised by Prof. Xianglong Liu, I am currently conducting research on model quantization. My research interests are mainly about model compression, deployment and AI systems.
+
+
+**Xudong Ma**
+
+
+**Yuxuan Wen**
+
+
 ### Alumnus
 
-**[Ruihao Gong](https://xhplus.github.io/)**
+**Xiangguo Zhang** 
 
-* Ruihao Gong is currently a senior researcher at SenseTime. Before this, he studied at Beihang University under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Since 2017, he worked on the build-up of computer vision systems and model quantization as an intern at Sensetime Research, where he enjoyed working with the talented researchers and grew up a lot with the help of [Fengwei Yu](http://forwil.xyz/), [Wei Wu](https://wuwei-ai.org/), [Jing Shao](https://amandajshao.github.io/), and [Junjie Yan](https://yan-junjie.github.io/). During the early time of the internship, he independently took responsibility for the development of intelligent video analysis system Sensevideo. Later, he started the research on model quantization which can speed up the inference and even the training of neural networks on edge devices. Now he is devoted to further promoting the accuracy of extremely low-bit models and the auto-deployment of quantized models.
+* Xiangguo Zhang achieved the master degree in the School of Computer Science of Beihang University, under the guidance of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). He received a bachelor's degree from Shandong University in 2019 and entered Beihang University in the same year. Currently, he is interested in computer vision and post training quantization.
+
 
 ### Publications
 
