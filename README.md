@@ -6,6 +6,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
+- [Benchmark](#Benchmark)
 - [Survey Papers](#Survey_Papers)
   - [Survey of Binarization](#Survey_of_Binarization)
   - [Survey of Quantization](#Survey_of_Quantization)
@@ -31,7 +32,7 @@ The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benc
 Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, Ruihao Gong, Fengwei Yu, Junjie Yan.
 
 <details><summary>Bibtex</summary><pre><code>@article{2021MQBench,
-	title = "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark",
+  title = "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark",
   author= "Yuhang Li* and Mingzhu Shen* and Jian Ma* and Yan Ren* and Mingxin Zhao* and Qi Zhang* and Ruihao Gong and Fengwei Yu and Junjie Yan",
   journal = "https://openreview.net/forum?id=TUplOmF8DsM",
   year = "2021"
