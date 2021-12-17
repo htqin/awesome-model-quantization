@@ -435,6 +435,7 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 * Xiangguo Zhang achieved the master degree in the School of Computer Science of Beihang University, under the guidance of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). He received a bachelor's degree from Shandong University in 2019 and entered Beihang University in the same year. Currently, he is interested in computer vision and post training quantization.
 
+**Mingzhu Shen** 
 
 ### Publications
 
