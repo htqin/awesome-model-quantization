@@ -20,6 +20,24 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 - [Our Team](#Our_Team)
 
 
+##  Benchmark
+
+### MQBench
+
+The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (*NeurIPS 2021*) is a benchmark and framework for evluating the quantization algorithms under real world hardware deployments.. For details, please refer to:
+
+**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**  [[Paper](https://arxiv.org/abs/2004.03333)]  [[Project](http://mqbench.tech/)]
+
+Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, Ruihao Gong, Fengwei Yu, Junjie Yan.
+
+<details><summary>Bibtex</summary><pre><code>@article{2021MQBench,
+	title = "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark",
+  author= "Yuhang Li* and Mingzhu Shen* and Jian Ma* and Yan Ren* and Mingxin Zhao* and Qi Zhang* and Ruihao Gong and Fengwei Yu and Junjie Yan",
+  journal = "https://openreview.net/forum?id=TUplOmF8DsM",
+  year = "2021"
+}</code></pre></details>
+
+
 
 ## Survey_Papers
 
