@@ -138,6 +138,8 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](http://arxiv.org/abs/2103.12369)] ReCU: Reviving the Dead Weights in Binary Neural Networks.  [**`binarization`**] [[torch](https://github.com/z-hXu/ReCU)]
 - [[arxiv](https://arxiv.org/abs/2106.14156)] Post-Training Quantization for Vision Transformer. [**`nlp`**]
 - [[arxiv](http://arxiv.org/abs/2103.13630)] A Survey of Quantization Methods for Efficient Neural Network Inference. 
+- [[arxv](https://arxiv.org/pdf/2111.13824.pdf)] FQ-ViT: Fully Quantized Vision Transformer without Retraining.  [__`low-bit`__] [[torch](https://github.com/linyang-zhh/FQ-ViT)] 
+- [[arxiv](https://arxiv.org/pdf/2111.12293.pdf)] PTQ4ViT: Post-Training Quantization Framework for Vision Transformers. [__`low-bit`__] 
 
 ### 2020
 
