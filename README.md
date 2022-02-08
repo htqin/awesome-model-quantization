@@ -75,7 +75,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ## Papers
 
-**Keywords**: **`low-bit`**: Low-bit Quantization | **`binarization`** | **`hardware`** | **`mixed`**: Mixed Precision | **`nlp`**: Based on Natural Language Processing Models | __`other`__: Other Relative Methods 
+**Keywords**: **`qnn`**: quantized neural networks | **`bnn`**: binarized neural networks | **`hardware`**: hardware deployment | **`snn`**: spiking neural networks | __`other`__ 
 
 **Statistics**:  :fire: highly cited | :star: code is available and star > 50
 
@@ -147,7 +147,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ACL](https://aclanthology.org/2021.findings-acl.363)] On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers. [__`qnn`__] 
 - [[arxiv](https://arxiv.org/abs/1911.07346)] Any-Precision  Deep Neural Networks.  [__`mixed`__] [[torch](https://github.com/SHI-Labs/Any-Precision-DNNs)]
 - [[arxiv](http://arxiv.org/abs/2103.12369)] ReCU: Reviving the Dead Weights in Binary Neural Networks.  [**`bnn`**] [[torch](https://github.com/z-hXu/ReCU)]
-- [[arxiv](https://arxiv.org/abs/2106.14156)] Post-Training Quantization for Vision Transformer. [**`nlp`**]
+- [[arxiv](https://arxiv.org/abs/2106.14156)] Post-Training Quantization for Vision Transformer. [**`qnn`**]
 - [[arxiv](http://arxiv.org/abs/2103.13630)] A Survey of Quantization Methods for Efficient Neural Network Inference. 
 - [[arxv](https://arxiv.org/pdf/2111.13824.pdf)] FQ-ViT: Fully Quantized Vision Transformer without Retraining.  [__`qnn`__] [[torch](https://github.com/linyang-zhh/FQ-ViT)] 
 - [[arxiv](https://arxiv.org/pdf/2111.12293.pdf)] PTQ4ViT: Post-Training Quantization Framework for Vision Transformers. [__`qnn`__] 
@@ -156,7 +156,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 - [[ACL](https://www.aclweb.org/anthology/2020.sustainlp-1.4.pdf)] End to End Binarized Neural Networks for Text Classification. [**`bnn`**] <!--citation 0-->
 - [[AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/6035)] HLHLp: Quantized Neural Networks Traing for Reaching Flat Minima in Loss Sufrface. [__`qnn`__] 
-- [[AAAI](https://arxiv.org/abs/1909.05840)] [72:fire:] Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT.  [__`qnn`__] [**`nlp`**]
+- [[AAAI](https://arxiv.org/abs/1909.05840)] [72:fire:] Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT.  [__`qnn`__] 
 - [[AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/6900)] Sparsity-Inducing Binarized Neural Networks. [**`bnn`**] 
 - [[AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/6134)] Towards Accurate Low Bit-Width Quantization with Multiple Phase Adaptations. 
 - [[COOL CHIPS](https://ieeexplore.ieee.org/document/9097642/)] A Novel In-DRAM Accelerator Architecture for Binary Neural Network.  [**`hardware`**]  <!--citation 0-->
@@ -176,8 +176,8 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480222.pdf)] ProxyBNN: Learning Binarized Neural Networks via Proxy Matrices. [**`bnn`**] <!--citation 2-->
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590137.pdf)] ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions. [**`bnn`**] [[torch](https://github.com/liuzechun/ReActNet)] [108:star:]  <!--citation 7-->
 - [[ECCV](https://arxiv.org/abs/2007.10463)] Differentiable Joint Pruning and Quantization for Hardware Efficiency.  [**`hardware`**] <!--citation 6-->
-- [[EMNLP](https://arxiv.org/abs/2009.12812)] TernaryBERT: Distillation-aware Ultra-low Bit BERT. [**`qnn`**] [**`nlp`**]
-- [[EMNLP](https://arxiv.org/abs/1910.10485)] Fully Quantized Transformer for Machine Translation. [**`qnn`**] [**`nlp`**]
+- [[EMNLP](https://arxiv.org/abs/2009.12812)] TernaryBERT: Distillation-aware Ultra-low Bit BERT. [**`qnn`**] 
+- [[EMNLP](https://arxiv.org/abs/1910.10485)] Fully Quantized Transformer for Machine Translation. [**`qnn`**] 
 - [[ICET](https://ieeexplore.ieee.org/document/9119704)] An Energy-Efficient Bagged Binary Neural Network Accelerator. [**`bnn`**]  [**`hardware`**]  <!--citation 0-->
 - [[ICASSP](https://ieeexplore.ieee.org/document/9054599)] Balanced Binary Neural Networks with Gated Residual. [**`bnn`**]  <!--citation 3-->
 - [[ICML](https://proceedings.icml.cc/static/paper_files/icml/2020/181-Paper.pdf)] Training Binary Neural Networks through Learning with Noisy Supervision. [**`bnn`**]  <!--citation 5-->
@@ -195,7 +195,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ISCAS](https://arxiv.org/pdf/2004.08914.pdf)] MuBiNN: Multi-Level Binarized Recurrent Neural Network for EEG Signal Classification. [**`bnn`**] <!--citation 0-->
 - [[ISQED](https://ieeexplore.ieee.org/document/9136977)] BNN Pruning: Pruning Binary Neural Network Guided by Weight Flipping Frequency. [**`bnn`**] [[torch](https://github.com/PSCLab-ASU/BNNPruning)] <!--citation 0-->
 - [[MICRO](http://arxiv.org/abs/2005.03842)] GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference. [**`qnn`**] [**`nlp`**] 
-- [[MLST](https://arxiv.org/abs/2003.06308)] Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML. [**`hardware`**]  [**`bnn`**]  [**`qnn`**] <!--citation 11-->
+- [[MLST](https://arxiv.org/abs/2003.06308)] Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML. [**`hardware`**]  [**`qnn`**] <!--citation 11-->
 - [[NeurIPS](https://papers.nips.cc/paper/2020/file/53c5b2affa12eed84dfec9bfd83550b1-Paper.pdf)] Rotated Binary Neural Network. [**`bnn`**] [[torch](https://github.com/lmbxmu/RBNN)]
 - [[NeurIPS](https://proceedings.neurips.cc/paper/2020/file/2a084e55c87b1ebcdaad1f62fdbbac8e-Paper.pdf)] Searching for Low-Bit Weights in Quantized Neural Networks. [**`qnn`**] [[torch](https://github.com/zhaohui-yang/Binary-Neural-Networks/tree/main/SLB)]  <!--citation 4-->
 - [[NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/92049debbe566ca5782a3045cf300a3c-Abstract.html)] Universally Quantized Neural Compression.  [**`qnn`**]
@@ -237,7 +237,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ### 2019
 
-- [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4273/4151)] Efficient Quantization for Neural Networks with Binary Weights and Low Bitwidth Activations. [**`qnn`**]  [**`bnn`**]
+- [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4273/4151)] Efficient Quantization for Neural Networks with Binary Weights and Low Bitwidth Activations. [**`qnn`**]
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4848/4721)] [31:fire:]  Projection Convolutional Neural Networks for 1-bit CNNs via Discrete Back Propagation.  [**`bnn`**] 
 - [[APCCAS](https://ieeexplore.ieee.org/document/8953134/)] Using Neuroevolved Binary Neural Networks to solve reinforcement learning environments. [**`bnn`**] [[code](https://github.com/rval735/BiSUNA)] 
 - [[BMVC](https://arxiv.org/abs/1909.13863)] [32:fire:] XNOR-Net++: Improved Binary Neural Networks. [**`bnn`**]
@@ -265,7 +265,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ICCV](https://openaccess.thecvf.com/content_ICCVW_2019/papers/NeurArch/Shen_Searching_for_Accurate_Binary_Neural_Architectures_ICCVW_2019_paper.pdf)] Searching for Accurate Binary Neural Architectures. [**`bnn`**] 
 - [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Nagel_Data-Free_Quantization_Through_Weight_Equalization_and_Bias_Correction_ICCV_2019_paper.html)] Data-Free Quantization Through Weight Equalization and Bias Correction.  [**`qnn`**]  [**`hardware`**] [[torch](https://github.com/jakc4103/DFQ)]
 - [[ICML](https://arxiv.org/abs/1906.00532v2)] Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model.  [**`qnn`**] [**`nlp`**]
-- [[ICLR](https://openreview.net/pdf?id=HyzMyhCcK7)] [37:fire:] ProxQuant: Quantized Neural Networks via Proximal Operators.  [**`bnn`**]  [**`qnn`**] [[torch](https://github.com/allenbai01/ProxQuant)] 
+- [[ICLR](https://openreview.net/pdf?id=HyzMyhCcK7)] [37:fire:] ProxQuant: Quantized Neural Networks via Proximal Operators.  [**`qnn`**] [[torch](https://github.com/allenbai01/ProxQuant)] 
 - [[ICLR](https://openreview.net/pdf?id=rJfUCoR5KX)] An Empirical study of Binary Neural Networks' Optimisation.  [**`bnn`**]  
 - [[ICIP](https://researchspace.auckland.ac.nz/bitstream/handle/2292/50394/APCCAS2019.pdf?sequence=2)] Training Accurate Binary Neural Networks from Scratch.  [**`bnn`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:]
 - [[ICUS](https://ieeexplore.ieee.org/document/8996039/)] Balanced Circulant Binary Convolutional Networks. [**`bnn`**] 
@@ -275,7 +275,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ISOCC](https://ieeexplore.ieee.org/document/9027649)] Dual Path Binary Neural Network.  [**`bnn`**] 
 - [[IEEE J. Emerg. Sel. Topics Circuits Syst.](https://ieeexplore.ieee.org/document/8668446/)] Hyperdrive: A Multi-Chip Systolically Scalable Binary-Weight CNN Inference Engine.  [**`hardware`**] 
 - [[IEEE JETC](https://arxiv.org/pdf/1807.07928.pdf)] [128:fire:] Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices. [**`hardware`**]  
-- [[IEEE J. Solid-State Circuits](https://ieeexplore.ieee.org/document/8581485)] An Energy-Efficient Reconfigurable Processor for Binary-and Ternary-Weight Neural Networks With Flexible Data Bit Width. [**`bnn`**]  [**`qnn`**]
+- [[IEEE J. Solid-State Circuits](https://ieeexplore.ieee.org/document/8581485)] An Energy-Efficient Reconfigurable Processor for Binary-and Ternary-Weight Neural Networks With Flexible Data Bit Width. [**`qnn`**]
 - [[MDPI Electronics](https://doi.org/10.3390/electronics8060661)] A Review of Binarized Neural Networks.  [**`bnn`**] 
 - [[NeurIPS](https://csyhhu.github.io/data/MetaQuant.pdf)] MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization. [**`qnn`**] [[torch](https://github.com/csyhhu/MetaQuant)]
 - [[NeurIPS](https://papers.nips.cc/paper/2019/file/9ca8c9b0996bbf05ae7753d34667a6fd-Paper.pdf)] Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization.  [**`bnn`**] [[tensorflow](https://github.com/plumerai/rethinking-bnn-optimization)] 
@@ -328,7 +328,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[IJCAI](https://www.ijcai.org/Proceedings/2018/0669.pdf)] Planning in Factored State and Action Spaces with Learned Binarized Neural Network Transition Models.  [**`bnn`**] <!--citation 14-->
 - [[IJCNN](https://ieeexplore.ieee.org/document/8489259)] Analysis and Implementation of Simple Dynamic Binary Neural Networks. [**`bnn`**] 
 - [[IPDPS](https://ieeexplore.ieee.org/document/8425178)] BitFlow: Exploiting Vector Parallelism for Binary Neural Networks on CPU. [**`bnn`**] 
-- [[IEEE J. Solid-State Circuits](http://ieeexplore.ieee.org/document/8226999/)] [66:fire:] BRein Memory: A Single-Chip Binary/Ternary Reconfigurable in-Memory Deep Neural Network Accelerator Achieving 1.4 TOPS at 0.6 W.  [**`hardware`**] [**`qnn`**]  [**`bnn`**] 
+- [[IEEE J. Solid-State Circuits](http://ieeexplore.ieee.org/document/8226999/)] [66:fire:] BRein Memory: A Single-Chip Binary/Ternary Reconfigurable in-Memory Deep Neural Network Accelerator Achieving 1.4 TOPS at 0.6 W.  [**`hardware`**] [**`qnn`**] 
 - [[NCA](https://arxiv.org/pdf/1712.08934.pdf)] [88:fire:] A survey of FPGA-based accelerators for convolutional neural networks. [**`hardware`**] 
 - [[NeurIPS](https://papers.nips.cc/paper/2018/file/335d3d1cd7ef05ec77714a215134914c-Paper.pdf)] [150:fire:] Training Deep Neural Networks with 8-bit Floating Point Numbers. [**`qnn`**] 
 - [[NeurIPS](https://papers.nips.cc/paper/2018/file/e82c4b19b8151ddc25d4d93baf7b908f-Paper.pdf)] [91:fire:] Scalable methods for 8-bit training of neural networks.  [**`qnn`**]  [[torch](https://github.com/eladhoffer/quantized.pytorch)]  
