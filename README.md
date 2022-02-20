@@ -9,12 +9,14 @@ This repo collects papers, docs, codes about model quantization for anyone who w
   - [Survey of Binarization](#Survey_of_Binarization)
   - [Survey of Quantization](#Survey_of_Quantization)
 - [Papers](#Papers)
+  - [2022](#2022)
   - [2021](#2021)
   - [2020](#2020)
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
   - [Ealier](#2016)
+
 - [Codes and Docs](#Codes\_and\_Docs)
 - [Our Team](#Our_Team)
 
@@ -54,7 +56,7 @@ Our survey paper **Binary Neural Networks: A Survey** (*Pattern Recognition*) is
     year = "2020"
 }</code></pre></details>
 
-![survey](./Docs/imgs/survey.png)
+![survey](./Imgs/survey.png)
 
 ### Survey_of_Quantization
 
@@ -372,19 +374,13 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ## Codes\_and\_Docs
 
-- [[code](https://github.com/FFChyan/awesome-model-quantization/tree/master/Codes/ZF-Net)] [[doc](https://support.alpha-data.com/pub/appnotes/cnn/ad-an-0055_v1_0.pdf)] ZF-Net: An Open Source FPGA CNN Library.
+- [[Doc](https://support.alpha-data.com/pub/appnotes/cnn/ad-an-0055_v1_0.pdf)] ZF-Net: An Open Source FPGA CNN Library.
 
-- [[doc](https://hal.archives-ouvertes.fr/hal-01695375v2/document)] Accelerating CNN inference on FPGAs: A Survey.
-
-- [[code](https://github.com/FFChyan/awesome-model-quantization/blob/master/Codes/PyTorch-Quant.py)] Different quantization methods implement by Pytorch.
-
-- [[中文](https://github.com/FFChyan/awesome-model-quantization/blob/master/Docs/QuantizationMethods.md)] Quantization Methods. 
-
-- [[中文](https://github.com/FFChyan/awesome-model-quantization/blob/master/Docs/EmbeddedDeepLearning.md)] Run BNN in FPGA. 
+- [[Doc](https://hal.archives-ouvertes.fr/hal-01695375v2/document)] Accelerating CNN inference on FPGAs: A Survey.
 
 - [[中文](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/)] An Overview of Deep Compression Approaches.
 
-- [[中文](https://mp.weixin.qq.com/s/RsZCTqCKwpnjATUFC8da7g)] 嵌入式深度学习之神经网络二值化（3）- FPGA实现
+- [[中文](https://mp.weixin.qq.com/s/RsZCTqCKwpnjATUFC8da7g)] 嵌入式深度学习之神经网络二值化 - FPGA实现
 
 ## Our_Team
 
@@ -414,6 +410,8 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **Hong Chen**
 
+* 
+
 ### Interns
 
 **Aoyu Li**
@@ -422,7 +420,11 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **Xudong Ma**
 
+* 
+
 **Yuxuan Wen**
+
+* 
 
 ### Alumnus
 
@@ -431,6 +433,8 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 * Xiangguo Zhang achieved the master degree in the School of Computer Science of Beihang University, under the guidance of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). He received a bachelor's degree from Shandong University in 2019 and entered Beihang University in the same year. Currently, he is interested in computer vision and post training quantization.
 
 **Mingzhu Shen** 
+
+* 
 
 ### Publications
 
