@@ -15,7 +15,8 @@ This repo collects papers, docs, codes about model quantization for anyone who w
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
-  - [Ealier](#2016)
+  - [2016](#2016)
+  - [2015](#2015)
 - [Codes and Docs](#Codes\_and\_Docs)
 - [Our Team](#Our_Team)
 
