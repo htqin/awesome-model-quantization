@@ -86,7 +86,7 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 ------
 
 ### 2022
-
+- [[IJCAI](https://arxiv.org/abs/2111.13824)] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer.  [__`qnn`__] [[torch](https://github.com/megvii-research/FQ-ViT)] 
 - [[arxiv](https://arxiv.org/pdf/2201.07703.pdf)] Q-ViT: Fully Differentiable Quantization for Vision Transformer [__`qnn`__] 
 - [[ICLR](https://openreview.net/forum?id=_CfpJazzXT2)] F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization. [**`qnn`**]
 - [[ICLR](https://openreview.net/forum?id=shpkpVXzo3h)] 8-bit Optimizers via Block-wise Quantization. [**`qnn`**]
@@ -147,7 +147,6 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 - [[arxiv](http://arxiv.org/abs/2103.12369)] ReCU: Reviving the Dead Weights in Binary Neural Networks.  [**`bnn`**] [[torch](https://github.com/z-hXu/ReCU)]
 - [[arxiv](https://arxiv.org/abs/2106.14156)] Post-Training Quantization for Vision Transformer. [**`qnn`**]
 - [[arxiv](http://arxiv.org/abs/2103.13630)] A Survey of Quantization Methods for Efficient Neural Network Inference. 
-- [[arxv](https://arxiv.org/pdf/2111.13824.pdf)] FQ-ViT: Fully Quantized Vision Transformer without Retraining.  [__`qnn`__] [[torch](https://github.com/linyang-zhh/FQ-ViT)] 
 - [[arxiv](https://arxiv.org/pdf/2111.12293.pdf)] PTQ4ViT: Post-Training Quantization Framework for Vision Transformers. [__`qnn`__] 
 
 ### 2020
