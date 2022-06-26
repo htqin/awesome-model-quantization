@@ -390,7 +390,7 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 
 Our team is part of the DIG group of the State Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), supervised Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). The main research goals of our team is compressing and accelerating models under multiple scenes.
 
-### Members
+### Current Members
 
 [**Haotong Qin**](https://htqin.github.io/)
 
@@ -398,9 +398,9 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **[Ruihao Gong](https://xhplus.github.io/)**
 
-* Ruihao Gong is currently a Ph.D. student in in the State Key Laboratory of Software Development Environment (SKLSDE) and a senior researcher at SenseTime. Since 2017, he worked on the build-up of computer vision systems and model quantization as an intern at Sensetime Research, where he enjoyed working with the talented researchers and grew up a lot with the help of [Fengwei Yu](http://forwil.xyz/), [Wei Wu](https://wuwei-ai.org/), [Jing Shao](https://amandajshao.github.io/), and [Junjie Yan](https://yan-junjie.github.io/). During the early time of the internship, he independently took responsibility for the development of intelligent video analysis system Sensevideo. Later, he started the research on model quantization which can speed up the inference and even the training of neural networks on edge devices. Now he is devoted to further promoting the accuracy of extremely low-bit models and the auto-deployment of quantized models.
+* Ruihao Gong is currently a Ph.D. student in in the State Key Laboratory of Software Development Environment (SKLSDE) and a Senior Research Manager at SenseTime. Since 2017, he worked on the build-up of computer vision systems and model quantization as an intern at Sensetime Research, where he enjoyed working with the talented researchers and grew up a lot with the help of [Fengwei Yu](http://forwil.xyz/), [Wei Wu](https://wuwei-ai.org/), [Jing Shao](https://amandajshao.github.io/), and [Junjie Yan](https://yan-junjie.github.io/). During the early time of the internship, he independently took responsibility for the development of intelligent video analysis system Sensevideo. Later, he started the research on model quantization which can speed up the inference and even the training of neural networks on edge devices. Now he is devoted to further promoting the accuracy of extremely low-bit models and the auto-deployment of quantized models.
 
-**Yifu Ding**
+**[Yifu Ding](https://yifu-ding.github.io/)**
 
 * Yifu Ding is a senior student in the School of Computer Science and Engineering at Beihang University. She is in the State Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Currently, she is interested in computer vision and model quantization. She thinks that neural network models which are highly compressed can be deployed on resource-constrained devices. And among all the compression methods, quantization is a potential one.
 
@@ -416,13 +416,15 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 * 
 
-### Interns
-
 **Aoyu Li**
 
 * I am a senior student in the School of Computer Science and Engineering at Beihang University. Supervised by Prof. Xianglong Liu, I am currently conducting research on model quantization. My research interests are mainly about model compression, deployment and AI systems.
 
 **Xudong Ma**
+
+* 
+
+**Zeyi Sun**
 
 * 
 
@@ -432,15 +434,17 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 ### Alumnus
 
-**Xiangguo Zhang** 
-
-* Xiangguo Zhang achieved the master degree in the School of Computer Science of Beihang University, under the guidance of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). He received a bachelor's degree from Shandong University in 2019 and entered Beihang University in the same year. Currently, he is interested in computer vision and post training quantization.
-
 **Mingzhu Shen** 
 
-* 
+* Sensetime Research.
+
+**Xiangguo Zhang** 
+
+* Sensetime Research. Xiangguo Zhang achieved the master degree in the School of Computer Science of Beihang University, under the guidance of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). He received a bachelor's degree from Shandong University in 2019 and entered Beihang University in the same year. Currently, he is interested in computer vision and post training quantization.
 
 ### Publications
+
+* Haotong Qin*, Xudong Ma*, Yifu Ding*, Xiaoyang Li, Yang Zhang, Yao Tian, Zejun Ma, Jie Luo, Xianglong Liu#. [BiFSMN: Binary Neural Network for Keyword Spotting](https://arxiv.org/abs/2202.06483). **International Joint Conference on Artificial Intelligence (IJCAI)*, 2022.
 
 * Haotong Qin*, Yifu Ding*, Mingyuan Zhang*, Qinghua Yan, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu#. [BiBERT: Accurate Fully Binarized BERT](https://openreview.net/forum?id=5xEgrl_5FAJ). **International Conference on Learning Representations (ICLR)*, 2022.
 
