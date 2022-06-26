@@ -426,7 +426,7 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **Zeyi Sun**
 
-* 
+* I am a senior student in Shen Yuan Honors College at Beihang University. I am  currently starting research on model compression, especially knowledge distillation. I believe deploying more and more ML model onto real devices is how we break the last rocky stone on the way to AGI(Artificial General Intelligence). 
 
 **Yuxuan Wen**
 
