@@ -388,13 +388,13 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 
 ## Our_Team
 
-Our team is part of the DIG group of the State Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), supervised Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). The main research goals of our team is compressing and accelerating models under multiple scenes.
+Our team is part of the DIG group of the State Key Laboratory of Software Development Environment ([SKLSDE](https://ev.buaa.edu.cn/info/1035/1862.htm)), supervised Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). The main research goals of our team is compressing and accelerating models under multiple scenes.
 
 ### Current Members
 
 [**Haotong Qin**](https://htqin.github.io/)
 
-* Haotong Qin is a Ph.D. student in the State Key Laboratory of Software Development Environment (SKLSDE) and Shen Yuan Honors College at Beihang University, supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). And He is also a student researcher in Bytedance AI Lab. He obtained a B.Eng degree in computer science and engineering from Beihang University, and interned at the MSRA and Tencent WXG. I'm interested in hardware-friendly deep learning and neural network quantization. And his research goal is to enable state-of-the-art neural network models to be deployed on resource-limited hardware, which includes the compression and acceleration for multiple architectures, and the flexible and efficient deployment on multiple hardware.
+* Haotong Qin is a Ph.D. student in the State Key Laboratory of Software Development Environment (SKLSDE) and Shen Yuan Honors College at Beihang University, supervised by Prof. [Wei Li](https://en.wikipedia.org/wiki/Li_Wei_(computer_scientist)) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). And He is also a student researcher in Bytedance AI Lab. He obtained a B.Eng degree in computer science and engineering from Beihang University, and interned at the MSRA and Tencent WXG. I'm interested in hardware-friendly deep learning and neural network quantization. And his research goal is to enable state-of-the-art neural network models to be deployed on resource-limited hardware, which includes the compression and acceleration for multiple architectures, and the flexible and efficient deployment on multiple hardware.
 
 **[Ruihao Gong](https://xhplus.github.io/)**
 
@@ -402,11 +402,11 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **[Yifu Ding](https://yifu-ding.github.io/)**
 
-* Yifu Ding is a senior student in the School of Computer Science and Engineering at Beihang University. She is in the State Key Laboratory of Software Development Environment ([SKLSDE](http://www.nlsde.buaa.edu.cn/)), under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Currently, she is interested in computer vision and model quantization. She thinks that neural network models which are highly compressed can be deployed on resource-constrained devices. And among all the compression methods, quantization is a potential one.
+* Yifu Ding is a senior student in the School of Computer Science and Engineering at Beihang University. She is in the State Key Laboratory of Software Development Environment ([SKLSDE](https://ev.buaa.edu.cn/info/1035/1862.htm)), under the supervision of Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Currently, she is interested in computer vision and model quantization. She thinks that neural network models which are highly compressed can be deployed on resource-constrained devices. And among all the compression methods, quantization is a potential one.
 
 **Xiuying Wei**
 
-* Xiuying Wei is a first-year graduate student at Beihang University under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). She recevied a bachelor’s degree from Shandong University in 2020. Currently, she is interested in model quantization. She thinks that quantization could make model faster and more robust, which could put deep learning systems on low-power devices and bring more opportunity for future.
+* Xiuying Wei is a first-year graduate student at Beihang University under the supervision of Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). She recevied a bachelor’s degree from Shandong University in 2020. Currently, she is interested in model quantization. She thinks that quantization could make model faster and more robust, which could put deep learning systems on low-power devices and bring more opportunity for future.
 
 **Qinghua Yan**
 
