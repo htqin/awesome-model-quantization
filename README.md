@@ -414,7 +414,7 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **Hong Chen**
 
-* Hong Chen is a first-year graduate student at Beihang University under the supervision of Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). He recevied a bachelor’s degree from Beihang University in 2022. Currently, he is interested in model quantization, especially data-free quantization. He believes that data-free quantization is the general trend, and is committed to breaking through its accuracy bottleneck.
+* Hong Chen is a first-year graduate student at Beihang University under the supervision of Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). He recevied a bachelor' s degree from Beihang University in 2022. Currently, he is interested in model quantization, especially data-free quantization. He believes that data-free quantization is the general trend, and is committed to breaking through its accuracy bottleneck.
 
 **Aoyu Li**
 
