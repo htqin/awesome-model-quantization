@@ -422,7 +422,7 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **Xudong Ma**
 
-* 
+* Xudong Ma is a first-year graduate student at the School of Computer Science and Engineering, Beihang University. He received his bachelor's degree from UESTC in 2022. He is interested in the direction of model quantization, and he believes that model quantization is one of the current trends in AI.
 
 **Zeyi Sun**
 
