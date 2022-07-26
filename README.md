@@ -170,7 +170,7 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 - [[DATE](https://arxiv.org/abs/1912.04050)] PhoneBit: Efficient GPU-Accelerated Binary Neural Network Inference Engine for Mobile Phones.  [**`bnn`**] [**`hardware`**] 
 - [[DATE](https://ieeexplore.ieee.org/abstract/document/9116308)] OrthrusPE: Runtime Reconfigurable Processing Elements for Binary Neural Networks. [**`bnn`**] <!--citation 2-->
 - [[ECCV](https://arxiv.org/abs/2002.06963)] Learning Architectures for Binary Networks. [**`bnn`**] [[torch](https://github.com/gistvision/bnas)] <!--citation 5-->
-- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510426-supp.pdf)]PROFIT: A Novel Training Method for sub-4-bit MobileNet Models. [**`qnn`**] <!--citation 2-->
+- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510426.pdf)]PROFIT: A Novel Training Method for sub-4-bit MobileNet Models. [**`qnn`**] <!--citation 2-->
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480222.pdf)] ProxyBNN: Learning Binarized Neural Networks via Proxy Matrices. [**`bnn`**] <!--citation 2-->
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590137.pdf)] ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions. [**`bnn`**] [[torch](https://github.com/liuzechun/ReActNet)] [108:star:]  <!--citation 7-->
 - [[ECCV](https://arxiv.org/abs/2007.10463)] Differentiable Joint Pruning and Quantization for Hardware Efficiency.  [**`hardware`**] <!--citation 6-->
