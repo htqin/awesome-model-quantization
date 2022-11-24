@@ -456,6 +456,8 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 ### Publications
 
+* Haotong Qin *, Xiangguo Zhang, Ruihao Gong, Yifu Ding, Yi Xu, Xianglong Liu#. [Distribution-sensitive Information Retention for Accurate Binary Neural Network](https://arxiv.org/abs/2109.12338). **International Journal of Computer Vision (IJCV)*, 2022.
+
 * Haotong Qin*, Xudong Ma*, Yifu Ding*, Xiaoyang Li, Yang Zhang, Yao Tian, Zejun Ma, Jie Luo, Xianglong Liu#. [BiFSMN: Binary Neural Network for Keyword Spotting](https://arxiv.org/abs/2202.06483). **International Joint Conference on Artificial Intelligence (IJCAI)*, 2022.
 
 * Haotong Qin*, Yifu Ding*, Mingyuan Zhang*, Qinghua Yan, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu#. [BiBERT: Accurate Fully Binarized BERT](https://openreview.net/forum?id=5xEgrl_5FAJ). **International Conference on Learning Representations (ICLR)*, 2022.
