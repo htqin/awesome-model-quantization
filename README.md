@@ -444,7 +444,10 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **Yuxuan Wen**
 
-* 
+
+**Zhuoqing Peng**
+
+* Peng is a junior student in the School of Computer Science and Engineering at Beihang University under the supervision of Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). He is interested in model compression, computer vision and AI systems.
 
 ### Alumnus
 
