@@ -76,6 +76,7 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
   journal = "https://openreview.net/forum?id=TUplOmF8DsM",
   year = "2021"
 }</code></pre></details>
+
 ### BiBench
 
 The paper **BiBench: Benchmarking and Analyzing Network Binarization** a rigorously designed benchmark with in-depth analysis for network binarization. For details, please refer to:
