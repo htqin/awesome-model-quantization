@@ -85,6 +85,12 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 
 ------
 
+### 2023
+
+- [[MMM](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_8)] Binary Neural Network for Video Action Recognition.  [__`bnn`__] 
+- [[arxiv](https://arxiv.org/abs/2303.12270)] EBSR: Enhanced Binary Neural Network for Image Super-Resolution.  [__`bnn`__] 
+- [[arxiv](https://arxiv.org/abs/2303.15493)] Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis.  [__`bnn`__] 
+
 ### 2022
 
 - [[IJCV](https://arxiv.org/abs/2109.12338)] Distribution-sensitive Information Retention for Accurate Binary Neural Network.  [__`bnn`__] 
