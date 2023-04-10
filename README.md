@@ -105,6 +105,17 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 ------
 
 ### 2023 
+- [CVPR] Toward Accurate Post-Training Quantization for Image Super Resolution
+- [CVPR] One-Shot Model for Mixed-Precision Quantization
+- [[CVPR](https://arxiv.org/abs/2303.06869)] Adaptive Data-Free Quantization
+- [[CVPR](https://arxiv.org/pdf/2211.16056.pdf)] NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers
+- [CVPR] Boost Vision Transformer with GPU-Friendly Sparsity and Quantization
+- [CVPR] NIPQ: Noise proxy-based Integrated Pseudo-Quantization
+- [CVPR] Bit-shrinking: Limiting Instantaneous Sharpness for Improving Post-training Quantization
+- [[CVPR](https://arxiv.org/pdf/2303.11906.pdf)] Solving Oscillation Problem in Post-Training Quantization Through a
+  Theoretical Perspective
+- [[CVPR](https://ipl.dgist.ac.kr/ABCD_cvpr23.pdf)] ABCD : Arbitrary Bitwise Coefficient for De-quantization
+- [[CVPR](https://arxiv.org/abs/2212.04780)] GENIE: Show Me the Data for Quantization
 - [[TNNLS](https://ieeexplore.ieee.org/document/10049753/)] BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance.  [__`bnn`__] [[code](https://github.com/htqin/BiFSMNv2)]
 - [[WACV](https://openaccess.thecvf.com/content/WACV2023/papers/Pham_Collaborative_Multi-Teacher_Knowledge_Distillation_for_Learning_Low_Bit-Width_Deep_Neural_WACV_2023_paper.pdf)] Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width
 Deep Neural Networks. 
