@@ -33,10 +33,10 @@ The paper **BiBench: Benchmarking and Analyzing Network Binarization** a rigorou
 
 [Haotong Qin](https://htqin.github.io/), [Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Yifu Ding](https://yifu-ding.github.io/), Aoyu Li, [Zhongang Cai](https://caizhongang.github.io/), [Ziwei Liu](https://liuziwei7.github.io/), [Fisher Yu](https://www.yf.io/), [Xianglong Liu](https://xlliu-beihang.github.io/).
 
-<details><summary>Bibtex</summary><pre><code>@article{qin2023bibench,
+<details><summary>Bibtex</summary><pre><code>@inproceedings{qin2023bibench,
   title={BiBench: Benchmarking and Analyzing Network Binarization},
   author={Qin, Haotong and Zhang, Mingyuan and Ding, Yifu and Li, Aoyu and Cai, Zhongang and Liu, Ziwei and Yu, Fisher and Liu, Xianglong},
-  journal={arXiv preprint arXiv:2301.11233},
+  booktitle={International Conference on Machine Learning (ICML)},
   year={2023}
 }</code></pre></details>
 
