@@ -4,13 +4,14 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
+- [Benchmark](#Benchmark)
+  - [Benchmark of Binarization (BiBench)](#BiBench)
+  - [Benchmark of Quantization (MQBench)](#MQBench)
 - [Survey Papers](#Survey_Papers)
   - [Survey of Binarization](#Survey_of_Binarization)
   - [Survey of Quantization](#Survey_of_Quantization)
-- [Benchmark](#Benchmark)
-  - [BiBench](#BiBench)
-  - [MQBench](#MQBench)
 - [Papers](#Papers)
+  - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
   - [2020](#2020)
@@ -22,6 +23,41 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 - [Codes and Docs](#Codes\_and\_Docs)
 - [Our Team](#Our_Team)
 
+## Benchmark
+
+### BiBench
+
+The paper **BiBench: Benchmarking and Analyzing Network Binarization** a rigorously designed benchmark with in-depth analysis for network binarization. For details, please refer to:
+
+**BiBench: Benchmarking and Analyzing Network Binarization**  [[Paper](https://arxiv.org/abs/2301.11233)]
+
+[Haotong Qin](https://htqin.github.io/), [Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Yifu Ding](https://yifu-ding.github.io/), Aoyu Li, [Zhongang Cai](https://caizhongang.github.io/), [Ziwei Liu](https://liuziwei7.github.io/), [Fisher Yu](https://www.yf.io/), [Xianglong Liu](https://xlliu-beihang.github.io/).
+
+<details><summary>Bibtex</summary><pre><code>@article{qin2023bibench,
+  title={BiBench: Benchmarking and Analyzing Network Binarization},
+  author={Qin, Haotong and Zhang, Mingyuan and Ding, Yifu and Li, Aoyu and Cai, Zhongang and Liu, Ziwei and Yu, Fisher and Liu, Xianglong},
+  journal={arXiv preprint arXiv:2301.11233},
+  year={2023}
+}</code></pre></details>
+
+![survey](./Imgs/bibench.png)
+
+### MQBench
+
+The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (*NeurIPS 2021*) is a benchmark and framework for evluating the quantization algorithms under real world hardware deployments. For details, please refer to:
+
+**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**  [[Paper](https://arxiv.org/abs/2004.03333)]  [[Project](http://mqbench.tech/)]
+
+Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong](https://xhplus.github.io/), Fengwei Yu, Junjie Yan.
+
+<details><summary>Bibtex</summary><pre><code>@article{2021MQBench,
+  title = "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark",
+  author= "Yuhang Li* and Mingzhu Shen* and Jian Ma* and Yan Ren* and Mingxin Zhao* and Qi Zhang* and Ruihao Gong and Fengwei Yu and Junjie Yan",
+  journal = "https://openreview.net/forum?id=TUplOmF8DsM",
+  year = "2021"
+}</code></pre></details>
+
+![survey](./Imgs/mqbench.png)
 
 ## Survey_Papers
 
@@ -60,41 +96,6 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }</code></pre></details>
-
-
-## Benchmark
-
-### BiBench
-
-The paper **BiBench: Benchmarking and Analyzing Network Binarization** a rigorously designed benchmark with in-depth analysis for network binarization. For details, please refer to:
-
-**BiBench: Benchmarking and Analyzing Network Binarization**  [[Paper](https://arxiv.org/abs/2301.11233)]
-
-[Haotong Qin](https://htqin.github.io/), [Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Yifu Ding](https://yifu-ding.github.io/), Aoyu Li, [Zhongang Cai](https://caizhongang.github.io/), [Ziwei Liu](https://liuziwei7.github.io/), [Fisher Yu](https://www.yf.io/), [Xianglong Liu](https://xlliu-beihang.github.io/).
-
-<details><summary>Bibtex</summary><pre><code>@article{qin2023bibench,
-  title={BiBench: Benchmarking and Analyzing Network Binarization},
-  author={Qin, Haotong and Zhang, Mingyuan and Ding, Yifu and Li, Aoyu and Cai, Zhongang and Liu, Ziwei and Yu, Fisher and Liu, Xianglong},
-  journal={arXiv preprint arXiv:2301.11233},
-  year={2023}
-}</code></pre></details>
-
-### MQBench
-
-The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (*NeurIPS 2021*) is a benchmark and framework for evluating the quantization algorithms under real world hardware deployments. For details, please refer to:
-
-**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**  [[Paper](https://arxiv.org/abs/2004.03333)]  [[Project](http://mqbench.tech/)]
-
-Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong](https://xhplus.github.io/), Fengwei Yu, Junjie Yan.
-
-<details><summary>Bibtex</summary><pre><code>@article{2021MQBench,
-  title = "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark",
-  author= "Yuhang Li* and Mingzhu Shen* and Jian Ma* and Yan Ren* and Mingxin Zhao* and Qi Zhang* and Ruihao Gong and Fengwei Yu and Junjie Yan",
-  journal = "https://openreview.net/forum?id=TUplOmF8DsM",
-  year = "2021"
-}</code></pre></details>
-
-
 ## Papers
 
 **Keywords**: **`qnn`**: quantized neural networks | **`bnn`**: binarized neural networks | **`hardware`**: hardware deployment | **`snn`**: spiking neural networks | __`other`__
@@ -102,6 +103,10 @@ Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong]
 **Statistics**:  :fire: highly cited | :star: code is available and star > 50
 
 ------
+
+### 2023 
+
+- [[ICML](https://arxiv.org/pdf/2301.11233.pdf)] BiBench: Benchmarking and Analyzing Network Binarization [**`bnn`**]
 
 ### 2022
 
