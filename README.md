@@ -29,7 +29,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 The paper **BiBench: Benchmarking and Analyzing Network Binarization** a rigorously designed benchmark with in-depth analysis for network binarization. For details, please refer to:
 
-**BiBench: Benchmarking and Analyzing Network Binarization**  [[Paper](https://arxiv.org/abs/2301.11233)]
+**BiBench: Benchmarking and Analyzing Network Binarization**  [[Paper](https://arxiv.org/abs/2301.11233)] [[Project](https://github.com/htqin/BiBench)]
 
 [Haotong Qin](https://htqin.github.io/), [Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Yifu Ding](https://yifu-ding.github.io/), Aoyu Li, [Zhongang Cai](https://caizhongang.github.io/), [Ziwei Liu](https://liuziwei7.github.io/), [Fisher Yu](https://www.yf.io/), [Xianglong Liu](https://xlliu-beihang.github.io/).
 
