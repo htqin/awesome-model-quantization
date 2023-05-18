@@ -46,7 +46,7 @@ The paper **BiBench: Benchmarking and Analyzing Network Binarization** a rigorou
 
 The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (*NeurIPS 2021*) is a benchmark and framework for evluating the quantization algorithms under real world hardware deployments. For details, please refer to:
 
-**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**  [[Paper](https://arxiv.org/abs/2004.03333)]  [[Project](http://mqbench.tech/)]
+**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**  [[Paper](https://arxiv.org/abs/2111.03759)]  [[Project](http://mqbench.tech/)]
 
 Yuhang Li, Mingzhu Shen, Jian Ma, Yan Ren, Mingxin Zhao, Qi Zhang, [Ruihao Gong](https://xhplus.github.io/), Fengwei Yu, Junjie Yan.
 
