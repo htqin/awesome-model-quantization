@@ -27,7 +27,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ### BiBench
 
-The paper **BiBench: Benchmarking and Analyzing Network Binarization** a rigorously designed benchmark with in-depth analysis for network binarization. For details, please refer to:
+The paper **BiBench: Benchmarking and Analyzing Network Binarization** (_ICML 2023_) a rigorously designed benchmark with in-depth analysis for network binarization. For details, please refer to:
 
 **BiBench: Benchmarking and Analyzing Network Binarization** [[Paper](https://arxiv.org/abs/2301.11233)] [[Project](https://github.com/htqin/BiBench)]
 
@@ -556,7 +556,9 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 **Yuxuan Wen**
 
-- **Zhuoqing Peng**
+- 
+
+**Zhuoqing Peng**
 
 - Peng is a junior student in the School of Computer Science and Engineering at Beihang University under the supervision of Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). He is interested in model compression, computer vision and AI systems.
 
