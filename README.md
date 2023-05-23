@@ -1,6 +1,6 @@
 # Awesome Model Quantization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo collects papers, docs, codes about model quantization for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.
+This repo collects papers, docs, codes about model quantization for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to Yifu Ding @yifu-ding, Xudong Ma @Macaronlin, Yuxuan Wen @ChrisLeff, and all researchers who have contributed to this project!
 
 ## Table of Contents
 
