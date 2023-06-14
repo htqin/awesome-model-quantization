@@ -133,6 +133,8 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](https://arxiv.org/pdf/2304.09145.pdf)] Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling.
 - [[arxiv](https://arxiv.org/abs/2206.09557)] LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models
 - [[ICLR](https://arxiv.org/abs/2210.17323)] GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers [[code](https://github.com/IST-DASLab/gptq)] [721⭐]
+- [[arxiv](https://arxiv.org/abs/2306.00978)] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [[code](https://github.com/mit-han-lab/llm-awq)]
+- [[arxiv](https://arxiv.org/abs/2306.03078)] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression [[code](https://github.com/Vahe1994/SpQR)]
 
 ### 2022
 
