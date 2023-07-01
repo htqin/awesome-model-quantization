@@ -308,7 +308,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480222.pdf)] ProxyBNN: Learning Binarized Neural Networks via Proxy Matrices. [**`bnn`**] <!--citation 2-->
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590137.pdf)] ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions. [**`bnn`**] [[torch](https://github.com/liuzechun/ReActNet)] [108:star:] <!--citation 7-->
 - [[ECCV](https://arxiv.org/abs/2007.10463)] Differentiable Joint Pruning and Quantization for Hardware Efficiency. [**`hardware`**] <!--citation 6-->
-- [[ECCV](https://arxiv.org/abs/2003.03603)] Generative Low-bitwidth Data Free Quantization. [**`qnn`**] [[torch](https://github.com/liuzechun/ReActNet)]
+- [[ECCV](https://arxiv.org/abs/2003.03603)] Generative Low-bitwidth Data Free Quantization. [**`qnn`**] [[torch](https://github.com/xushoukai/GDFQ)]
 - [[EMNLP](https://arxiv.org/abs/2009.12812)] TernaryBERT: Distillation-aware Ultra-low Bit BERT. [**`qnn`**]
 - [[EMNLP](https://arxiv.org/abs/1910.10485)] Fully Quantized Transformer for Machine Translation. [**`qnn`**]
 - [[ICET](https://ieeexplore.ieee.org/document/9119704)] An Energy-Efficient Bagged Binary Neural Network Accelerator. [**`bnn`**] [**`hardware`**] <!--citation 0-->
