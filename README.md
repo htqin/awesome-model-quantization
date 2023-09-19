@@ -4,24 +4,29 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
-- [Benchmark](#Benchmark)
-  - [Benchmark of Binarization (BiBench)](#BiBench)
-  - [Benchmark of Quantization (MQBench)](#MQBench)
-- [Survey Papers](#Survey_Papers)
-  - [Survey of Binarization](#Survey_of_Binarization)
-  - [Survey of Quantization](#Survey_of_Quantization)
-- [Papers](#Papers)
-  - [2023](#2023)
-  - [2022](#2022)
-  - [2021](#2021)
-  - [2020](#2020)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [2017](#2017)
-  - [2016](#2016)
-  - [2015](#2015)
-- [Codes and Docs](#Codes_and_Docs)
-- [Our Team](#Our_Team)
+- [Awesome Model Quantization ](#awesome-model-quantization-)
+  - [Table of Contents](#table-of-contents)
+  - [Benchmark](#benchmark)
+    - [BiBench](#bibench)
+    - [MQBench](#mqbench)
+  - [Survey\_Papers](#survey_papers)
+    - [Survey\_of\_Binarization](#survey_of_binarization)
+    - [Survey\_of\_Quantization](#survey_of_quantization)
+  - [Papers](#papers)
+    - [2023](#2023)
+    - [2022](#2022)
+    - [2021](#2021)
+    - [2020](#2020)
+    - [2019](#2019)
+    - [2018](#2018)
+    - [2017](#2017)
+    - [2016](#2016)
+    - [2015](#2015)
+  - [Codes\_and\_Docs](#codes_and_docs)
+  - [Our\_Team](#our_team)
+    - [Current Members](#current-members)
+    - [Alumnus](#alumnus)
+    - [Publications](#publications)
 
 ## Benchmark
 
@@ -323,6 +328,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ICLR](https://openreview.net/pdf?id=BJg4NgBKvH)] [19:fire:] Training Binary Neural Networks with Real-to-Binary Convolutions. [**`bnn`**] [[code is comming](https://github.com/brais-martinez/real2binary)] [[re-implement](https://github.com/larq/zoo/blob/master/larq_zoo/literature/real_to_bin_nets.py)] <!--citation 19-->
 - [[ICLR](https://arxiv.org/abs/2002.06517)] BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations. [**`bnn`**] [[torch](https://github.com/Hyungjun-K1m/BinaryDuo)] <!--citation 6-->
 - [[ICLR](https://openreview.net/forum?id=Hyx0slrFvH)] Mixed Precision DNNs: All You Need is a Good Parametrization. [**`mixed`**] [[code](https://github.com/sony/ai-research-code/tree/master/mixed-precision-dnns)] [73:star:]
+- [[ICLR](https://arxiv.org/abs/1902.08153)] Learned Step Size Quantization.
 - [[IJCV](https://arxiv.org/abs/2009.04247)] Binarized Neural Architecture Search for Efficient Object Recognition. [**`bnn`**] <!--citation 0-->
 - [[IJCAI](https://arxiv.org/pdf/2005.00057.pdf)] CP-NAS: Child-Parent Neural Architecture Search for Binary Neural Networks. [**`bnn`**]
 - [[IJCAI](https://www.ijcai.org/Proceedings/2020/0520.pdf)] Towards Fully 8-bit Integer Inference for the Transformer Model. [**`qnn`**] [**`nlp`**]
