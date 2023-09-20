@@ -4,29 +4,27 @@ This repo collects papers, docs, codes about model quantization for anyone who w
 
 ## Table of Contents
 
-- [Awesome Model Quantization ](#awesome-model-quantization-)
-  - [Table of Contents](#table-of-contents)
-  - [Benchmark](#benchmark)
-    - [BiBench](#bibench)
-    - [MQBench](#mqbench)
-  - [Survey\_Papers](#survey_papers)
-    - [Survey\_of\_Binarization](#survey_of_binarization)
-    - [Survey\_of\_Quantization](#survey_of_quantization)
-  - [Papers](#papers)
-    - [2023](#2023)
-    - [2022](#2022)
-    - [2021](#2021)
-    - [2020](#2020)
-    - [2019](#2019)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-    - [2015](#2015)
-  - [Codes\_and\_Docs](#codes_and_docs)
-  - [Our\_Team](#our_team)
-    - [Current Members](#current-members)
-    - [Alumnus](#alumnus)
-    - [Publications](#publications)
+- [Benchmark](#benchmark)
+  - [BiBench](#bibench)
+  - [MQBench](#mqbench)
+- [Survey\_Papers](#survey_papers)
+  - [Survey\_of\_Binarization](#survey_of_binarization)
+  - [Survey\_of\_Quantization](#survey_of_quantization)
+- [Papers](#papers)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2015](#2015)
+- [Codes\_and\_Docs](#codes_and_docs)
+- [Our\_Team](#our_team)
+  - [Current Members](#current-members)
+  - [Alumnus](#alumnus)
+  - [Publications](#publications)
 
 ## Benchmark
 
@@ -113,6 +111,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 ### 2023
 
 - [[ICML](https://arxiv.org/pdf/2301.11233.pdf)] BiBench: Benchmarking and Analyzing Network Binarization [**`bnn`**] [[code](https://github.com/htqin/BiBench)]
+- [[ISCA](https://dl.acm.org/doi/abs/10.1145/3579371.3589038)] OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Toward_Accurate_Post-Training_Quantization_for_Image_Super_Resolution_CVPR_2023_paper.pdf)]Toward Accurate Post-Training Quantization for Image Super Resolution
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Koryakovskiy_One-Shot_Model_for_Mixed-Precision_Quantization_CVPR_2023_paper.pdf)]One-Shot Model for Mixed-Precision Quantization
 - [[CVPR](https://arxiv.org/abs/2303.06869)] Adaptive Data-Free Quantization
@@ -144,6 +143,11 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](https://arxiv.org/abs/2306.07629)] SqueezeLLM: Dense-and-Sparse Quantization [[code](https://github.com/SqueezeAILab/SqueezeLLM)]
 - [[arxiv](https://arxiv.org/abs/2306.12929)] Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing
 - [[arxiv](https://arxiv.org/abs/2306.13515)] Binary domain generalization for sparsifying binary neural networks [__`bnn`__]
+- [[arXiv](https://arxiv.org/abs/2307.09782)] ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats
+- [[arXiv](https://arxiv.org/abs/2305.12356)] Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models
+- [[arXiv](https://arxiv.org/abs/2304.01089)] RPTQ: Reorder-based Post-training Quantization for Large Language Models [[code](https://github.com/hahnyuan/RPTQ4LLM)]
+- [[arXiv](https://arxiv.org/abs/2306.02272)] OWQ: Lessons learned from activation outliers for weight quantization in large language models
+- [[arXiv](https://arxiv.org/abs/2305.14152)] Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization
 
 ### 2022
 
