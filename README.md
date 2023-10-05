@@ -127,9 +127,15 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[CVPR](https://arxiv.org/abs/2212.04780)] GENIE: Show Me the Data for Quantization
 - [[ICLR](https://arxiv.org/abs/2210.17323)] GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers [[code](https://github.com/IST-DASLab/gptq)] [721⭐]
 - [[TNNLS](https://ieeexplore.ieee.org/document/10049753/)] BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance. [__`bnn`__] [[code](https://github.com/htqin/BiFSMNv2)]
+- [[TNNLS](https://ieeexplore.ieee.org/abstract/document/10227741)] Quantization via Distillation and Contrastive Learning.
+- [[TIP](https://ieeexplore.ieee.org/abstract/document/10107717)] MBFQuant: A Multiplier-Bitwidth-Fixed, Mixed-Precision Quantization Method for Mobile CNN-Based Applications
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/10132082)] Generative Data Free Model Quantization with Knowledge Matching for Classification [[code](https://github.com/ZSHsh98/KMDFQ)]
+- [[WACV](https://openaccess.thecvf.com/content/WACV2023/html/do_Nascimento_Hyperblock_Floating_Point_Generalised_Quantization_Scheme_for_Gradient_and_Inference_WACV_2023_paper.html)] Hyperblock Floating Point: Generalised Quantization Scheme for Gradient and Inference Computation
 - [[WACV](https://openaccess.thecvf.com/content/WACV2023/html/Yvinec_SPIQ_Data-Free_Per-Channel_Static_Input_Quantization_WACV_2023_paper.html)] SPIQ: Data-Free Per-Channel Static Input Quantization
 - [[WACV](https://openaccess.thecvf.com/content/WACV2023/papers/Pham_Collaborative_Multi-Teacher_Knowledge_Distillation_for_Learning_Low_Bit-Width_Deep_Neural_WACV_2023_paper.pdf)] Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width Deep Neural Networks.
 - [[PR](https://www.sciencedirect.com/science/article/pii/S0031320323001632)] Bayesian asymmetric quantized neural networks.
+- [[PR](https://www.sciencedirect.com/science/article/pii/S0031320323004788)] Data-free quantization via mixed-precision compensation without fine-tuning.
+- [[NN](https://www.sciencedirect.com/science/article/pii/S0893608023004008)] Long-range zero-shot generative deep network quantization.
 - [[Cognitive Neurodynamics](https://link.springer.com/article/10.1007/s11571-022-09927-7)] Pruning and quantization algorithm with applications in memristor-based convolutional neural network.
 - [[MMM](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_8)] Binary Neural Network for Video Action Recognition. [__`bnn`__]
 - [[ISCA](https://dl.acm.org/doi/abs/10.1145/3579371.3589038)] OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
@@ -422,6 +428,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ICCV](https://openaccess.thecvf.com/content_ICCVW_2019/papers/NeurArch/Shen_Searching_for_Accurate_Binary_Neural_Architectures_ICCVW_2019_paper.pdf)] Searching for Accurate Binary Neural Architectures. [**`bnn`**]
 - [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Dong_HAWQ_Hessian_AWare_Quantization_of_Neural_Networks_With_Mixed-Precision_ICCV_2019_paper.html)] HAWQ: Hessian AWare Quantization of Neural Networks With Mixed-Precision. [**`qnn`**]
 - [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Nagel_Data-Free_Quantization_Through_Weight_Equalization_and_Bias_Correction_ICCV_2019_paper.html)] Data-Free Quantization Through Weight Equalization and Bias Correction. [**`qnn`**] [**`hardware`**] [[torch](https://github.com/jakc4103/DFQ)]
+- [[ICCV](https://arxiv.org/abs/1901.01928)] DSConv: Efficient Convolution Operator
 - [[ICML](https://arxiv.org/abs/1906.00532v2)] Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model. [**`qnn`**] [**`nlp`**]
 - [[ICLR](https://openreview.net/pdf?id=HyzMyhCcK7)] [37:fire:] ProxQuant: Quantized Neural Networks via Proximal Operators. [**`qnn`**] [[torch](https://github.com/allenbai01/ProxQuant)]
 - [[ICLR](https://openreview.net/pdf?id=rJfUCoR5KX)] An Empirical study of Binary Neural Networks' Optimisation. [**`bnn`**]
