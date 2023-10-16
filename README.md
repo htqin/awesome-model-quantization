@@ -106,7 +106,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 **Statistics**: :fire: highly cited | :star: code is available and star > 50
 
----
+----
 
 ### 2023
 
@@ -159,14 +159,14 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](https://arxiv.org/abs/2305.11186)] Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt
 - [[arxiv](https://arxiv.org/abs/2306.07629)] SqueezeLLM: Dense-and-Sparse Quantization [[code](https://github.com/SqueezeAILab/SqueezeLLM)]
 - [[arxiv](https://arxiv.org/abs/2306.12929)] Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing
-- [[arxiv](https://arxiv.org/abs/2306.13515)] Binary domain generalization for sparsifying binary neural networks [__`bnn`__]
-- [[arxiv](https://arxiv.org/abs/2307.09782)] ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats
-- [[arxiv](https://arxiv.org/abs/2305.12356)] Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models
-- [[arxiv](https://arxiv.org/abs/2304.01089)] RPTQ: Reorder-based Post-training Quantization for Large Language Models [[code](https://github.com/hahnyuan/RPTQ4LLM)]
-- [[arxiv](https://arxiv.org/abs/2304.09785)] Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric
-- [[arxiv](https://arxiv.org/abs/2306.02272)] OWQ: Lessons learned from activation outliers for weight quantization in large language models
-- [[arxiv](https://arxiv.org/abs/2305.14152)] Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization
-- [[arxiv](https://arxiv.org/abs/2310.00034)] PB-LLM: Partially Binarized Large Language Models
+- [[arxiv](https://arxiv.org/abs/2306.13515)] Binary domain generalization for sparsifying binary neural networks.  [__`bnn`__]
+- [[arxiv](https://arxiv.org/abs/2307.09782)] ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats. 
+- [[arxiv](https://arxiv.org/abs/2305.12356)] Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models. 
+- [[arxiv](https://arxiv.org/abs/2304.01089)] RPTQ: Reorder-based Post-training Quantization for Large Language Models.  [[code](https://github.com/hahnyuan/RPTQ4LLM)]
+- [[arxiv](https://arxiv.org/abs/2306.02272)] OWQ: Lessons learned from activation outliers for weight quantization in large language models. 
+- [[arxiv](https://arxiv.org/abs/2305.14152)] Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization. 
+- [[arxiv](https://arxiv.org/abs/2310.00034)] PB-LLM: Partially Binarized Large Language Models. [[code](https://github.com/hahnyuan/PB-LLM)]
+- [[arxiv](https://arxiv.org/abs/2304.09785)] Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric. [__`ptq`__]
 
 ### 2022
 
@@ -196,6 +196,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=54407)] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers. [__`qnn`__]
 - [[NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=55162)] ClimbQ: Class Imbalanced Quantization Enabling Robustness on Efficient Inferences. [__`qnn`__]
 - [[NeurIPS](https://openreview.net/forum?id=fU-m9kQe0ke)] Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer. [__`qnn`__]
+- [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/20f94998511f25bb6378cae0e098bc46-Abstract-Conference.html)] BiMLP: Compact Binary Architectures for Vision Multi-Layer Perceptrons. [**`bnn`**] [[code](https://gitee.com/mindspore/models/tree/master/research/cv/BiMLP)]
 - [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710657.pdf)] Non-Uniform Step Size Quantization for Accurate Post-Training Quantization. [__`qnn`__]
 - [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720190.pdf)] PTQ4ViT: Post-Training Quantization for Vision Transformers with Twin Uniform Quantization. [__`qnn`__]
 - [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710726.pdf)] Towards Accurate Network Quantization with Equivalent Smooth Regularizer. [__`qnn`__]
@@ -540,7 +541,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ECCV](https://arxiv.org/abs/1603.05279)] [2.7k:fire:] XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks. [**`bnn`**] [[torch](https://github.com/allenai/XNOR-Net)] [787:star:]
 - [[ICASSP](https://arxiv.org/abs/1512.01322))] Fixed-point Performance Analysis of Recurrent Neural Networks. [**`qnn`**]
 - [[NeurIPS](https://arxiv.org/pdf/1605.04711.pdf)] [572:fire:] Ternary weight networks. [**`qnn`**] [[code](https://github.com/fengfu-chris/caffe-twns)] [61:star:]
-- [[NeurIPS](https://arxiv.org/pdf/1602.02830))] [1.7k:fire:] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1. [**`bnn`**] [[torch](https://github.com/itayhubara/BinaryNet)] [239:star:]
+- [[NeurIPS](https://arxiv.org/pdf/1602.02830)] [1.7k:fire:] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1. [**`bnn`**] [[torch](https://github.com/itayhubara/BinaryNet)] [239:star:]
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2016/html/Wu_Quantized_Convolutional_Neural_CVPR_2016_paper.html)] [270:fire:] Quantized convolutional neural networks for mobile devices. [code](https://github.com/jiaxiang-wu/quantized-cnn)
 
 ### 2015
