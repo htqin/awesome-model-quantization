@@ -129,6 +129,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[CVPR](https://arxiv.org/pdf/2303.11906.pdf)] Solving Oscillation Problem in Post-Training Quantization Through a Theoretical Perspective
 - [[CVPR](https://ipl.dgist.ac.kr/ABCD_cvpr23.pdf)] ABCD : Arbitrary Bitwise Coefficient for De-quantization
 - [[CVPR](https://arxiv.org/abs/2212.04780)] GENIE: Show Me the Data for Quantization
+- [[CVPR](https://arxiv.org/abs/2303.06424)] Regularized Vector Quantization for Tokenized Image Synthesis
 - [[ICLR](https://arxiv.org/abs/2210.17323)] GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers [[code](https://github.com/IST-DASLab/gptq)] [721⭐]
 - [[EMNLP](https://arxiv.org/abs/2310.05079)] Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference?
 - [[TNNLS](https://ieeexplore.ieee.org/document/10049753/)] BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance. [__`bnn`__] [[code](https://github.com/htqin/BiFSMNv2)]
@@ -147,6 +148,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ISCA](https://dl.acm.org/doi/abs/10.1145/3579371.3589038)] OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
 - [[arxiv](https://arxiv.org/pdf/2211.10438.pdf)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models. [[code](https://github.com/mit-han-lab/smoothquant)] [387⭐]
 - [[arxiv](https://arxiv.org/pdf/2201.11113.pdf)] Post-training Quantization for Neural Networks with Provable Guarantees.
+- [[arxiv](https://arxiv.org/abs/2303.08302)] ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation.
 - [[arxiv](https://arxiv.org/abs/2303.12557)] Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction.
 - [[arxiv](https://arxiv.org/abs/2303.12270)] EBSR: Enhanced Binary Neural Network for Image Super-Resolution. [__`bnn`__]
 - [[arxiv](https://arxiv.org/abs/2303.15493)] Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis. [__`bnn`__]
@@ -157,6 +159,10 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](https://arxiv.org/abs/2305.14314)] QLORA: Efficient Finetuning of Quantized LLMs [[code](https://github.com/artidoro/qlora)]
 - [[arxiv](https://arxiv.org/abs/2305.17888)] LLM-QAT: Data-Free Quantization Aware Training for Large Language Models
 - [[arxiv](https://arxiv.org/abs/2305.11186)] Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt
+- [[arxiv](https://arxiv.org/abs/2305.10657)] PTQD: Accurate Post-Training Quantization for Diffusion Models
+- [[arxiv](https://arxiv.org/abs/2305.18723)] Towards Accurate Data-free Quantization for Diffusion Models
+- [[arxiv](https://arxiv.org/abs/2306.02316)] Temporal Dynamic Quantization for Diffusion Models
+- [[arxiv](https://arxiv.org/abs/2308.10187)] Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks [[code](https://github.com/Arktis2022/Spiking-Diffusion)] [__`snn`__] 
 - [[arxiv](https://arxiv.org/abs/2306.07629)] SqueezeLLM: Dense-and-Sparse Quantization [[code](https://github.com/SqueezeAILab/SqueezeLLM)]
 - [[arxiv](https://arxiv.org/abs/2306.12929)] Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing
 - [[arxiv](https://arxiv.org/abs/2306.13515)] Binary domain generalization for sparsifying binary neural networks.  [__`bnn`__]
@@ -165,8 +171,14 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](https://arxiv.org/abs/2304.01089)] RPTQ: Reorder-based Post-training Quantization for Large Language Models.  [[code](https://github.com/hahnyuan/RPTQ4LLM)]
 - [[arxiv](https://arxiv.org/abs/2306.02272)] OWQ: Lessons learned from activation outliers for weight quantization in large language models. 
 - [[arxiv](https://arxiv.org/abs/2305.14152)] Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization. 
+- [[arxiv](https://arxiv.org/abs/2307.13304)] QuIP: 2-Bit Quantization of Large Language Models With Guarantees. [[code](https://github.com/jerry-chee/QuIP)]
+- [[arxiv](https://arxiv.org/abs/2308.13137)] OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models. [[code](https://github.com/OpenGVLab/OmniQuant)]
+- [[arxiv](https://arxiv.org/abs/2309.05516)] Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs. [[code](https://github.com/intel/neural-compressor)]
 - [[arxiv](https://arxiv.org/abs/2310.00034)] PB-LLM: Partially Binarized Large Language Models. [[code](https://github.com/hahnyuan/PB-LLM)]
 - [[arxiv](https://arxiv.org/abs/2304.09785)] Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric. [__`ptq`__]
+- [[arxiv](https://arxiv.org/abs/2309.01885)] QuantEase: Optimization-based Quantization for Language Models - An Efficient and Intuitive Algorithm
+- [[arxiv](https://arxiv.org/abs/2310.10944)] TEQ: Trainable Equivalent Transformation for Quantization of LLMs [[code](https://github.com/intel/neural-compressor)]
+- [[arxiv](https://arxiv.org/abs/2310.11453)] BitNet: Scaling 1-bit Transformers for Large Language Models [[code](https://github.com/kyegomez/BitNet)]
 
 ### 2022
 
@@ -352,6 +364,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ICET](https://ieeexplore.ieee.org/document/9119704)] An Energy-Efficient Bagged Binary Neural Network Accelerator. [**`bnn`**] [**`hardware`**] <!--citation 0-->
 - [[ICASSP](https://ieeexplore.ieee.org/document/9054599)] Balanced Binary Neural Networks with Gated Residual. [**`bnn`**] <!--citation 3-->
 - [[ICML](https://proceedings.icml.cc/static/paper_files/icml/2020/181-Paper.pdf)] Training Binary Neural Networks through Learning with Noisy Supervision. [**`bnn`**] <!--citation 5-->
+- [[ICML](https://arxiv.org/abs/1908.10396)] Accelerating Large-Scale Inference with Anisotropic Vector Quantization.
 - [[ICLR](https://openreview.net/pdf?id=XKeyCSUWusK)] DMS: Differentiable Dimension Search for Binary Neural Networks. [**`bnn`**]
 - [[ICLR](https://openreview.net/pdf?id=BJg4NgBKvH)] [19:fire:] Training Binary Neural Networks with Real-to-Binary Convolutions. [**`bnn`**] [[code is comming](https://github.com/brais-martinez/real2binary)] [[re-implement](https://github.com/larq/zoo/blob/master/larq_zoo/literature/real_to_bin_nets.py)] <!--citation 19-->
 - [[ICLR](https://arxiv.org/abs/2002.06517)] BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations. [**`bnn`**] [[torch](https://github.com/Hyungjun-K1m/BinaryDuo)] <!--citation 6-->
