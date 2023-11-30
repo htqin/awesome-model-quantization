@@ -104,37 +104,35 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 **Keywords**: **`qnn`**: quantized neural networks | **`bnn`**: binarized neural networks | **`hardware`**: hardware deployment | **`snn`**: spiking neural networks | **`other`**
 
-**Statistics**: :fire: highly cited | :star: code is available and star > 50
-
 ----
 
 ### 2023
 
-- [[NeurIPS](https://arxiv.org/abs/2305.10299)] Binarized Spectral Compressive Imaging [[code](https://github.com/caiyuanhao1998/BiSCI)]
-- [[NeurIPS](https://dev.neurips.cc/virtual/2023/poster/72890)] QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution [[code](https://github.com/htqin/QuantSR)]
-- [[NeurIPS](https://neurips.cc/virtual/2023/poster/71287)] BiMatting: Efficient Video Matting via Binarization [[code](https://github.com/htqin/BiMatting)]
-- [[NeurIPS](https://nips.cc/virtual/2023/oral/73855)] QLORA: Efficient Finetuning of Quantized LLMs [[code](https://github.com/artidoro/qlora)]
+- [[NeurIPS](https://arxiv.org/abs/2305.10299)] Binarized Spectral Compressive Imaging [[code](https://github.com/caiyuanhao1998/BiSCI)]![GitHub Repo stars](https://img.shields.io/github/stars/caiyuanhao1998/BiSCI)
+- [[NeurIPS](https://dev.neurips.cc/virtual/2023/poster/72890)] QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution [[code](https://github.com/htqin/QuantSR)]![GitHub Repo stars](https://img.shields.io/github/stars/htqin/QuantSR)
+- [[NeurIPS](https://neurips.cc/virtual/2023/poster/71287)] BiMatting: Efficient Video Matting via Binarization [[code](https://github.com/htqin/BiMatting)]![GitHub Repo stars](https://img.shields.io/github/stars/htqin/BiMatting)
+- [[NeurIPS](https://nips.cc/virtual/2023/oral/73855)] QLORA: Efficient Finetuning of Quantized LLMs [[code](https://github.com/artidoro/qlora)]![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora)
 - [[NeurIPS](https://neurips.cc/virtual/2023/poster/70279)] Q-DM: An Efficient Low-bit Quantized Diffusion Model
-- [[NeurIPS](https://neurips.cc/virtual/2023/poster/71314)] PTQD: Accurate Post-Training Quantization for Diffusion Models [[code](https://github.com/ziplab/PTQD)]
+- [[NeurIPS](https://neurips.cc/virtual/2023/poster/71314)] PTQD: Accurate Post-Training Quantization for Diffusion Models [[code](https://github.com/ziplab/PTQD)]![GitHub Repo stars](https://img.shields.io/github/stars/ziplab/PTQD)
 - [[NeurIPS](https://nips.cc/virtual/2023/poster/72396)] Temporal Dynamic Quantization for Diffusion Models
 - [[NeurIPS](https://nips.cc/virtual/2023/poster/72931)] Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization
-- [[ICML](https://arxiv.org/pdf/2301.11233.pdf)] BiBench: Benchmarking and Analyzing Network Binarization [**`bnn`**] [[code](https://github.com/htqin/BiBench)]
+- [[ICML](https://arxiv.org/pdf/2301.11233.pdf)] BiBench: Benchmarking and Analyzing Network Binarization [**`bnn`**] [[code](https://github.com/htqin/BiBench)]![GitHub Repo stars](https://img.shields.io/github/stars/htqin/BiBench)
 - [[ICML](https://arxiv.org/abs/2306.00317)] FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization [[code](https://openreview.net/attachment?id=-tYCaP0phY_&name=supplementary_material)]
-- [[ICML](https://arxiv.org/abs/2301.12017)] Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases [[code](https://github.com/microsoft/DeepSpeed)]
+- [[ICML](https://arxiv.org/abs/2301.12017)] Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases [[code](https://github.com/microsoft/DeepSpeed)]![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed)
 - [[ICML](https://icml.cc/virtual/2023/28295)] GPT-Zip: Deep Compression of Finetuned Large Language Models
-- [[ICML](https://arxiv.org/abs/2307.03738)] QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models [[code](https://github.com/IST-DASLab/QIGen)]
+- [[ICML](https://arxiv.org/abs/2307.03738)] QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models [[code](https://github.com/IST-DASLab/QIGen)]![GitHub Repo stars](https://img.shields.io/github/stars/IST-DASLab/QIGen)
 - [[ICML](https://icml.cc/virtual/2023/poster/23915)] The case for 4-bit precision: k-bit Inference Scaling Laws
 - [[TPAMI](https://ieeexplore.ieee.org/abstract/document/9735379)] Optimization-Based Post-Training Quantization With Bit-Split and Stitching
 - [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10122994)] Single-path Bit Sharing for Automatic Loss-aware Model Compression
-- [[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Shang_Causal-DFQ_Causality_Guided_Data-Free_Network_Quantization_ICCV_2023_paper.pdf)] Causal-DFQ: Causality Guided Data-free Network Quantization [[code](https://github.com/42Shawn/Causal-DFQ)]
-- [[ICCV](https://arxiv.org/abs/2302.04304)] Q-Diffusion: Quantizing Diffusion Models [[code](https://github.com/Xiuyu-Li/q-diffusion)]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Shang_Causal-DFQ_Causality_Guided_Data-Free_Network_Quantization_ICCV_2023_paper.pdf)] Causal-DFQ: Causality Guided Data-free Network Quantization [[code](https://github.com/42Shawn/Causal-DFQ)]![GitHub Repo stars](https://img.shields.io/github/stars/42Shawn/Causal-DFQ)
+- [[ICCV](https://arxiv.org/abs/2302.04304)] Q-Diffusion: Quantizing Diffusion Models [[code](https://github.com/Xiuyu-Li/q-diffusion)]![GitHub Repo stars](https://img.shields.io/github/stars/Xiuyu-Li/q-diffusion)
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_QD-BEV__Quantization-aware_View-guided_Distillation_for_Multi-view_3D_Object_Detection_ICCV_2023_paper.html)] QD-BEV : Quantization-aware View-guided Distillation for Multi-view 3D Object Detection
-- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Post-Training_Quantization_on_Diffusion_Models_CVPR_2023_paper.pdf)] Post-training Quantization on Diffusion Models [[code](https://github.com/42Shawn/PTQ4DM)]
-- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.pdf)] Q-DETR: An Efficient Low-Bit Quantized Detection Transformer [[code](https://github.com/SteveTsui/Q-DETR)]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Post-Training_Quantization_on_Diffusion_Models_CVPR_2023_paper.pdf)] Post-training Quantization on Diffusion Models [[code](https://github.com/42Shawn/PTQ4DM)]![GitHub Repo stars](https://img.shields.io/github/stars/42Shawn/PTQ4DM)
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.pdf)] Q-DETR: An Efficient Low-Bit Quantized Detection Transformer [[code](https://github.com/SteveTsui/Q-DETR)]![GitHub Repo stars](https://img.shields.io/github/stars/SteveTsui/Q-DETR)
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Hard_Sample_Matters_a_Lot_in_Zero-Shot_Quantization_CVPR_2023_paper.html)] Hard Sample Matters a Lot in Zero-Shot Quantization
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Toward_Accurate_Post-Training_Quantization_for_Image_Super_Resolution_CVPR_2023_paper.pdf)] Toward Accurate Post-Training Quantization for Image Super Resolution
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Koryakovskiy_One-Shot_Model_for_Mixed-Precision_Quantization_CVPR_2023_paper.pdf)] One-Shot Model for Mixed-Precision Quantization
-- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_PD-Quant_Post-Training_Quantization_Based_on_Prediction_Difference_Metric_CVPR_2023_paper.html)] PD-Quant: Post-Training Quantization Based on Prediction Difference Metric [[code](https://github.com/hustvl/PD-Quant)]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_PD-Quant_Post-Training_Quantization_Based_on_Prediction_Difference_Metric_CVPR_2023_paper.html)] PD-Quant: Post-Training Quantization Based on Prediction Difference Metric [[code](https://github.com/hustvl/PD-Quant)]![GitHub Repo stars](https://img.shields.io/github/stars/hustvl/PD-Quant)
 - [[CVPR](https://arxiv.org/abs/2303.06869)] Adaptive Data-Free Quantization
 - [[CVPR](https://arxiv.org/pdf/2211.16056.pdf)] NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Boost_Vision_Transformer_With_GPU-Friendly_Sparsity_and_Quantization_CVPR_2023_paper.pdf)] Boost Vision Transformer with GPU-Friendly Sparsity and Quantization
