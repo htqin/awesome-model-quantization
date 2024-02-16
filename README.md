@@ -170,6 +170,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[MMM](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_8)] Binary Neural Network for Video Action Recognition. [__`bnn`__]
 - [[ISCA](https://dl.acm.org/doi/abs/10.1145/3579371.3589038)] OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
 - [[arxiv](https://arxiv.org/pdf/2211.10438.pdf)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models. [[code](https://github.com/mit-han-lab/smoothquant)] [387⭐]
+- - [[arxiv](https://arxiv.org/pdf/2208.00164.pdf)] Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression github (qdlr-nerf)
 - [[arxiv](https://arxiv.org/pdf/2201.11113.pdf)] Post-training Quantization for Neural Networks with Provable Guarantees.
 - [[arxiv](https://arxiv.org/abs/2303.08302)] ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation.
 - [[arxiv](https://arxiv.org/abs/2303.12557)] Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction.
@@ -223,6 +224,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arxiv](https://arxiv.org/abs/2310.19102)] Atom: Low-bit Quantization for Efficient and Accurate LLM Serving [[code](https://github.com/efeslab/Atom)]
 - [[arxiv](https://arxiv.org/abs/2311.01305)] AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models
 - [[arxiv](https://arxiv.org/abs/2311.01792)] AFPQ: Asymmetric Floating Point Quantization for LLMs [[code](https://github.com/zhangsichengsjtu/AFPQ)]
+- [[arxiv](https://arxiv.org/abs/2311.18159)] Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization [[Compact3D](https://github.com/UCDvision/compact3d)]
 
 ### 2022
 
