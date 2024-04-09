@@ -12,6 +12,7 @@ This repo collects papers, docs, codes about model quantization for anyone who w
   - [Survey\_of\_Binarization](#survey_of_binarization)
   - [Survey\_of\_Quantization](#survey_of_quantization)
 - [Papers](#papers)
+  - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
@@ -107,6 +108,14 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 **Keywords**: **`qnn`**: quantized neural networks | **`bnn`**: binarized neural networks | **`hardware`**: hardware deployment | **`snn`**: spiking neural networks | **`other`**
 
 ----
+
+### 2024
+
+- [[arXiv](https://arxiv.org/abs/2402.05445)] Accurate LoRA-Finetuning Quantization of LLMs via Information Retention [[code](https://github.com/htqin/IR-QLoRA)]![GitHub Repo stars](https://img.shields.io/github/stars/htqin/IR-QLoRA)
+- [[arXiv](https://arxiv.org/abs/2402.04291)] BiLLM: Pushing the Limit of Post-Training Quantization for LLMs [[code](https://github.com/Aaronhuang-778/BiLLM)]![GitHub Repo stars](https://img.shields.io/github/stars/Aaronhuang-778/BiLLM)
+- [[arXiv](https://arxiv.org/abs/2404.05662)] BinaryDM: Towards Accurate Binarization of Diffusion Model [[code](https://github.com/Xingyu-Zheng/BinaryDM)]![GitHub Repo stars](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM)
+- [[arXiv](https://arxiv.org/abs/2402.11960)] DB-LLM: Accurate Dual-Binarization for Efficient LLMs
+- [[arXiv](https://arxiv.org/abs/2309.01945)] OHQ: On-chip Hardware-aware Quantization
 
 ### 2023
 
