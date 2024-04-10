@@ -115,7 +115,44 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arXiv](https://arxiv.org/abs/2402.04291)] BiLLM: Pushing the Limit of Post-Training Quantization for LLMs [[code](https://github.com/Aaronhuang-778/BiLLM)]![GitHub Repo stars](https://img.shields.io/github/stars/Aaronhuang-778/BiLLM)
 - [[arXiv](https://arxiv.org/abs/2404.05662)] BinaryDM: Towards Accurate Binarization of Diffusion Model [[code](https://github.com/Xingyu-Zheng/BinaryDM)]![GitHub Repo stars](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM)
 - [[arXiv](https://arxiv.org/abs/2402.11960)] DB-LLM: Accurate Dual-Binarization for Efficient LLMs
+- [[arXiv](https://arxiv.org/abs/2404.05662)] BinaryDM: Towards Accurate Binarization of Diffusion Model [[code](https://github.com/Xingyu-Zheng/BinaryDM)]![GitHub Repo stars](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM)
 - [[arXiv](https://arxiv.org/abs/2309.01945)] OHQ: On-chip Hardware-aware Quantization
+- [[arXiv](https://arxiv.org/abs/2401.06118)] Extreme Compression of Large Language Models via Additive Quantization
+- [[arXiv](https://arxiv.org/abs/2401.07159)] Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
+- [[arXiv](https://arxiv.org/abs/2401.14112)] FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design
+- [[arXiv](https://arxiv.org/abs/2401.18079)] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization
+- [[arXiv](https://arxiv.org/abs/2402.10787)] EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge [[code](https://github.com/shawnricecake/EdgeQAT)] ![GitHub Repo stars](https://img.shields.io/github/stars/shawnricecake/EdgeQAT)
+- [[arXiv](https://arxiv.org/abs/2402.10517)] Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs
+- [[arXiv](https://arxiv.org/abs/2402.02446)] LQER: Low-Rank Quantization Error Reconstruction for LLMs
+- [[arXiv](https://arxiv.org/abs/2402.02750)] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache [[code](https://github.com/jy-yuan/KIVI)] ![GitHub Repo stars](https://img.shields.io/github/stars/jy-yuan/KIVI)
+- [[arXiv](https://arxiv.org/abs/2402.04396)] QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks [[code](https://github.com/Cornell-RelaxML/quip-sharp)] ![GitHub Repo stars](https://img.shields.io/github/stars/Cornell-RelaxML/quip-sharp)
+- [[arXiv](https://arxiv.org/abs/2402.04902)] L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ
+- [[arXiv](https://arxiv.org/abs/2402.04925)] TP-Aware Dequantization
+- [[arXiv](https://arxiv.org/abs/2402.05147)] ApiQ: Finetuning of 2-Bit Quantized Large Language Model
+- [[arXiv](https://arxiv.org/abs/2402.10517)] Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs
+- [[arXiv](https://arxiv.org/abs/2402.10631)] BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation [[code](https://github.com/DD-DuDa/BitDistiller)] ![GitHub Repo stars](https://img.shields.io/github/stars/DD-DuDa/BitDistiller)
+- [[arXiv](https://arxiv.org/abs/2402.11295)] OneBit: Towards Extremely Low-bit Large Language Models
+- [[arXiv](https://arxiv.org/abs/2402.12065)] WKVQuant: Quantising Weight and Key/Value Cache for Large Language Models Gains More
+- [[arXiv](https://arxiv.org/abs/2402.15319)] GPTVQ: The Blessing of Dimensionality for LLM Quantization [[code](https://github.com/qualcomm-ai-research/gptvq)] ![GitHub Repo stars](https://img.shields.io/github/stars/qualcomm-ai-research/gptvq)
+- [[DAC](https://arxiv.org/abs/2402.14866)] APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models
+- [[DAC](https://arxiv.org/abs/2402.16775)] A Comprehensive Evaluation of Quantization Strategies for Large Language Models
+- [[arXiv](https://arxiv.org/abs/2402.18096)] No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization
+- [[arXiv](https://arxiv.org/abs/2402.18158)] Evaluating Quantized Large Language Models
+- [[arXiv](https://arxiv.org/abs/2402.17985)] FlattenQuant: Breaking Through the Inference Compute-bound for Large Language Models with Per-tensor Quantization
+- [[arXiv](https://arxiv.org/abs/2403.01136)] LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization
+- [[arXiv](https://arxiv.org/abs/2403.01241)] IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact
+- [[arXiv](https://arxiv.org/abs/2403.01384)] On the Compressibility of Quantized Large Language Models
+- [[arXiv](https://arxiv.org/abs/2403.02775)] EasyQuant: An Efficient Data-free Quantization Algorithm for LLMs
+- [[arXiv](https://arxiv.org/abs/2403.04643)] QAQ: Quality Adaptive Quantization for LLM KV Cache [[code](https://github.com/ClubieDong/QAQ-KVCacheQuantization)] ![GitHub Repo stars](https://img.shields.io/github/stars/ClubieDong/QAQ-KVCacheQuantization)
+- [[arXiv](https://arxiv.org/abs/2403.05527)] GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM
+- [[arXiv](https://arxiv.org/abs/2403.06408)] What Makes Quantization for Large Language Models Hard? An Empirical Study from the Lens of Perturbation
+- [[arXiv](https://arxiv.org/abs/2403.07378)] SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression [[code](https://github.com/AIoT-MLSys-Lab/SVD-LLM)] ![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)
+- [[ICLR](https://browse.arxiv.org/abs/2402.00858)] AffineQuant: Affine Transformation Quantization for Large Language Models [[code](https://github.com/bytedance/AffineQuant)] ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/AffineQuant)
+- [[ICLR Practical ML for Low Resource Settings Workshop](https://arxiv.org/abs/2403.18159)] Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models
+- [[arXiv](https://arxiv.org/abs/2403.20137)] Accurate Block Quantization in LLMs with Outliers
+- [[arXiv](https://arxiv.org/abs/2404.00456)] QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs [[code](https://github.com/spcl/QuaRot)] ![GitHub Repo stars](https://img.shields.io/github/stars/spcl/QuaRot)
+- [[arXiv](https://arxiv.org/abs/2404.01892)] Minimize Quantization Output Error with Bias Compensation [[code](https://github.com/GongCheng1919/bias-compensation)] ![GitHub Repo stars](https://img.shields.io/github/stars/GongCheng1919/bias-compensation)
+- [[arXiv](https://arxiv.org/abs/2404.02837)] Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models
 
 ### 2023
 
@@ -178,62 +215,62 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[Cognitive Neurodynamics](https://link.springer.com/article/10.1007/s11571-022-09927-7)] Pruning and quantization algorithm with applications in memristor-based convolutional neural network.
 - [[MMM](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_8)] Binary Neural Network for Video Action Recognition. [__`bnn`__]
 - [[ISCA](https://dl.acm.org/doi/abs/10.1145/3579371.3589038)] OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
-- [[arxiv](https://arxiv.org/pdf/2211.10438.pdf)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models. [[code](https://github.com/mit-han-lab/smoothquant)] [387⭐]
-- [[arxiv](https://arxiv.org/pdf/2208.00164.pdf)] Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression
-- [[arxiv](https://arxiv.org/pdf/2201.11113.pdf)] Post-training Quantization for Neural Networks with Provable Guarantees.
-- [[arxiv](https://arxiv.org/abs/2303.08302)] ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation.
-- [[arxiv](https://arxiv.org/abs/2303.12557)] Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction.
-- [[arxiv](https://arxiv.org/abs/2303.12270)] EBSR: Enhanced Binary Neural Network for Image Super-Resolution. [__`bnn`__]
-- [[arxiv](https://arxiv.org/abs/2303.15493)] Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis. [__`bnn`__]
-- [[arxiv](https://arxiv.org/abs/2304.01089)] RPTQ: Reorder-based Post-training Quantization for Large Language Models.  [[code](https://github.com/hahnyuan/RPTQ4LLM)]
-- [[arxiv](https://arxiv.org/abs/2304.09785)] Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric. [__`ptq`__]
-- [[arxiv](https://arxiv.org/abs/2305.12356)] Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models. 
-- [[arxiv](https://arxiv.org/abs/2206.09557)] LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models
-- [[arxiv](https://arxiv.org/abs/2306.03078)] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression [[code](https://github.com/Vahe1994/SpQR)]
-- [[arxiv](https://arxiv.org/abs/2302.02390)] Quantized Distributed Training of Large Models with Convergence Guarantees
-- [[arxiv](https://arxiv.org/abs/2305.17888)] LLM-QAT: Data-Free Quantization Aware Training for Large Language Models
-- [[arxiv](https://arxiv.org/abs/2306.00978)] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [[code](https://github.com/mit-han-lab/llm-awq)]
-- [[arxiv](https://arxiv.org/abs/2306.11987)] Training Transformers with 4-bit Integers [[code](https://github.com/xijiu9/Train_Transformers_with_INT4)]
-- [[arxiv](https://arxiv.org/abs/2305.11186)] Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt
-- [[arxiv](https://arxiv.org/abs/2305.18723)] Towards Accurate Data-free Quantization for Diffusion Models
-- [[arxiv](https://arxiv.org/abs/2306.08162)] INT2.1: Towards Fine-Tunable Quantized Large Language Models with Error Correction through Low-Rank Adaptation
-- [[arxiv](https://arxiv.org/abs/2306.07629)] SqueezeLLM: Dense-and-Sparse Quantization [[code](https://github.com/SqueezeAILab/SqueezeLLM)]
-- [[arxiv](https://arxiv.org/abs/2306.12929)] Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing
-- [[arxiv](https://arxiv.org/abs/2306.13515)] Binary domain generalization for sparsifying binary neural networks.  [__`bnn`__]
-- [[arxiv](https://arxiv.org/abs/2307.03712)] INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers [[code](https://github.com/lightmatter-ai/INT-FP-QSim)]
-- [[arxiv](https://arxiv.org/abs/2307.09782)] ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats.
-- [[arxiv](https://arxiv.org/abs/2306.02272)] OWQ: Lessons learned from activation outliers for weight quantization in large language models. 
-- [[arxiv](https://arxiv.org/abs/2307.08072)] Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study
-- [[arxiv](https://arxiv.org/abs/2307.13304)] QuIP: 2-Bit Quantization of Large Language Models With Guarantees. [[code](https://github.com/jerry-chee/QuIP)]
-- [[arxiv](https://arxiv.org/abs/2308.05600)] NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search
-- [[arxiv](https://arxiv.org/abs/2308.06744)] Token-Scaled Logit Distillation for Ternary Weight Generative Language Models
-- [[arxiv](https://arxiv.org/abs/2308.07662)] Gradient-Based Post-Training Quantization: Challenging the Status Quo
-- [[arxiv](https://arxiv.org/abs/2308.09723)] FineQuant: Unlocking Efficiency with Fine-Grained Weight-Only Quantization for LLMs
-- [[arxiv](https://arxiv.org/abs/2308.13137)] OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models. [[code](https://github.com/OpenGVLab/OmniQuant)]
-- [[arxiv](https://arxiv.org/abs/2308.14903)] MEMORY-VQ: Compression for Tractable Internet-Scale Memory
-- [[arxiv](https://arxiv.org/abs/2308.15987)] FPTQ: Fine-grained Post-Training Quantization for Large Language Models
-- [[arxiv](https://arxiv.org/abs/2309.00964)] eDKM: An Efficient and Accurate Train-time Weight Clustering for Large Language Models
-- [[arxiv](https://arxiv.org/abs/2309.01885)] QuantEase: Optimization-based Quantization for Language Models - An Efficient and Intuitive Algorithm
-- [[arxiv](https://arxiv.org/abs/2309.02784)] Norm Tweaking: High-performance Low-bit Quantization of Large Language Models
-- [[arxiv](https://arxiv.org/abs/2309.05210)] Understanding the Impact of Post-Training Quantization on Large Language Models
-- [[arxiv](https://arxiv.org/abs/2309.05516)] Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs. [[code](https://github.com/intel/neural-compressor)]
-- [[arxiv](https://arxiv.org/abs/2310.00034)] PB-LLM: Partially Binarized Large Language Models. [[code](https://github.com/hahnyuan/PB-LLM)]
-- [[arxiv](https://arxiv.org/abs/2308.10187)] Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks [[code](https://github.com/Arktis2022/Spiking-Diffusion)] [__`snn`__] 
-- [[arxiv](https://arxiv.org/abs/2309.01885)] QuantEase: Optimization-based Quantization for Language Models - An Efficient and Intuitive Algorithm
-- [[arxiv](https://arxiv.org/abs/2309.14592)] Efficient Post-training Quantization with FP8 Formats [[code](https://github.com/intel/neural-compressor)]
-- [[arxiv](https://arxiv.org/abs/2309.14717)] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [[code](https://github.com/yuhuixu1993/qa-lora)]
-- [[arxiv](https://arxiv.org/abs/2309.15531)] Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models
-- [[arxiv](https://arxiv.org/abs/2309.16119)] ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers
-- [[arxiv](https://arxiv.org/abs/2310.07147)] QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
-- [[arxiv](https://arxiv.org/abs/2310.08041)] QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models
-- [[arxiv](https://arxiv.org/abs/2310.08659)] LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models [[code](https://github.com/yxli2123/LoftQ)]
-- [[arxiv](https://arxiv.org/abs/2310.10944)] TEQ: Trainable Equivalent Transformation for Quantization of LLMs [[code](https://github.com/intel/neural-compressor)]
-- [[arxiv](https://arxiv.org/abs/2310.11453)] BitNet: Scaling 1-bit Transformers for Large Language Models [[code](https://github.com/kyegomez/BitNet)]
-- [[arxiv](https://arxiv.org/abs/2310.18313)] FP8-LM: Training FP8 Large Language Models [[code](https://github.com/Azure/MS-AMP)]
-- [[arxiv](https://arxiv.org/abs/2310.19102)] Atom: Low-bit Quantization for Efficient and Accurate LLM Serving [[code](https://github.com/efeslab/Atom)]
-- [[arxiv](https://arxiv.org/abs/2311.01305)] AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models
-- [[arxiv](https://arxiv.org/abs/2311.01792)] AFPQ: Asymmetric Floating Point Quantization for LLMs [[code](https://github.com/zhangsichengsjtu/AFPQ)]
-- [[arxiv](https://arxiv.org/abs/2311.18159)] Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization [[Compact3D](https://github.com/UCDvision/compact3d)]
+- [[arXiv](https://arxiv.org/pdf/2211.10438.pdf)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models. [[code](https://github.com/mit-han-lab/smoothquant)] [387⭐]
+- [[arXiv](https://arxiv.org/pdf/2208.00164.pdf)] Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression
+- [[arXiv](https://arxiv.org/pdf/2201.11113.pdf)] Post-training Quantization for Neural Networks with Provable Guarantees.
+- [[arXiv](https://arxiv.org/abs/2303.08302)] ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation.
+- [[arXiv](https://arxiv.org/abs/2303.12557)] Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction.
+- [[arXiv](https://arxiv.org/abs/2303.12270)] EBSR: Enhanced Binary Neural Network for Image Super-Resolution. [__`bnn`__]
+- [[arXiv](https://arxiv.org/abs/2303.15493)] Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis. [__`bnn`__]
+- [[arXiv](https://arxiv.org/abs/2304.01089)] RPTQ: Reorder-based Post-training Quantization for Large Language Models.  [[code](https://github.com/hahnyuan/RPTQ4LLM)]
+- [[arXiv](https://arxiv.org/abs/2304.09785)] Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric. [__`ptq`__]
+- [[arXiv](https://arxiv.org/abs/2305.12356)] Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models. 
+- [[arXiv](https://arxiv.org/abs/2206.09557)] LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models
+- [[arXiv](https://arxiv.org/abs/2306.03078)] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression [[code](https://github.com/Vahe1994/SpQR)]
+- [[arXiv](https://arxiv.org/abs/2302.02390)] Quantized Distributed Training of Large Models with Convergence Guarantees
+- [[arXiv](https://arxiv.org/abs/2305.17888)] LLM-QAT: Data-Free Quantization Aware Training for Large Language Models
+- [[arXiv](https://arxiv.org/abs/2306.00978)] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [[code](https://github.com/mit-han-lab/llm-awq)]
+- [[arXiv](https://arxiv.org/abs/2306.11987)] Training Transformers with 4-bit Integers [[code](https://github.com/xijiu9/Train_Transformers_with_INT4)]
+- [[arXiv](https://arxiv.org/abs/2305.11186)] Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt
+- [[arXiv](https://arxiv.org/abs/2305.18723)] Towards Accurate Data-free Quantization for Diffusion Models
+- [[arXiv](https://arxiv.org/abs/2306.08162)] INT2.1: Towards Fine-Tunable Quantized Large Language Models with Error Correction through Low-Rank Adaptation
+- [[arXiv](https://arxiv.org/abs/2306.07629)] SqueezeLLM: Dense-and-Sparse Quantization [[code](https://github.com/SqueezeAILab/SqueezeLLM)]
+- [[arXiv](https://arxiv.org/abs/2306.12929)] Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing
+- [[arXiv](https://arxiv.org/abs/2306.13515)] Binary domain generalization for sparsifying binary neural networks.  [__`bnn`__]
+- [[arXiv](https://arxiv.org/abs/2307.03712)] INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers [[code](https://github.com/lightmatter-ai/INT-FP-QSim)]
+- [[arXiv](https://arxiv.org/abs/2307.09782)] ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats.
+- [[arXiv](https://arxiv.org/abs/2306.02272)] OWQ: Lessons learned from activation outliers for weight quantization in large language models. 
+- [[arXiv](https://arxiv.org/abs/2307.08072)] Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study
+- [[arXiv](https://arxiv.org/abs/2307.13304)] QuIP: 2-Bit Quantization of Large Language Models With Guarantees. [[code](https://github.com/jerry-chee/QuIP)]
+- [[arXiv](https://arxiv.org/abs/2308.05600)] NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search
+- [[arXiv](https://arxiv.org/abs/2308.06744)] Token-Scaled Logit Distillation for Ternary Weight Generative Language Models
+- [[arXiv](https://arxiv.org/abs/2308.07662)] Gradient-Based Post-Training Quantization: Challenging the Status Quo
+- [[arXiv](https://arxiv.org/abs/2308.09723)] FineQuant: Unlocking Efficiency with Fine-Grained Weight-Only Quantization for LLMs
+- [[arXiv](https://arxiv.org/abs/2308.13137)] OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models. [[code](https://github.com/OpenGVLab/OmniQuant)]
+- [[arXiv](https://arxiv.org/abs/2308.14903)] MEMORY-VQ: Compression for Tractable Internet-Scale Memory
+- [[arXiv](https://arxiv.org/abs/2308.15987)] FPTQ: Fine-grained Post-Training Quantization for Large Language Models
+- [[arXiv](https://arxiv.org/abs/2309.00964)] eDKM: An Efficient and Accurate Train-time Weight Clustering for Large Language Models
+- [[arXiv](https://arxiv.org/abs/2309.01885)] QuantEase: Optimization-based Quantization for Language Models - An Efficient and Intuitive Algorithm
+- [[arXiv](https://arxiv.org/abs/2309.02784)] Norm Tweaking: High-performance Low-bit Quantization of Large Language Models
+- [[arXiv](https://arxiv.org/abs/2309.05210)] Understanding the Impact of Post-Training Quantization on Large Language Models
+- [[arXiv](https://arxiv.org/abs/2309.05516)] Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs. [[code](https://github.com/intel/neural-compressor)]
+- [[arXiv](https://arxiv.org/abs/2310.00034)] PB-LLM: Partially Binarized Large Language Models. [[code](https://github.com/hahnyuan/PB-LLM)]
+- [[arXiv](https://arxiv.org/abs/2308.10187)] Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks [[code](https://github.com/Arktis2022/Spiking-Diffusion)] [__`snn`__] 
+- [[arXiv](https://arxiv.org/abs/2309.01885)] QuantEase: Optimization-based Quantization for Language Models - An Efficient and Intuitive Algorithm
+- [[arXiv](https://arxiv.org/abs/2309.14592)] Efficient Post-training Quantization with FP8 Formats [[code](https://github.com/intel/neural-compressor)]
+- [[arXiv](https://arxiv.org/abs/2309.14717)] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [[code](https://github.com/yuhuixu1993/qa-lora)]
+- [[arXiv](https://arxiv.org/abs/2309.15531)] Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models
+- [[arXiv](https://arxiv.org/abs/2309.16119)] ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers
+- [[arXiv](https://arxiv.org/abs/2310.07147)] QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
+- [[arXiv](https://arxiv.org/abs/2310.08041)] QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models
+- [[arXiv](https://arxiv.org/abs/2310.08659)] LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models [[code](https://github.com/yxli2123/LoftQ)]
+- [[arXiv](https://arxiv.org/abs/2310.10944)] TEQ: Trainable Equivalent Transformation for Quantization of LLMs [[code](https://github.com/intel/neural-compressor)]
+- [[arXiv](https://arxiv.org/abs/2310.11453)] BitNet: Scaling 1-bit Transformers for Large Language Models [[code](https://github.com/kyegomez/BitNet)]
+- [[arXiv](https://arxiv.org/abs/2310.18313)] FP8-LM: Training FP8 Large Language Models [[code](https://github.com/Azure/MS-AMP)]
+- [[arXiv](https://arxiv.org/abs/2310.19102)] Atom: Low-bit Quantization for Efficient and Accurate LLM Serving [[code](https://github.com/efeslab/Atom)]
+- [[arXiv](https://arxiv.org/abs/2311.01305)] AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models
+- [[arXiv](https://arxiv.org/abs/2311.01792)] AFPQ: Asymmetric Floating Point Quantization for LLMs [[code](https://github.com/zhangsichengsjtu/AFPQ)]
+- [[arXiv](https://arxiv.org/abs/2311.18159)] Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization [[Compact3D](https://github.com/UCDvision/compact3d)]
 
 ### 2022
 
@@ -284,11 +321,11 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[ICLR](https://openreview.net/forum?id=JXhROKNZzOc)] SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation. [**`qnn`**][code](https://github.com/clevercool/SQuant)]
 - [[ICLR](https://openreview.net/forum?id=ySQH0oDyp7)] Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks. [**`snn`**]
 - [[ICLR](https://openreview.net/forum?id=7udZAsEzd60)] VC dimension of partially quantized neural networks in the overparametrized regime. [**`qnn`**]
-- [[arxiv](https://arxiv.org/pdf/2201.07703.pdf)] Q-ViT: Fully Differentiable Quantization for Vision Transformer [__`qnn`__]
-- [[arxiv](https://arxiv.org/pdf/2211.10438.pdf)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [__`qnn`__] [[code](https://github.com/mit-han-lab/smoothquant)] [150:star:]
-- [[arxiv](https://arxiv.org/pdf/2202.05048.pdf)] Quantune: Post-training Quantization of Convolutional Neural Networks using Extreme Gradient Boosting for Fast Deployment [__`qnn`__]
+- [[arXiv](https://arxiv.org/pdf/2201.07703.pdf)] Q-ViT: Fully Differentiable Quantization for Vision Transformer [__`qnn`__]
+- [[arXiv](https://arxiv.org/pdf/2211.10438.pdf)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [__`qnn`__] [[code](https://github.com/mit-han-lab/smoothquant)] [150:star:]
+- [[arXiv](https://arxiv.org/pdf/2202.05048.pdf)] Quantune: Post-training Quantization of Convolutional Neural Networks using Extreme Gradient Boosting for Fast Deployment [__`qnn`__]
 - [[TGARS](https://ieeexplore.ieee.org/abstract/document/9362309)] Accelerating Convolutional Neural Network-Based Hyperspectral Image Classification by Step Activation Quantization [__`qnn`__]
-- [[arxiv](https://arxiv.org/pdf/2201.08442)] Neural network quantization with ai model efficiency toolkit (aimet).
+- [[arXiv](https://arxiv.org/pdf/2201.08442)] Neural network quantization with ai model efficiency toolkit (aimet).
 - [[IJNS](https://arxiv.org/pdf/2209.15317.pdf)] Convolutional Neural Networks Quantization with Attention.
 - [[ACM Trans. Des. Autom. Electron. Syst.](https://web.archive.org/web/20220722092230id_/https://dl.acm.org/doi/pdf/10.1145/3549535)] Structured Dynamic Precision for Deep Neural Networks uantization.
 - [[MICRO](https://ieeexplore.ieee.org/abstract/document/9923832)] ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization.
@@ -304,14 +341,14 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/html/Zhong_IntraQ_Learning_Synthetic_Images_With_Intra-Class_Heterogeneity_for_Zero-Shot_Network_CVPR_2022_paper.html)] IntraQ: Learning Synthetic Images With Intra-Class Heterogeneity for Zero-Shot Network Quantization. [[torch](https://github.com/zysxmu/IntraQ)]
 - [[Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231222008293)] EPQuant: A Graph Neural Network compression approach based on product quantization.
 - [[tinyML Research Symposium](https://arxiv.org/pdf/2203.05025.pdf)] Power-of-Two Quantization for Low Bitwidth and Hardware Compliant Neural Networks.
-- [[arxiv](http://arxiv.org/abs/2206.15408)] Sub-8-Bit Quantization Aware Training for 8-Bit Neural Network Accelerator with On-Device Speech Recognition.
+- [[arXiv](http://arxiv.org/abs/2206.15408)] Sub-8-Bit Quantization Aware Training for 8-Bit Neural Network Accelerator with On-Device Speech Recognition.
 - [[Ocean Engineering](https://www.sciencedirect.com/science/article/pii/S0029801822017887)] Neural network based adaptive sliding mode tracking control of autonomous surface vehicles with input quantization and saturation.
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022W/ECV/papers/Jiang_A_Low_Memory_Footprint_Quantized_Neural_Network_for_Depth_Completion_CVPRW_2022_paper.pdf)] A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps.
 - [[PPoPP](https://dl.acm.org/doi/abs/10.1145/3503221.3508408)] QGTC: accelerating quantized graph neural networks via GPU tensor core.
 - [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9849674)] An Efficient Implementation of Convolutional Neural Network With CLIP-Q Quantization on FPGA.
 - [[EANN](https://link.springer.com/chapter/10.1007/978-3-031-08223-8_35)] A Robust, Quantization-Aware Training Method for Photonic Neural Networks.
-- [[arxiv](https://arxiv.org/pdf/2206.07527.pdf)] QONNX: Representing Arbitrary-Precision Quantized Neural Networks.
-- [[arxiv](https://arxiv.org/pdf/2206.07741.pdf)] Edge Inference with Fully Differentiable Quantized Mixed Precision Neural Networks.
+- [[arXiv](https://arxiv.org/pdf/2206.07527.pdf)] QONNX: Representing Arbitrary-Precision Quantized Neural Networks.
+- [[arXiv](https://arxiv.org/pdf/2206.07741.pdf)] Edge Inference with Fully Differentiable Quantized Mixed Precision Neural Networks.
 - [[ITSM](https://ieeexplore.ieee.org/abstract/document/9827546)] Edge–Artificial Intelligence-Powered Parking Surveillance With Quantized Neural Networks.
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf)] Mr.BiQ: Post-Training Non-Uniform Quantization based on Minimizing the Reconstruction Error.
 - [[Intelligent Automation & Soft Computing](https://web.p.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10798587&AN=155230773&h=buFz%2f8gWWhfyGU%2btyHURhybWlmqZvGCIyITNuefG%2bIwBHoSqNwo4CVrCT7hsuZbtZ%2brDTVnLfGgNR6EX8e6%2fGg%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d10798587%26AN%3d155230773)] A Resource-Efficient Convolutional Neural Network Accelerator Using Fine-Grained Logarithmic Quantization.
@@ -383,11 +420,11 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[AAAI]()] Training Binary Neural Network without Batch Normalization for Image Super-Resolution. [**`bnn`**]
 - [[AAAI]()] SA-BNN: State-­Aware Binary Neural Network. [**`bnn`**]
 - [[ACL](https://aclanthology.org/2021.findings-acl.363)] On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers. [__`qnn`__]
-- [[arxiv](https://arxiv.org/abs/1911.07346)] Any-Precision Deep Neural Networks. [__`mixed`__] [[torch](https://github.com/SHI-Labs/Any-Precision-DNNs)]
-- [[arxiv](http://arxiv.org/abs/2103.12369)] ReCU: Reviving the Dead Weights in Binary Neural Networks. [**`bnn`**] [[torch](https://github.com/z-hXu/ReCU)]
-- [[arxiv](https://arxiv.org/abs/2106.14156)] Post-Training Quantization for Vision Transformer. [**`qnn`**]
-- [[arxiv](http://arxiv.org/abs/2103.13630)] A Survey of Quantization Methods for Efficient Neural Network Inference.
-- [[arxiv](https://arxiv.org/pdf/2106.08295.pdf)] A White Paper on Neural Network Quantization.
+- [[arXiv](https://arxiv.org/abs/1911.07346)] Any-Precision Deep Neural Networks. [__`mixed`__] [[torch](https://github.com/SHI-Labs/Any-Precision-DNNs)]
+- [[arXiv](http://arxiv.org/abs/2103.12369)] ReCU: Reviving the Dead Weights in Binary Neural Networks. [**`bnn`**] [[torch](https://github.com/z-hXu/ReCU)]
+- [[arXiv](https://arxiv.org/abs/2106.14156)] Post-Training Quantization for Vision Transformer. [**`qnn`**]
+- [[arXiv](http://arxiv.org/abs/2103.13630)] A Survey of Quantization Methods for Efficient Neural Network Inference.
+- [[arXiv](https://arxiv.org/pdf/2106.08295.pdf)] A White Paper on Neural Network Quantization.
 
 ### 2020
 
@@ -464,16 +501,16 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[IEEE TCS.II](https://ieeexplore.ieee.org/document/9144282/)] A Resource-Efficient Inference Accelerator for Binary Convolutional Neural Networks. [**`hardware`**] <!--citation 1-->
 - [[IEEE TCS.I](https://arxiv.org/pdf/2003.12558.pdf)] IMAC: In-Memory Multi-Bit Multiplication and ACcumulation in 6T SRAM Array. [**`qnn`**] <!--citation 3-->
 - [[IEEE Trans. Electron Devices](https://ieeexplore.ieee.org/document/9112690)] Design of High Robustness BNN Inference Accelerator Based on Binary Memristors. [**`bnn`**] [**`hardware`**] <!--citation 0-->
-- [[arxiv](https://arxiv.org/abs/2004.07320)] Training with Quantization Noise for Extreme Model Compression. [**`qnn`**] [[torch](https://github.com/pytorch/fairseq/tree/master/examples/quant_noise)]
-- [[arxiv](https://arxiv.org/pdf/2004.11147.pdf)] Binarized Graph Neural Network. [**`bnn`**] <!--citation 0-->
-- [[arxiv](https://arxiv.org/pdf/1909.09139.pdf)] How Does Batch Normalization Help Binary Training? [**`bnn`**] <!--citation 5-->
-- [[arxiv](https://arxiv.org/pdf/2007.05223.pdf)] Distillation Guided Residual Learning for Binary Convolutional Neural Networks. [**`bnn`**] <!--citation 1-->
-- [[arxiv](https://arxiv.org/abs/2006.16578)] Accelerating Binarized Neural Networks via Bit-Tensor-Cores in Turing GPUs. [**`bnn`**] [[code](https://github.com/pnnl/TCBNN)] <!--citation 1-->
-- [[arxiv](https://arxiv.org/abs/2001.05936)] MeliusNet: Can Binary Neural Networks Achieve MobileNet-level Accuracy? [**`bnn`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:] <!--citation 13-->
-- [[arxiv](https://arxiv.org/pdf/2001.01091.pdf)] RPR: Random Partition Relaxation for Training; Binary and Ternary Weight Neural Networks. [**`bnn`**] [**`qnn`**] <!--citation 3-->
+- [[arXiv](https://arxiv.org/abs/2004.07320)] Training with Quantization Noise for Extreme Model Compression. [**`qnn`**] [[torch](https://github.com/pytorch/fairseq/tree/master/examples/quant_noise)]
+- [[arXiv](https://arxiv.org/pdf/2004.11147.pdf)] Binarized Graph Neural Network. [**`bnn`**] <!--citation 0-->
+- [[arXiv](https://arxiv.org/pdf/1909.09139.pdf)] How Does Batch Normalization Help Binary Training? [**`bnn`**] <!--citation 5-->
+- [[arXiv](https://arxiv.org/pdf/2007.05223.pdf)] Distillation Guided Residual Learning for Binary Convolutional Neural Networks. [**`bnn`**] <!--citation 1-->
+- [[arXiv](https://arxiv.org/abs/2006.16578)] Accelerating Binarized Neural Networks via Bit-Tensor-Cores in Turing GPUs. [**`bnn`**] [[code](https://github.com/pnnl/TCBNN)] <!--citation 1-->
+- [[arXiv](https://arxiv.org/abs/2001.05936)] MeliusNet: Can Binary Neural Networks Achieve MobileNet-level Accuracy? [**`bnn`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:] <!--citation 13-->
+- [[arXiv](https://arxiv.org/pdf/2001.01091.pdf)] RPR: Random Partition Relaxation for Training; Binary and Ternary Weight Neural Networks. [**`bnn`**] [**`qnn`**] <!--citation 3-->
 - [[paper](https://www.researchgate.net/publication/343568789_Towards_Lossless_Binary_Convolutional_Neural_Networks_Using_Piecewise_Approximation)] Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation. [**`bnn`**] <!--citation 2-->
-- [[arxiv](https://arxiv.org/abs/2006.07522)] Understanding Learning Dynamics of Binary Neural Networks via Information Bottleneck. [**`bnn`**] <!--citation 0-->
-- [[arxiv](https://arxiv.org/abs/2012.15701)] BinaryBERT: Pushing the Limit of BERT Quantization. [**`bnn`**] [**`nlp`**]
+- [[arXiv](https://arxiv.org/abs/2006.07522)] Understanding Learning Dynamics of Binary Neural Networks via Information Bottleneck. [**`bnn`**] <!--citation 0-->
+- [[arXiv](https://arxiv.org/abs/2012.15701)] BinaryBERT: Pushing the Limit of BERT Quantization. [**`bnn`**] [**`nlp`**]
 - [[ECCV](http://arxiv.org/abs/2003.01711)] BATS: Binary ArchitecTure Search. [**`bnn`**]
 
 ### 2019
@@ -534,11 +571,11 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[IEEE TCS.I](https://ieeexplore.ieee.org/abstract/document/8643565)] Recursive Binary Neural Network Training Model for Efficient Usage of On-Chip Memory. [**`bnn`**]
 - [[VLSI-SoC](https://ieeexplore.ieee.org/document/8920343/)] A Product Engine for Energy-Efficient Execution of Binary Neural Networks Using Resistive Memories. [**`bnn`**] [**`hardware`**]
 - [[paper](https://openreview.net/pdf?id=SJfHg2A5tQ)] [43:fire:] BNN+: Improved Binary Network Training. [**`bnn`**]
-- [[arxiv](http://arxiv.org/abs/1902.00730)] Self-Binarizing Networks. [**`bnn`**]
-- [[arxiv](https://arxiv.org/abs/1912.12607)] Towards Unified INT8 Training for Convolutional Neural Network. [**`qnn`**]
-- [[arxiv](http://arxiv.org/abs/1908.05858)] daBNN: A Super Fast Inference Framework for Binary Neural Networks on ARM devices. [**`bnn`**] [**`hardware`**] [[code](https://github.com/JDAI-CV/dabnn)]
-- [[arxiv](https://arxiv.org/abs/1911.12491)] QKD: Quantization-aware Knowledge Distillation. [**`qnn`**]
-- [[arxiv](https://arxiv.org/abs/1812.00090)] [59:fire:] Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search. [**`qnn`**]
+- [[arXiv](http://arxiv.org/abs/1902.00730)] Self-Binarizing Networks. [**`bnn`**]
+- [[arXiv](https://arxiv.org/abs/1912.12607)] Towards Unified INT8 Training for Convolutional Neural Network. [**`qnn`**]
+- [[arXiv](http://arxiv.org/abs/1908.05858)] daBNN: A Super Fast Inference Framework for Binary Neural Networks on ARM devices. [**`bnn`**] [**`hardware`**] [[code](https://github.com/JDAI-CV/dabnn)]
+- [[arXiv](https://arxiv.org/abs/1911.12491)] QKD: Quantization-aware Knowledge Distillation. [**`qnn`**]
+- [[arXiv](https://arxiv.org/abs/1812.00090)] [59:fire:] Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search. [**`qnn`**]
 
 ### 2018
 
@@ -579,8 +616,8 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[TCAD](https://ieeexplore.ieee.org/document/8412533/)] XNOR Neural Engine: A Hardware Accelerator IP for 21.6-fJ/op Binary Neural Network Inference. [**`hardware`**]
 - [[TRETS](http://arxiv.org/abs/1809.04570)] [50:fire:] FINN-R: An End-to-End Deep-Learning Framework for Fast Exploration of Quantized Neural Networks. [**`qnn`**]
 - [[TVLSI](http://ieeexplore.ieee.org/document/8103902/)] An Energy-Efficient Architecture for Binary Weight Convolutional Neural Networks. [**`bnn`**]
-- [[arxiv](https://arxiv.org/abs/1812.01965)] Training Competitive Binary Neural Networks from Scratch. [**`bnn`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:]
-- [[arxiv](https://arxiv.org/abs/1811.09426)] Joint Neural Architecture Search and Quantization. [**`qnn`**] [[torch](https://github.com/yukang2017/NAS-quantization)]
+- [[arXiv](https://arxiv.org/abs/1812.01965)] Training Competitive Binary Neural Networks from Scratch. [**`bnn`**] [[code](https://github.com/hpi-xnor/BMXNet-v2)] [192:star:]
+- [[arXiv](https://arxiv.org/abs/1811.09426)] Joint Neural Architecture Search and Quantization. [**`qnn`**] [[torch](https://github.com/yukang2017/NAS-quantization)]
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Explicit_Loss-Error-Aware_Quantization_CVPR_2018_paper.html)] Explicit loss-error-aware quantization for low-bit deep neural networks. [**`qnn`**]
 
 ### 2017
@@ -602,8 +639,8 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[NeurIPS](https://arxiv.org/abs/1711.11294)] [293:fire:] Towards Accurate Binary Convolutional Neural Network. [**`bnn`**] [[tensorflow](https://github.com/layog/Accurate-Binary-Convolution-Network)]
 - [[Neurocomputing](http://www.doc.ic.ac.uk/~wl/papers/17/neuro17sl0.pdf)] [126:fire:] FP-BNN: Binarized neural network on FPGA. [**`hardware`**]
 - [[MWSCAS](http://ieeexplore.ieee.org/document/8052915/)] Deep learning binary neural network on an FPGA. [**`hardware`**] [**`bnn`**]
-- [[arxiv](https://arxiv.org/pdf/1705.01462.pdf)] [71:fire:] Ternary Neural Networks with Fine-Grained Quantization. [**`qnn`**]
-- [[arxiv](https://arxiv.org/abs/1706.02393)] ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks. [**`qnn`**] [[code](https://github.com/gudovskiy/ShiftCNN)] [53:star:]
+- [[arXiv](https://arxiv.org/pdf/1705.01462.pdf)] [71:fire:] Ternary Neural Networks with Fine-Grained Quantization. [**`qnn`**]
+- [[arXiv](https://arxiv.org/abs/1706.02393)] ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks. [**`qnn`**] [[code](https://github.com/gudovskiy/ShiftCNN)] [53:star:]
 
 ### 2016
 
@@ -618,4 +655,4 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 - [[ICML](https://arxiv.org/abs/1601.06071)] [191:fire:] Bitwise Neural Networks. [**`bnn`**]
 - [[NeurIPS](https://arxiv.org/abs/1511.00363)] [1.8k:fire:] BinaryConnect: Training Deep Neural Networks with binary weights during propagations. [**`bnn`**] [[code](https://github.com/MatthieuCourbariaux/BinaryConnect)] [330:star:]
-- [[arxiv](https://arxiv.org/abs/1511.06488)] Resiliency of Deep Neural Networks under quantizations. [**`qnn`**]
+- [[arXiv](https://arxiv.org/abs/1511.06488)] Resiliency of Deep Neural Networks under quantizations. [**`qnn`**]
