@@ -111,6 +111,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ### 2024
 
+- [[arXiv](https://arxiv.org/abs/2311.12359)] Post-Training Quantization with Low-precision Minifloats and Integers on FPGAs [[code](https://github.com/Xilinx/brevitas/tree/dev/src/brevitas_examples/imagenet_classification/ptq)][__`hardware`__]
 - [[arXiv](https://arxiv.org/abs/2404.14047)] How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study [[code](https://github.com/Macaronlin/LLaMA3-Quantization)]![GitHub Repo stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization) [[HuggingFace](https://huggingface.co/LLMQ)]
 - [[arXiv](https://arxiv.org/abs/2402.05445)] Accurate LoRA-Finetuning Quantization of LLMs via Information Retention [[code](https://github.com/htqin/IR-QLoRA)]![GitHub Repo stars](https://img.shields.io/github/stars/htqin/IR-QLoRA)
 - [[arXiv](https://arxiv.org/abs/2402.04291)] BiLLM: Pushing the Limit of Post-Training Quantization for LLMs [[code](https://github.com/Aaronhuang-778/BiLLM)]![GitHub Repo stars](https://img.shields.io/github/stars/Aaronhuang-778/BiLLM)
@@ -272,7 +273,6 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arXiv](https://arxiv.org/abs/2311.01305)] AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models
 - [[arXiv](https://arxiv.org/abs/2311.01792)] AFPQ: Asymmetric Floating Point Quantization for LLMs [[code](https://github.com/zhangsichengsjtu/AFPQ)]
 - [[arXiv](https://arxiv.org/abs/2311.18159)] Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization [[Compact3D](https://github.com/UCDvision/compact3d)]
-- [[arXiv]((https://arxiv.org/abs/2311.12359))] Post-Training Quantization with Low-precision Minifloats and Integers on FPGAs [[code](https://github.com/Xilinx/brevitas/tree/dev/src/brevitas_examples/imagenet_classification/ptq)]
 
 ### 2022
 
