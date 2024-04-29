@@ -111,7 +111,6 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ### 2024
 
-- [[arXiv](https://arxiv.org/abs/2311.12359)] Post-Training Quantization with Low-precision Minifloats and Integers on FPGAs [[code](https://github.com/Xilinx/brevitas/tree/dev/src/brevitas_examples/imagenet_classification/ptq)][__`hardware`__]
 - [[arXiv](https://arxiv.org/abs/2404.14047)] How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study [[code](https://github.com/Macaronlin/LLaMA3-Quantization)]![GitHub Repo stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization) [[HuggingFace](https://huggingface.co/LLMQ)]
 - [[arXiv](https://arxiv.org/abs/2402.05445)] Accurate LoRA-Finetuning Quantization of LLMs via Information Retention [[code](https://github.com/htqin/IR-QLoRA)]![GitHub Repo stars](https://img.shields.io/github/stars/htqin/IR-QLoRA)
 - [[arXiv](https://arxiv.org/abs/2402.04291)] BiLLM: Pushing the Limit of Post-Training Quantization for LLMs [[code](https://github.com/Aaronhuang-778/BiLLM)]![GitHub Repo stars](https://img.shields.io/github/stars/Aaronhuang-778/BiLLM)
@@ -119,6 +118,7 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 - [[arXiv](https://arxiv.org/abs/2402.11960)] DB-LLM: Accurate Dual-Binarization for Efficient LLMs
 - [[arXiv](https://arxiv.org/abs/2404.05662)] BinaryDM: Towards Accurate Binarization of Diffusion Model [[code](https://github.com/Xingyu-Zheng/BinaryDM)]![GitHub Repo stars](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM)
 - [[arXiv](https://arxiv.org/abs/2309.01945)] OHQ: On-chip Hardware-aware Quantization
+- [[arXiv](https://arxiv.org/abs/2311.12359)] Post-Training Quantization with Low-precision Minifloats and Integers on FPGAs [[code](https://github.com/Xilinx/brevitas/tree/dev/src/brevitas_examples/imagenet_classification/ptq)][__`hardware`__]
 - [[arXiv](https://arxiv.org/abs/2401.06118)] Extreme Compression of Large Language Models via Additive Quantization
 - [[arXiv](https://arxiv.org/abs/2401.07159)] Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
 - [[arXiv](https://arxiv.org/abs/2401.14112)] FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design
